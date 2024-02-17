@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 ## Photonic Weyl Points
-<img align="left" img src="./images/profile.png" width="300">
-<img align="left" img src="images/profile.png" width="300">
+<img align="left" img src="/images/profile.png" width="300" />
 Weyl points are band degeneracies that occur in the momentum space of 3D periodic materials and are enforced by an integer topological charge known as the Chern number. Weyl materials are associated with a range of interesting physical phenomena directly connected to their non-trivial topological charge. For example, due to the bulk-boundary correspondence principle, these materials exhibit unique surface states whose dispersion does not span the entire Brillouin zone but instead terminates at Weyl points with opposite charges. Weyl points can carry arbitrary integer charges, and those with a charge greater than one are known to occur in the presence of certain non-symmorphic symmetries found in chiral structures.
 
 In the photonic domain, Weyl points may enable the creation of large-volume single-mode lasing devices. Furthermore, they can mediate unique long-range interactions between embedded quantum emitters. However, due to fabrication challenges, experimental realization of photonic Weyl points at near-IR frequencies has remained elusive.
