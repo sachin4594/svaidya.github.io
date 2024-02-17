@@ -4,15 +4,15 @@ title: "Contact"
 author_profile: true
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/MIT.jpg" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/MIT.jpg" width="400" />
 
-### Email
+## Email
 
 University: svaidya1 [at] mit.edu\
 Personal: sachin4594 [at] gmail.com
 
 
-### Office
+## Office
 6C-417\
 Massachusetts Institute of Technology\
 77 Massachusetts Avenue\
