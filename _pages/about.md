@@ -22,8 +22,10 @@ arXiv:2307.15701 (2023)
 
 [Direct observation of Landau levels in silicon photonic crystals](https://arxiv.org/abs/2306.04011)\
 Maria Barsukova*, Fabien Grisé*, Zeyu Zhang*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
-arXiv:2306.04011 (2023) - to appear in Nature Photonics
+arXiv:2306.04011 (2023) - *to appear in Nature Photonics*
 
 [Response to polarization and weak topology in Chern insulators](https://arxiv.org/abs/2304.13118)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
-arXiv:2304.13118 (2023) - to appear in Physical Review Letters
+arXiv:2304.13118 (2023) - *to appear in Physical Review Letters*
+
+[**See all publications**](/publications/)
