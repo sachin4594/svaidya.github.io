@@ -12,8 +12,8 @@ title                    : "Sachin Vaidya"
 title_separator          : "-"
 name                     : &name "Sachin Vaidya"
 description              : &description "personal description"
-#url                      : https://sachin4594.github.io/svaidya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : sachinvaidya.com
+url                      : https://sachin4594.github.io/svaidya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : sachinvaidya.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sachin4594/svaidya.github.io"
 
