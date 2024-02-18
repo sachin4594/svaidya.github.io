@@ -10,9 +10,6 @@ I am currently a postdoctoral associate at the [Massachusetts Institute of Techn
 
 My research is both theoretical and experimental in nature and focuses broadly on photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also interested in all things nanophotonics, topological matter, and artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-
 ## Recent Publications
 [Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485)\
 André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
