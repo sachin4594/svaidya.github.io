@@ -12,3 +12,10 @@ My research is both theoretical and experimental in nature and focuses broadly o
 
 
 ## Recent Publications
+[Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485)\
+André Grossi e Fonseca*, Sachin Vaidya*, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+arXiv:2310.18485 (2023)
+
+[Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
+Ali Ghorashi, Sachin Vaidya, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
+arXiv:2307.15701 (2023) 
