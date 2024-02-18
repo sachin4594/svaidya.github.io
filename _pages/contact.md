@@ -3,8 +3,7 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-
-<img align="right" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/MIT.jpg" width="400" style="margin: 20px"/>
+<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/MIT.jpg" width="400" style="margin: 20px"/>
 
 ## Email
 
@@ -16,4 +15,4 @@ Personal: sachin4594 [at] gmail.com
 6C-417\
 Massachusetts Institute of Technology\
 77 Massachusetts Avenue\
-Cambrigde, MA 02139\
+Cambrigde, MA 02139
