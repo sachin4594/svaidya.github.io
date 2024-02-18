@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/MIT.jpg" width="400" style="margin: 20px"/>
+<img align="right" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/MIT.jpg" width="400" style="margin: 20px"/>
 
 ## Email
 
