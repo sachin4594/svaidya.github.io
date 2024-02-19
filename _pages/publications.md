@@ -54,7 +54,7 @@ Physical Review Letters (2021)
 
 [Observation of a Charge-2 Photonic Weyl Point in the Infrared](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.253902)\
 **Sachin Vaidya\***, Jiho Noh\*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman\
-Physical Review Letters (2020) - *Editors' Suggestion*
+Physical Review Letters (2020) - *Editors' Suggestion*, [Press](https://pro-physik.de/nachrichten/weyl-punkte-im-infrarotlicht)
 
 <div style="text-align: right"> * denotes equal contribution </div>
 
