@@ -52,5 +52,3 @@ In this work, we propose a new method for trapping light within nanocavities emb
 
 We also showed the existence of bound states in the continuum of a photonic crystal slab that lie in a "symmetry bandgap" of  a 3D photonic crystal environment within which the slab is embedded.
 </div>
-
-<button name="button" onclick="http://www.google.com">Click me</button>
