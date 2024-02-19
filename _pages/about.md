@@ -11,7 +11,7 @@ I am currently a postdoctoral associate at the [Massachusetts Institute of Techn
 
 My research is both theoretical and experimental in nature and focuses broadly on photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also interested in all things nanophotonics, topological matter, and artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
-My CV can be found [here](http://academicpages.github.io/files/paper1.pdf).
+My CV can be found [here](https://sachin4594.github.io/svaidya.github.io/files/Sachin_Vaidya_CV_Feb_2024.pdf).
 
 ## Recent Publications
 [Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485)\
