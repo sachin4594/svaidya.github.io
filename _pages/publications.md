@@ -59,4 +59,34 @@ Physical Review Letters (2020) - *Editors' Suggestion*
 <div style="text-align: right"> * denotes equal contribution </div>
 
 ## Conferences
+Photonic Weyl points on non-orientable Brillouin zones\
+Sachin Vaidya, André Grossi Fonseca, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+CLEO (2024) | Charlotte, North Carolina (upcoming)
 
+[Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
+Sachin Vaidya, André Grossi Fonseca, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+APS March Meeting (2024) | Minneapolis, Minnesota (upcoming)
+
+[Localization and reentrant delocalization transitions in one-dimensional photonic quasicrystals](https://meetings.aps.org/Meeting/MAR24/Session/T54.5)\
+Sachin Vaidya, Christina Jörg, Kyle Linn, Megan Goh, Mikael Rechtsman\
+APS March Meeting (2024) | Minneapolis, Minnesota (upcoming)
+
+[Polarization-induced topological edge and corner States in Chern photonic crystals](https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FM1B.3)\
+Sachin Vaidya, Mikael C. Rechtsman and Wladimir A. Benalcazar\
+CLEO (2023) | San Jose, California
+
+[Photonic Chern and Weyl systems in multilayer structures via dimensional extension](https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FF1D.4)\
+Sachin Vaidya, Christina Jorg, Megan Goh, Kyle Linn and Mikael C. Rechtsman\
+CLEO (2023) | San Jose, California
+
+[Polarization and corner charge in Chern insulators](https://meetings.aps.org/Meeting/MAR23/Session/N19.3)\
+Sachin Vaidya, Mikael C. Rechtsman and Wladimir A. Benalcazar\
+APS March Meeting (2023) | Las Vegas, Nevada
+
+[Point-defect localized photonic bound states in the continuum](https://meetings.aps.org/Meeting/DAMOP21/Session/S09.4)\
+Sachin Vaidya, Wladimir A. Benalcazar, Alexander Cerjan and Mikael C. Rechtsman\
+DAMOP (2021) | Virtual Conference
+
+[Observation of charge-2 photonic Weyl point](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2020-FTh1B.2)\
+Sachin Vaidya, Jiho Noh, Alexander Cerjan and Mikael C. Rechtsman\
+CLEO (2020) | Virtual Conference
