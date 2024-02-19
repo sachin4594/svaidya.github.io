@@ -59,7 +59,7 @@ Physical Review Letters (2020) - *Editors' Suggestion*
 <div style="text-align: right"> * denotes equal contribution </div>
 
 ## Conferences
-Photonic Weyl points on non-orientable Brillouin zones\
+[Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
 Sachin Vaidya, André Grossi Fonseca, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
 CLEO (2024) | Charlotte, North Carolina (upcoming)
 
