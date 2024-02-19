@@ -16,7 +16,7 @@ In the photonic domain, Weyl points may enable the creation of large-volume sing
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.253902">We experimentally observed</a> charge-2 Weyl points at mid- and near-infrared wavelengths in a chiral woodpile photonic crystal. This photonic crystal was micro-printed using a low refractive index material via two-photon polymerization and was characterized using FTIR spectroscopy. Additionally, <a href="https://onlinelibrary.wiley.com/doi/10.1002/lpor.202100452">we experimentally demonstrated</a> that when the protective symmetry is broken, a charge-2 Weyl point splits into charge-1 Weyl points. Importantly, this splitting can be restricted to high-symmetry directions in momentum space, resulting in unprecedented control over the location of Weyl points.
 <br/><br/>
 
-Recently, we also explored the consequences of placing Weyl points on non-orientable manifolds.
+Recently, <a href="https://arxiv.org/abs/2310.18485">we also explored</a> the extent to which the topology and chirality of Weyl points are meaningful when placed on non-orientable momentum-space manifolds.
 </div>
 
 ## Theory of Topological Insulators
