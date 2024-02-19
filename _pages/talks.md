@@ -37,7 +37,7 @@ Novel topological phases in photonic crystals\
 Office of Naval Research (ONR) MURI Review (2023) | Los Angeles, California
 
 Topological photonic crystals in one, two and three dimensions\
-MIT Seminar (2022) | Cambridge, Massachusetts - *invited*
+MIT Seminar (2022) | Cambridge, Massachusetts - **invited**
 
 Quantized polarization and fractional corner charge in Chern insulators\
 Office of Naval Research (ONR) MURI Seminar (2022) | Virtual
