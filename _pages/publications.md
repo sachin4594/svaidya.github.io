@@ -15,7 +15,7 @@ arXiv:2310.18485 (2023)
 
 [Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
-arXiv:2307.15701 (2023) 
+arXiv:2307.15701 (2023)
 
 [Direct observation of Landau levels in silicon photonic crystals](https://arxiv.org/abs/2306.04011)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
