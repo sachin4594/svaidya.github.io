@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a postdoctoral associate at the [Massachusetts Institute of Technology (MIT)](https://physics.mit.edu/) with [Prof. Marin Soljačić](https://marin-rle.mit.edu/). I earned my PhD in Physics from [Penn State](https://science.psu.edu/physics) in 2023, where I was a part of [Prof. Mikael C. Rechtsman's](https://leptos.psu.edu/) research group. 
 
-I use theoretical, computational, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also interested in all things nanophotonics, topological matter, and artifical intelligence (AI) for physics. Read more about my research [here](research/).
+I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also interested in all things nanophotonics, topological matter, and artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
 My CV can be found [here](https://sachin4594.github.io/svaidya.github.io/files/Sachin_Vaidya_CV_Feb_2024.pdf).
 
