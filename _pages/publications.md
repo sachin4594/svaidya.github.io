@@ -21,13 +21,13 @@ arXiv:2307.15701 (2023)
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
 arXiv:2306.04011 (2023) - *to appear in Nature Photonics*
 
-[Response to polarization and weak topology in Chern insulators](https://arxiv.org/abs/2304.13118)\
-**Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
-arXiv:2304.13118 (2023) - *to appear in Physical Review Letters*
-
 <div style="text-align: right"> * denotes equal contribution </div>
 
 ## Journal Publications
+[Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
+**Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
+Physical Review Letters (2024)
+
 [Reentrant delocalization transition in one-dimensional photonic quasicrystals](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170)\
 **Sachin Vaidya\***, Christina Jörg\*, Kyle Linn, Megan Goh and Mikael C. Rechtsman\
 Physical Review Research (2023)
