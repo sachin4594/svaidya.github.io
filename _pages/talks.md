@@ -9,10 +9,10 @@ author_profile: true
 CLEO (2024) | Charlotte, North Carolina (upcoming)
 
 [Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
-APS March Meeting (2024) | Minneapolis, Minnesota (upcoming)
+APS March Meeting (2024) | Minneapolis, Minnesota
 
 [Localization and reentrant delocalization transitions in one-dimensional photonic quasicrystals](https://meetings.aps.org/Meeting/MAR24/Session/T54.5)\
-APS March Meeting (2024) | Minneapolis, Minnesota (upcoming)
+APS March Meeting (2024) | Minneapolis, Minnesota
 
 [Polarization-induced topological edge and corner States in Chern photonic crystals](https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FM1B.3)\
 CLEO (2023) | San Jose, California
