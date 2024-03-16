@@ -26,8 +26,8 @@ arXiv:2307.15701 (2023)
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
 arXiv:2306.04011 (2023) - *to appear in Nature Photonics*
 
-[Response to polarization and weak topology in Chern insulators](https://arxiv.org/abs/2304.13118)\
+[Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
-arXiv:2304.13118 (2023) - *to appear in Physical Review Letters*
+Physical Review Letters (2024)
 
 [See all publications](/publications/)
