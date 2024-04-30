@@ -30,6 +30,9 @@ DAMOP (2021) | Virtual Conference
 CLEO (2020) | Virtual Conference
 
 ## Other Talks
+Advances in topological band theory\
+Office of Naval Research (ONR) MURI Review (2024) | Philadelphia, Pennsylvania
+
 Symmetry-indicator invariants: bridging the gap in topological band theory\
 MIT CMT Journal Club (2023) | Cambridge, Massachusetts
 
