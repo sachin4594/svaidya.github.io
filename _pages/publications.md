@@ -23,7 +23,7 @@ arXiv:2307.15701 (2023)
 
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
-Nature Photonics (2024)
+Nature Photonics (2024) - [*PSU News*](https://science.psu.edu/news/Rechtsman4-2024)
 
 [Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
@@ -55,6 +55,6 @@ Physical Review Letters (2021)
 
 [Observation of a Charge-2 Photonic Weyl Point in the Infrared](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.253902)\
 **Sachin Vaidya\***, Jiho Noh\*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman\
-Physical Review Letters (2020) - *Editors' Suggestion*, [Press](https://pro-physik.de/nachrichten/weyl-punkte-im-infrarotlicht)
+Physical Review Letters (2020) - *Editors' Suggestion*, [*Press*](https://pro-physik.de/nachrichten/weyl-punkte-im-infrarotlicht)
 
 <div style="text-align: right"> * denotes equal contribution </div>
