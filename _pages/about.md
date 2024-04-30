@@ -14,20 +14,20 @@ I use computational, theoretical, and experimental approaches to study photonic 
 My CV can be found [here](https://sachin4594.github.io/svaidya.github.io/files/Sachin_Vaidya_CV.pdf).
 
 ## Recent Publications
-[Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485)\
-André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
-arXiv:2310.18485 (2023)
-
-[Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
-Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
-arXiv:2307.15701 (2023) 
-
-[Direct observation of Landau levels in silicon photonic crystals](https://arxiv.org/abs/2306.04011)\
+[Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
-arXiv:2306.04011 (2023) - *to appear in Nature Photonics*
+Nature Photonics (2024)
 
 [Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
 Physical Review Letters (2024)
+
+[Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485)\
+André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+arXiv:2310.18485 (2023) - *to appear in Physical Review Letters*
+
+[Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
+Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
+arXiv:2307.15701 (2023) 
 
 [See all publications](/publications/)
