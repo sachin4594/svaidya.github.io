@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
+Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
+arXiv:2404.19756 (2024)
+
 [Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485) \
 André Grossi Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
 arXiv:2310.18485 (2023) - *To appear in Physical Review Letters*
