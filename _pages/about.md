@@ -14,6 +14,10 @@ I use computational, theoretical, and experimental approaches to study photonic 
 My CV can be found [here](https://sachin4594.github.io/svaidya.github.io/files/Sachin_Vaidya_CV.pdf).
 
 ## Recent Publications
+[KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
+Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
+arXiv:2404.19756 (2024)
+
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
 Nature Photonics (2024)
