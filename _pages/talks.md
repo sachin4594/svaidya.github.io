@@ -6,7 +6,7 @@ author_profile: true
 
 ## Conferences
 [Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
-CLEO (2024) | Charlotte, North Carolina (upcoming)
+CLEO (2024) | Charlotte, North Carolina
 
 [Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
 APS March Meeting (2024) | Minneapolis, Minnesota
