@@ -19,7 +19,7 @@ arXiv:2310.18485 (2023) - *To appear in Physical Review Letters*
 
 [Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
-arXiv:2307.15701 (2023)
+arXiv:2307.15701 (2023) - *To appear in Physical Review Letters*
 
 <div style="text-align: right"> * denotes equal contribution </div>
 
