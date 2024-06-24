@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Conferences
+[Interpretable AI for physics and photonics applications](https://spie.org/pwo/conferencedetails/ai-and-optical-data-sciences?webstatus=c) -- _upcoming_\
+AI and Optical Data Sciences Conference (SPIE Photonics West) (2025) | San Francisco, California -- **invited**
+
 [Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
 CLEO (2024) | Charlotte, North Carolina
 
@@ -30,6 +33,9 @@ DAMOP (2021) | Virtual Conference
 CLEO (2020) | Virtual Conference
 
 ## Other Talks
+Advances in topological insulators and semimetals\
+Stanford Seminar (2024) | Stanford, California - **invited**
+
 Development of advanced nanophotonic scintillators\
 DARPA PhENOM Kickoff (2024) | Virtual
 
