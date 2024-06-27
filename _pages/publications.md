@@ -13,10 +13,6 @@ author_profile: true
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
 arXiv:2404.19756 (2024) - [*Scientific American article*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/)
 
-[Weyl points on non-orientable manifolds](https://arxiv.org/abs/2310.18485) \
-André Grossi Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
-arXiv:2310.18485 (2023) - *To appear in Physical Review Letters*
-
 [Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
 arXiv:2307.15701 (2023) - *To appear in Physical Review Letters*
@@ -24,6 +20,9 @@ arXiv:2307.15701 (2023) - *To appear in Physical Review Letters*
 <div style="text-align: right"> * denotes equal contribution </div>
 
 ## Journal Publications
+[Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
+André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+Physical Review Letters (2024)
 
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
