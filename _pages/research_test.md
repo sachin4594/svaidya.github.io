@@ -27,6 +27,7 @@ In our recent work, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysR
 
 ### Topological phases on non-orientable manifolds
 
+---
 ## Nanophotonics
 Some key questions that inform my research:
 - How can we enhance light-matter interactions at the nanoscale to achieve strong coupling and efficient energy transfer?
