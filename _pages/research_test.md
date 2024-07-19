@@ -2,7 +2,6 @@
 Some key questions that inform my research:
 - How can we systematically classify different topological phases of matter, including topological insulators, superconductors, and semimetals?
 - What are the most general experimental signatures of topological phases and their photonic analogs?
-- How can we design and fabricate photonic structures that exhibit *useful* topological properties?
 
 ### Weyl points
 <details>
@@ -31,7 +30,6 @@ In our recent work, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysR
 </div></details>
 
 
-
 ### Topological phases on non-orientable manifolds
 <details>
 <summary>Read more</summary>
@@ -41,12 +39,15 @@ In our recent work, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysR
 
 # Nanophotonics
 Some key questions that inform my research:
-- How can we enhance light-matter interactions at the nanoscale to achieve strong coupling and efficient energy transfer?
-- What new functionalities can be achieved by combining different nanophotonic elements with conventional medical imaging techniques?
+- Can we achieve new ways of trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
+- What functionalities can be achieved by combining different nanophotonic elements with conventional medical imaging techniques?
 
 ### Nanophotonic Scintillators
 
 ### Bound States in the Continuum
+<details>
+<summary>Read more</summary>
+<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 Photonic crystals are lattices of dielectric materials, such as glasses or semiconductors, that enable fine control over the properties of light. They are known to possess band gaps, making them act as perfect mirrors for a range of frequencies. These band gaps have traditionally been utilized for trapping light to defects, creating one-dimensional waveguides and zero-dimensional nanocavities. However, the reliance on a band gap limits the choice of materials to those with a sufficiently high refractive index.
@@ -55,13 +56,24 @@ Photonic crystals are lattices of dielectric materials, such as glasses or semic
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.023605">We proposed</a> a new method for trapping light within nanocavities embedded in two-dimensional photonic crystals that lack band gaps. We demonstrated that it is possible to engineer the photonic crystal and nanocavity such that a symmetry mismatch with the photonic crystal's modes prohibits light within the cavity from leaking away. This state of light is an example of a "bound state in the continuum", which is a localized state that co-exists with a continuum of propagating states of the photonic crystal. Furthermore, we showed that such states can be utilized to create slow-light modes in complex photonic crystal fibers. Our work enables the construction of nanocavities within photonic crystals made of versatile, low-index materials like glasses and polymers.
 <br/><br/>
 </div>
+</details>
 
-# Quantum Optics
+# Classical and quantum nonlinear optics
 Some key questions that inform my research:
-- What new physical phenomena emerge from the interplay of topology, symmetry and interactions in quantum optical systems?
+- What new physical phenomena emerge from the interplay of topology, symmetry and interactions in nonlinear optical systems?
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
+<details>
+<summary>Read more</summary>
+<br>
+  empty
+</details>
 
 # Interpretable AI for physics
 Some key questions that inform my research:
 - How do we develop interpretable AI models that are closely aligned with scientific goals?
 - What does a future that employs AI for experiments look like?
+<details>
+<summary>Read more</summary>
+<br>
+  empty
+</details>
