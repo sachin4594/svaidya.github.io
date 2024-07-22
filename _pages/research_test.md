@@ -1,6 +1,6 @@
-The following are the central themes of my research. Each section outlines key questions that inform my reserach:
-
 # Topological Matter
+Topological insulators are a fascinating class of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property.
+
 Some key questions that inform my research:
 - How can we systematically classify different topological phases of matter, including topological insulators, superconductors, and semimetals?
 - What are the most general experimental signatures of topological phases and their photonic analogs?
@@ -71,6 +71,8 @@ Some key questions that inform my research:
 </details>
 
 # Interpretable AI for physics
+Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. In contrast, advancements in physics often rely on key insights derived from experimental observations or numerical data. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. 
+
 Some key questions that inform my research:
 - How do we develop interpretable AI models that are closely aligned with scientific goals?
 - What does a future that employs AI for experiments look like?
