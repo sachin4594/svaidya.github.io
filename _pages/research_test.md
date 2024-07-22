@@ -1,3 +1,5 @@
+The following are the central themes of my research. Each section outlines key questions that inform my reserach:
+
 # Topological Matter
 Some key questions that inform my research:
 - How can we systematically classify different topological phases of matter, including topological insulators, superconductors, and semimetals?
