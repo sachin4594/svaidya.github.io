@@ -53,8 +53,8 @@ Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical R
 The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions smaller than the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. Furthermore, nanophotonics holds promise for a wide range of applications, from telecommunications and information processing to sensing, imaging, and quantum computing.
 
 Some key questions that inform my research:
-- Can we find novel ways of trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
-- What functionalities can be achieved by combining different nanophotonic elements with conventional medical imaging techniques?
+- Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
+- What new functionalities can be achieved by combining nanophotonic elements with conventional medical imaging techniques?
 
 ### Bound States in the Continuum
 <details>
@@ -104,5 +104,7 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
-  empty
+I'm interested in developing and applying two distinct strategies for enhancing interpretability: (1) Encouraging sparsity in conventional multi-layer perceptrons (MPs) that leads to compact and highly interpretable networks, well-suited for discovering phenomenological laws and modularity in scientific tasks. (2) Replacing weights with with learnable activation functions makes it possible to extract symbolic expressions for various scientific problems.
+  
+This architecture, known as 'Kolmogorov-Arnold Networks (KANs)', significantly outperforms MLPs in both accuracy and interpretability. As an example, we apply KANs to a problem in condensed matter physics, showing that these networks, when trained on numerical data, can derive exact symbolic expressions for phase transition boundaries between metallic and insulating states in disordered quantum systems.
 </details>
