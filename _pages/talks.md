@@ -58,6 +58,9 @@ Office of Naval Research (ONR) MURI Review (2021) | Virtual
 Symmetry-indicator invariants: bridging the gap in topological band theory\
 MIT CMT Journal Club (2023) | Cambridge, Massachusetts
 
+Weyl points in 3D photonic crystals\
+Peter Eklund Award Finalist at Penn State (2023) | State College, Pennsylvania
+
 Weyl points and BICs in 3D micro-printed photonic crystals\
 Nanoscribe User Meeting (2021) | Virtual
 
