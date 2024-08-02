@@ -6,14 +6,13 @@ author_profile: true
 
 ## Invited talks
 [Interpretable AI for physics and photonics applications](https://spie.org/pwo/conferencedetails/ai-and-optical-data-sciences?webstatus=c) -- _upcoming_\
-AI and Optical Data Sciences Conference (SPIE Photonics West) (2025) | San Francisco, California -- **invited**
+AI and Optical Data Sciences Conference (SPIE Photonics West) (2025) | San Francisco, California
 
 Advances in topological insulators and semimetals\
-Group meeting of Prof. Shanhui Fan at Stanford University (2024) | Stanford, California - **invited**
+Group meeting of Prof. Shanhui Fan at Stanford University (2024) | Stanford, California
 
 Topological photonic crystals in one, two and three dimensions\
-Group meeting of Prof. Marin Soljačić at MIT (2022) | Cambridge, Massachusetts - **invited**
-
+Group meeting of Prof. Marin Soljačić at MIT (2022) | Cambridge, Massachusetts
 ## Contributed talks
 [Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
 CLEO (2024) | Charlotte, North Carolina
