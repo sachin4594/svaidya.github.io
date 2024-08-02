@@ -13,11 +13,9 @@ These are some key questions that inform my research:
 <div style="text-align: justify"> 
 In the last decade, many ideas from topological matter have been extended to other systems that host wave-like excitations (such as light propagating in photonic crystals or sound waves in acoustic metamaterials). I am interested in extending the theory of topological phases to photonic systems, and their finding their associated experimental signatures.
 <br/><br/>
-One part of my research has focussed on Weyl points. Weyl points are band degeneracies that occur in the momentum space of 3D periodic materials and are enforced by an integer topological charge known as the Chern number. Weyl materials are associated with a range of interesting physical phenomena directly connected to their non-trivial topological charge. For example, due to the bulk-boundary correspondence principle, these materials exhibit unique surface states whose dispersion does not span the entire Brillouin zone but instead terminates at Weyl points with opposite charges. Weyl points can carry arbitrary integer charges, and those with a charge greater than one are known to occur in the presence of certain non-symmorphic symmetries found in chiral structures.
+One part of my research has focussed on Weyl points. Weyl points are robust band degeneracies that occur in the momentum space of 3D periodic systems and are enforced by an integer topological charge known as the Chern number. In the photonic domain, Weyl points may enable the creation of large-volume single-mode lasing devices. Furthermore, they can mediate unique long-range interactions between embedded quantum emitters. However, due to fabrication challenges, experimental realization of photonic Weyl points at near-IR wavelengths has remained elusive. Our work on Weyl points addressed these challenges by employing a novel micro-printing technique to fabricate 3D photonic crystals that host Weyl points at mid- and near-infrared wavelengths [1, 2, 3].
 <br/><br/>
-In the photonic domain, Weyl points may enable the creation of large-volume single-mode lasing devices. Furthermore, they can mediate unique long-range interactions between embedded quantum emitters. However, due to fabrication challenges, experimental realization of photonic Weyl points at near-IR wavelengths has remained elusive. Our work on Weyl points addressed these challenges by employing a novel micro-printing technique to fabricate 3D photonic crystals that host charge-2 Weyl points at mid- and near-infrared wavelengths [1, 2]. Additionally, we experimentally demonstrated that when the protective symmetry is broken, a charge-2 Weyl point splits into charge-1 Weyl points [3]. Importantly, this splitting can be restricted to high-symmetry directions in momentum space, resulting in unprecedented control over these Weyl points.
-<br/><br/>
-In a more recent work, we developed a complete classification of topological phases in photonic crystals under crystalline symmetries and proposed a design strategy based on this classification [4].
+More recently, we developed a complete classification of topological phases in photonic crystals under crystalline symmetries and proposed a design strategy based on this classification [4]. We also quantified the prevalence of various important topological phases in two-dimensional photonic crystals [5]. 
 <br/><br/>
 
 **References:** <br/>
@@ -28,6 +26,8 @@ In a more recent work, we developed a complete classification of topological pha
 [3] Christina Jörg*, **Sachin Vaidya***, Jiho Noh, Alexander Cerjan, Shyam Augustine, Georg von Freymann and Mikael C. Rechtsman, Observation of quadratic (charge-2) Weyl point splitting in near-infrared photonic crystals, Laser & Photonics Reviews 16, 2100452 (2022)
 <br/><br/>
 [4] **Sachin Vaidya**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A.Benalcazar, Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
+<br/><br/>
+[5] Ali Ghorashi, **Sachin Vaidya**, Mikael C. Rechtsman, Wladimir A. Benalcazar, Marin Soljačić, and Thomas Christensen, Physical Review Letters 133, 056602 (2024)
 </details>
 
 
