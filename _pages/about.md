@@ -14,6 +14,10 @@ I use computational, theoretical, and experimental approaches to study photonic 
 My CV can be found [here](https://sachin4594.github.io/svaidya.github.io/files/Sachin_Vaidya_CV.pdf).
 
 ## Recent Publications
+[Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
+Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
+Physical Review Letters (2024)
+
 [Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
 André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
 Physical Review Letters (2024)
@@ -29,9 +33,5 @@ Nature Photonics (2024)
 [Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
 Physical Review Letters (2024)
-
-[Prevalence of two-dimensional photonic topology](https://arxiv.org/abs/2307.15701)\
-Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
-arXiv:2307.15701 (2023) - *to appear in Physical Review Letters* 
 
 [See all publications](/publications/)
