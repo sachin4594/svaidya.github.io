@@ -1,5 +1,5 @@
 # Topological Matter
-Topological insulators are a fascinating class of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property.
+Topological insulators and semimetals are a fascinating class of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property.
 
 These are some key questions that inform my research:
 - How can we systematically classify different topological phases of matter, including topological insulators, superconductors, and semimetals?
@@ -54,7 +54,7 @@ The field of nanophotonics focuses on the manipulation and control of light on t
 
 Some key questions that inform my research:
 - Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
-- What new functionalities can be achieved by combining nanophotonic elements with conventional medical imaging techniques?
+- What new functionalities can be achieved by combining nanophotonics with conventional medical imaging techniques?
 
 ### Bound States in the Continuum
 <details>
@@ -100,7 +100,7 @@ Current AI models, while capable of achieving high accuracies in various tasks, 
 
 Some key questions that inform my research:
 - How do we develop interpretable AI models that are closely aligned with scientific goals?
-- What does a future that employs AI for experiments look like?
+- What does a future that employs AI for physics experiments look like?
 <details>
 <summary>Read more</summary>
 <br>
