@@ -16,12 +16,13 @@ Group meeting of Prof. Shanhui Fan at Stanford University (2024) | Stanford, Cal
 
 Topological photonic crystals in one, two and three dimensions\
 Group meeting of Prof. Marin Soljačić at MIT (2022) | Cambridge, Massachusetts
+
 ## Contributed talks
+[Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2024-mrs-fall-meeting/call-for-papers/detail/2024_mrs_fall_meeting/qt03/Symposium_QT03) -- _upcoming_\
+MRS Fall Meeting (2024) | Boston, Massachusetts
+
 [Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
 CLEO (2024) | Charlotte, North Carolina
-
-[Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
-APS March Meeting (2024) | Minneapolis, Minnesota
 
 [Localization and reentrant delocalization transitions in one-dimensional photonic quasicrystals](https://meetings.aps.org/Meeting/MAR24/Session/T54.5)\
 APS March Meeting (2024) | Minneapolis, Minnesota
@@ -66,3 +67,13 @@ Office of Naval Research (ONR) MURI Seminar (2022) | Virtual
 
 Weyl points and BICs in 3D micro-printed photonic crystals\
 Nanoscribe User Meeting (2021) | Virtual
+
+## Posters
+[Volumetric photonic crystal scintillators](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2024-mrs-fall-meeting/call-for-papers/detail/2024_mrs_fall_meeting/qt03/Symposium_QT03) -- _upcoming_\
+MRS Fall Meeting (2024) | Boston, Massachusetts
+
+[Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
+APS March Meeting (2024) | Minneapolis, Minnesota
+
+Point-defect localized photonic bound states in the continuum\
+Office of Naval Research (ONR) MURI Poster Session (2021) | Virtual
