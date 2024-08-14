@@ -11,6 +11,8 @@ Here is a list of resources, software, and useful websites that are relevant to 
 
 [Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator)
 
+[Refractive index database](https://refractiveindex.info/)
+
 ## Electromagnetic simulation packages
 [MPB (MIT Photonic Bands): Plane-wave expansion method for photonic crystal band structures](https://mpb.readthedocs.io/en/stable/)
 
