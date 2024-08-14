@@ -44,7 +44,9 @@ Here is a list of resources, software, and useful websites. All credit goes to t
 
 [Caltech physics demos](https://www.physicsdemos.caltech.edu/)
 
-[Understanding lasers and fiber optics (short MIT OCW course)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-i/)
+[Understanding lasers and fiber optics (a short MIT OCW course)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-i/)
+
+[Video demonstrations in lasers and optics (MIT OCW)](https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/pages/demonstrations-in-physical-optics/)
 
 [A guide to digital signal processing](https://pysdr.org/index.html)
 
