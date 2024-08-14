@@ -4,7 +4,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-Here is a list of resources, software, and useful websites that are relevant to my research. All credit goes to the original authors.
+Here is a list of resources, software, and useful websites. All credit goes to the original authors.
 
 ## Optics simulation tools (browser based)
 [Ray optics simulation](https://phydemo.app/ray-optics/)
@@ -29,7 +29,7 @@ Here is a list of resources, software, and useful websites that are relevant to 
 
 [Space group diagrams and tables](http://img.chem.ucl.ac.uk/sgp/large/sgp.htm)
 
-[Bilbao crystallographic server](https://www.cryst.ehu.es/)<br/><br/>
+[Bilbao crystallographic server](https://www.cryst.ehu.es/)
 
 ## Interactive/visual learning resources for students
 ### AI/ML (browser based)
