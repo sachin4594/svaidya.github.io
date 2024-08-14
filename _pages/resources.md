@@ -33,5 +33,6 @@ Here is a list of resources, software, and useful websites that are relevant to 
 [Caltech physics demos](https://www.physicsdemos.caltech.edu/)<br/><br/>
 [Understanding lasers and fiber optics (short MIT OCW course)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-i/)<br/><br/>
 [A guide to digital signal processing](https://pysdr.org/index.html)<br/><br/>
+[Ising model simulation](https://mattbierbaum.github.io/ising.js/)<br/><br/>
 
 
