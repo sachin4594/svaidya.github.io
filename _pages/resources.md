@@ -16,13 +16,13 @@ Here is a list of resources, software, and useful websites. All credit goes to t
 ## Electromagnetic simulation packages
 [MPB (MIT Photonic Bands): Plane-wave expansion method for photonic crystal band structures](https://mpb.readthedocs.io/en/stable/)
 
-[MEEP: Finite-different time domain](https://meep.readthedocs.io/en/latest/)
+[MEEP: Finite-different time domain implementation](https://meep.readthedocs.io/en/latest/)
 
-[Stanford S4: Rigorous coupled wave analysis (RCWA) for calculating properties of 2D/3D multilayer optical structures](https://web.stanford.edu/group/fan/S4/)
+[Stanford S4: Rigorous coupled-wave analysis (RCWA) for calculating properties of 2D/3D optical multilayer structures](https://web.stanford.edu/group/fan/S4/)
 
-[Inkstone: RCWA (see above)](https://github.com/alexysong/inkstone)
+[Inkstone: RCWA](https://github.com/alexysong/inkstone)
 
-[Legume: Guided mode expansion method for photonic crystal slabs](https://github.com/fancompute/legume)
+[Legume: Guided mode expansion method (GME) for photonic crystal slabs](https://github.com/fancompute/legume)
 
 ## Point groups and space groups
 [Character tables for point groups](http://symmetry.jacobs-university.de/)
@@ -35,7 +35,7 @@ Here is a list of resources, software, and useful websites. All credit goes to t
 ### AI/ML (browser based)
 [Neural network playground](https://playground.tensorflow.org/)
 
-[KANVas: Explore Kolmogorov-Arnold Networks](https://kanvas.deepverse.tech/#/kan)
+[KANvas: Explore Kolmogorov-Arnold Networks](https://kanvas.deepverse.tech/#/kan)
 
 ### Physics and math
 [Waves and oscillations demos (Penn State)](https://www.acs.psu.edu/drussell/demos.html)
