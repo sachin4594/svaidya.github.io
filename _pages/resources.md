@@ -6,13 +6,6 @@ author_profile: true
 
 Here is a list of resources, software, and useful websites. All credit goes to the original authors.
 
-## Optics simulation tools (browser based)
-[Ray optics simulation](https://phydemo.app/ray-optics/)
-
-[Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator)
-
-[Refractive index database](https://refractiveindex.info/)
-
 ## Electromagnetic simulation packages
 [MPB (MIT Photonic Bands): Plane-wave expansion method for photonic crystal band structures](https://mpb.readthedocs.io/en/stable/)
 
@@ -23,6 +16,13 @@ Here is a list of resources, software, and useful websites. All credit goes to t
 [Inkstone: RCWA](https://github.com/alexysong/inkstone)
 
 [Legume: Guided mode expansion method (GME) for photonic crystal slabs](https://github.com/fancompute/legume)
+
+## Optics simulation tools (browser based)
+[Ray optics simulation](https://phydemo.app/ray-optics/)
+
+[Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator)
+
+[Refractive index database](https://refractiveindex.info/)
 
 ## Point groups and space groups
 [Character tables for point groups](http://symmetry.jacobs-university.de/)
