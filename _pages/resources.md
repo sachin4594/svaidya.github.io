@@ -22,9 +22,12 @@ Here is a list of resources, software, and useful websites. All credit goes to t
 
 [Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator)
 
+## Databases
+
 [Refractive index database](https://refractiveindex.info/)
 
-## Point groups and space groups
+[Scintillator library](https://scintillator.lbl.gov/)
+
 [Character tables for point groups](http://symmetry.jacobs-university.de/)
 
 [Space group diagrams and tables](http://img.chem.ucl.ac.uk/sgp/large/sgp.htm)
