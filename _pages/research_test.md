@@ -20,13 +20,13 @@ More recently, we developed a complete classification of topological phases in p
 
 **References:** <br/>
 [1] **Sachin Vaidya***, Jiho Noh*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman, Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
-<br/><br/>
+<br/>
 [2] Julian Schulz, **Sachin Vaidya** and Christina Jörg, Topological photonics in 3D micro-printed systems, APL Photonics 6, 080901 (2021)
-<br/><br/>
+<br/>
 [3] Christina Jörg*, **Sachin Vaidya***, Jiho Noh, Alexander Cerjan, Shyam Augustine, Georg von Freymann and Mikael C. Rechtsman, Observation of quadratic (charge-2) Weyl point splitting in near-infrared photonic crystals, Laser & Photonics Reviews 16, 2100452 (2022)
-<br/><br/>
+<br/>
 [4] **Sachin Vaidya**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A.Benalcazar, Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
-<br/><br/>
+<br/>
 [5] Ali Ghorashi, **Sachin Vaidya**, Mikael C. Rechtsman, Wladimir A. Benalcazar, Marin Soljačić, and Thomas Christensen, Physical Review Letters 133, 056602 (2024)
 </details>
 
