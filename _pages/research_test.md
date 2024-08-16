@@ -1,11 +1,11 @@
-# Topological Matter
+## Topological Matter
 Topological insulators and semimetals are a fascinating class of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property.
 
 These are some key questions that inform my research:
 - How can we systematically classify different topological phases of matter, including topological insulators, superconductors, and semimetals?
 - What are the most general experimental signatures of topological phases and their photonic analogs?
 
-### Topological photonics
+#### Topological photonics
 <details>
 <summary>Read more</summary>
 <br>
@@ -31,7 +31,7 @@ More recently, we developed a complete classification of topological phases in p
 </details>
 
 
-### Novel topological phases
+#### Novel topological phases
 <details>
 <summary>Read more</summary>
 <br>
@@ -49,14 +49,14 @@ Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical R
 </details>
 
 
-# Nanophotonics
+## Nanophotonics
 The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions smaller than the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. Furthermore, nanophotonics holds promise for a wide range of applications, from telecommunications and information processing to sensing, imaging, and quantum computing.
 
 Some key questions that inform my research:
 - Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
 - What new functionalities can be achieved by combining nanophotonics with conventional medical imaging techniques?
 
-### Bound States in the Continuum
+#### Bound States in the Continuum
 <details>
 <summary>Read more</summary>
 <br>
@@ -70,7 +70,7 @@ We proposed a new method for trapping light within nanocavities embedded in two-
 </div>
 </details>
 
-### Nanophotonic Scintillators
+#### Nanophotonic Scintillators
 <details>
 <summary>Read more</summary>
 <br>
@@ -85,7 +85,7 @@ I am currently working towards demonstrating that bulk-patterned (volumetric), t
 </details>
 
 
-# Classical and quantum nonlinear optics
+## Classical and quantum nonlinear optics
 Some key questions that inform my research:
 - What new physical phenomena emerge from the interplay of topology, symmetry and interactions in nonlinear optical systems?
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
@@ -95,7 +95,7 @@ Some key questions that inform my research:
   empty
 </details>
 
-# Interpretable AI for physics
+## Interpretable AI for physics
 Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. In contrast, advancements in physics often rely on key insights derived from experimental observations or numerical data. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. 
 
 Some key questions that inform my research:
