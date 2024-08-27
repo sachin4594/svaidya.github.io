@@ -20,7 +20,7 @@ Here is a list of resources, software, and useful websites. All credits go to th
 ## Optics simulation tools (browser based)
 [Ray optics simulation](https://phydemo.app/ray-optics/)
 
-[Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator)
+[Optical multilayer spectrum calculator (_includes material dispersion_)](https://www.filmetrics.com/reflectance-calculator)
 
 ## Databases
 
