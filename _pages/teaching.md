@@ -24,21 +24,21 @@ I have mentored several undergraduate students and guided their research project
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-present
 - Raafat Salib, MIT, UROP, Spring 2024-present
 - Shrish Choudhary, MIT, UROP, Spring 2024-present
-- Maggie Shi, MIT, UROP, Fall 2023-present (Project: Confinement of light in three dimensions without photonic bandgaps -- to appear)
+- Maggie Shi, MIT, UROP, Fall 2023-present (Project: Confinement of light in three dimensions without photonic bandgaps -- _to appear_)
 - Kyle Linn, Penn State, REU, Summer 2022 ([Project: Reentrant delocalization transition in photonic quasicrystals](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
-- Megan Goh, Amherst College, REU, Summer 2022 (Project: Hofstadter butterfly and topological states in photonic crystals -- to appear)
+- Megan Goh, Amherst College, REU, Summer 2022 (Project: Hofstadter butterfly and topological states in photonic crystals -- _to appear_)
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Project: Searching for Fermi-arcs in woodpile photonic crystals](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
 ## Service
 I frequently serve as a referee for the following physics and photonics journals:
 
-- **APS:** Physical Review X, Physical Review Letters, Physical Review A, Physical Review B, Physical Review Applied, Physical Review Research
-- **Nature Publishing Group:** Nature Physics, Nature Communications, Communications Physics
-- **AAAS:** Science Advances
-- **Optica:** Optica, Photonics Research, Optics Express
-- **Wiley:** Advanced Optical Materials, Laser & Photonics Reviews
-- **AIP:** APL Photonics, Applied Physics Letters, Journal of Applied Physics
-- **Oxford:** National Science Review
+- APS: Physical Review Letters, Physical Review X, Physical Review A, Physical Review B, Physical Review Applied, Physical Review Research
+- Nature Publishing Group: Nature Physics, Nature Communications, Communications Physics
+- AAAS: Science Advances
+- Optica: Optica, Photonics Research, Optics Express
+- Wiley: Advanced Optical Materials, Laser & Photonics Reviews
+- AIP: APL Photonics, Applied Physics Letters, Journal of Applied Physics
+- Oxford: National Science Review
 
 I also serve as an external reviewer for user proposals submitted to the [Center for Integrated Nanotechnologies (CINT)](https://tours.sandia.gov/cint_info.html) at Sandia National Laboratories.
 
