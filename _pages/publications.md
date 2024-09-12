@@ -11,7 +11,7 @@ author_profile: true
 ## Preprints 
 [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
-arXiv:2404.19756 (2024) - [*Scientific American article*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/)
+arXiv:2404.19756 (2024) - [*Scientific American article*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine article*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
 <div style="text-align: right"> * denotes equal contribution </div>
 
