@@ -6,44 +6,44 @@ author_profile: true
 
 ## Invited talks
 [Interpretable AI for physics and photonics applications](https://spie.org/pwo/conferencedetails/ai-and-optical-data-sciences?webstatus=c) -- _upcoming_\
-AI and Optical Data Sciences Conference (SPIE Photonics West) (2025) | San Francisco, California
+AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | San Francisco, California
 
 Nanophotonic scintillators and Interpretable AI for physics -- _upcoming_\
-CINT colloquium at Sandia National Laboratories (2024) | Albuquerque, New Mexico
+CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
 
 Title TBD -- _upcoming_ \
-Host: Prof. Boubacar Kante (2024) at University of California, Berkeley (2024) | Berkeley, California
+Host: Prof. Boubacar Kanté at University of California, Berkeley (October 2024) | Berkeley, California
 
 Advances in topological insulators and semimetals\
-Host: Prof. Shanhui Fan at Stanford University (2024) | Stanford, California
+Host: Prof. Shanhui Fan at Stanford University (June 2024) | Stanford, California
 
 Topological photonic crystals in one, two and three dimensions\
-Host: Prof. Marin Soljačić at MIT (2022) | Cambridge, Massachusetts
+Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
 [Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2024-mrs-fall-meeting/call-for-papers/detail/2024_mrs_fall_meeting/qt03/Symposium_QT03) -- _upcoming_\
-MRS Fall Meeting (2024) | Boston, Massachusetts
+MRS Fall Meeting (December 2024) | Boston, Massachusetts
 
 [Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
-CLEO (2024) | Charlotte, North Carolina
+CLEO (May 2024) | Charlotte, North Carolina
 
 [Localization and reentrant delocalization transitions in one-dimensional photonic quasicrystals](https://meetings.aps.org/Meeting/MAR24/Session/T54.5)\
-APS March Meeting (2024) | Minneapolis, Minnesota
+APS March Meeting (March 2024) | Minneapolis, Minnesota
 
 [Polarization-induced topological edge and corner States in Chern photonic crystals](https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FM1B.3)\
-CLEO (2023) | San Jose, California
+CLEO (May 2023) | San Jose, California
 
 [Photonic Chern and Weyl systems in multilayer structures via dimensional extension](https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FF1D.4)\
-CLEO (2023) | San Jose, California
+CLEO (May 2023) | San Jose, California
 
 [Polarization and corner charge in Chern insulators](https://meetings.aps.org/Meeting/MAR23/Session/N19.3)\
-APS March Meeting (2023) | Las Vegas, Nevada
+APS March Meeting (March 2023) | Las Vegas, Nevada
 
 [Point-defect localized photonic bound states in the continuum](https://meetings.aps.org/Meeting/DAMOP21/Session/S09.4)\
-DAMOP (2021) | Virtual Conference
+DAMOP (June 2021) | Virtual Conference
 
 [Observation of charge-2 photonic Weyl point](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2020-FTh1B.2)\
-CLEO (2020) | Virtual Conference
+CLEO (May 2020) | Virtual Conference
 
 ## Grant Reviews
 Development of advanced nanophotonic scintillators\
