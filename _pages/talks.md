@@ -11,11 +11,14 @@ AI and Optical Data Sciences Conference (SPIE Photonics West) (2025) | San Franc
 Nanophotonic scintillators and Interpretable AI for physics -- _upcoming_\
 CINT colloquium at Sandia National Laboratories (2024) | Albuquerque, New Mexico
 
+Title TBD -- _upcoming_ \
+Host: Prof. Boubacar Kante (2024) at University of California, Berkeley (2024) | Berkeley, California
+
 Advances in topological insulators and semimetals\
-Group meeting of Prof. Shanhui Fan at Stanford University (2024) | Stanford, California
+Host: Prof. Shanhui Fan at Stanford University (2024) | Stanford, California
 
 Topological photonic crystals in one, two and three dimensions\
-Group meeting of Prof. Marin Soljačić at MIT (2022) | Cambridge, Massachusetts
+Host: Prof. Marin Soljačić at MIT (2022) | Cambridge, Massachusetts
 
 ## Contributed talks
 [Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2024-mrs-fall-meeting/call-for-papers/detail/2024_mrs_fall_meeting/qt03/Symposium_QT03) -- _upcoming_\
