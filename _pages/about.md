@@ -12,6 +12,10 @@ Hello! I am a postdoctoral associate at the [Massachusetts Institute of Technolo
 I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also interested in all things nanophotonics, topological matter, and artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
 ## Recent Publications
+[Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
+Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
+arXiv:2409.14299 (2024)
+
 [Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
 Physical Review Letters (2024)
