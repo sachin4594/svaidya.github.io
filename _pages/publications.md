@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
+Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
+arXiv:2409.14299 (2024)
+
 [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
 arXiv:2404.19756 (2024) - [*Scientific American article*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine article*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
