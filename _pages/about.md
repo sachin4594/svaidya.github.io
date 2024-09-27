@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoctoral associate at the [Massachusetts Institute of Technology (MIT)](https://physics.mit.edu/) with [Prof. Marin Soljačić](https://marin-rle.mit.edu/). I am also a junior investigator at the [NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/). I earned my PhD in Physics from [Penn State](https://science.psu.edu/physics) in 2023, where I was a part of [Prof. Mikael C. Rechtsman's](https://leptos.psu.edu/) research group. 
+Hello! I'm Sachin Vaidya, a postdoctoral associate at the [Massachusetts Institute of Technology (MIT)](https://physics.mit.edu/), working with [Prof. Marin Soljačić](https://marin-rle.mit.edu/). I am also a junior investigator at the [NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/). I earned my PhD in Physics from [Penn State](https://science.psu.edu/physics) in 2023, where I was part of [Prof. Mikael C. Rechtsman's](https://leptos.psu.edu/) research group. 
 
-I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also interested in all things nanophotonics, topological matter, and artifical intelligence (AI) for physics. Read more about my research [here](research/).
+I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also broadly interested in nanophotonics, topological matter, and, more recently, artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
 ## Recent Publications
 [Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
