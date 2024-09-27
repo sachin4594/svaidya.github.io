@@ -18,13 +18,15 @@ In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](htt
 ## Mentorship
 I have mentored several undergraduate students and guided their research projects over the past four years:
 
+- Yichen (Sophie) Li, MIT, UROP, Fall 2024-present
+- Amelie A. Chan, MIT, UROP, Fall 2024-present 
 - Taohan Lin, MIT, UROP, Fall 2024-present
 - Eric Wang, MIT, UROP, Fall 2024-present
 - Luke Huang, MIT, UROP, Fall 2024-present
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-present
 - Raafat Salib, MIT, UROP, Spring 2024-present
 - Shrish Choudhary, MIT, UROP, Spring 2024-present
-- Maggie Shi, MIT, UROP, Fall 2023-present (Project: Confinement of light in three dimensions without photonic bandgaps -- _to appear_)
+- Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present (Project: Confinement of light in three dimensions without photonic bandgaps -- _to appear_)
 - Kyle Linn, Penn State, REU, Summer 2022 ([Project: Reentrant delocalization transition in photonic quasicrystals](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
 - Megan Goh, Amherst College, REU, Summer 2022 (Project: Hofstadter butterfly and topological states in photonic crystals -- _to appear_)
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Project: Searching for Fermi-arcs in woodpile photonic crystals](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
