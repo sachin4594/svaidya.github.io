@@ -8,10 +8,13 @@ author_profile: true
 [Interpretable AI for physics and photonics applications](https://spie.org/pwo/conferencedetails/ai-and-optical-data-sciences?webstatus=c) -- _upcoming_\
 AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | San Francisco, California
 
-Nanophotonic scintillators and Interpretable AI for physics -- _upcoming_\
+Frontiers in scintillators, quantum optics, and interpretable AI for physics -- _upcoming_\
 CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
 
-Title TBD -- _upcoming_ \
+Advances in Photonic Topological Insulators and Semimetals -- _upcoming_\
+Condensed matter physics/photonics seminar at Emory University (November 2024) | Atlanta, Georgia
+
+Emerging paradigms in nanophotonics -- _upcoming_\
 Host: Prof. Boubacar Kanté at University of California, Berkeley (October 2024) | Berkeley, California
 
 Advances in topological insulators and semimetals\
@@ -46,6 +49,9 @@ DAMOP (June 2021) | Virtual Conference
 CLEO (May 2020) | Virtual Conference
 
 ## Grant Reviews
+Non-reciprocal topological control of quantum noise\
+DARPA PhENOM quarterly program review (QPR) (October 2024) | Virtual
+
 Development of advanced nanophotonic scintillators\
 DARPA PhENOM Kickoff (2024) | Virtual
 
