@@ -11,7 +11,7 @@ AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | S
 Frontiers in scintillators, quantum optics, and interpretable AI for physics -- _upcoming_\
 CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
 
-Photonic Topological Insulators and Semimetals -- _upcoming_\
+Photonic topological insulators and semimetals -- _upcoming_\
 Condensed matter physics/photonics seminar at Emory University (November 2024) | Atlanta, Georgia
 
 Emerging paradigms in nanophotonics -- _upcoming_\
