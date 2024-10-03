@@ -78,7 +78,7 @@ Weyl points and BICs in 3D micro-printed photonic crystals\
 Nanoscribe User Meeting (2021) | Virtual
 
 ## Posters
-[Volumetric photonic crystal scintillators](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2024-mrs-fall-meeting/call-for-papers/detail/2024_mrs_fall_meeting/qt03/Symposium_QT03) -- _upcoming_\
+[Volumetric photonic crystal scintillators](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting) -- _upcoming_\
 MRS Fall Meeting (2024) | Boston, Massachusetts
 
 [Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
