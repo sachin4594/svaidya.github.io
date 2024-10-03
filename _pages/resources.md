@@ -43,8 +43,6 @@ Here is a list of resources, software, and useful websites. All credits go to th
 ### Physics and math
 [Waves and oscillations demos (Penn State)](https://www.acs.psu.edu/drussell/demos.html)
 
-[An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/)
-
 [Caltech physics demos](https://www.physicsdemos.caltech.edu/)
 
 [Understanding lasers and fiber optics (a short MIT OCW course)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-i/)
