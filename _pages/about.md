@@ -12,14 +12,6 @@ Hello! I'm Sachin Vaidya, a postdoctoral associate at the [Massachusetts Institu
 I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also broadly interested in nanophotonics, topological matter, and, more recently, artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
 ## Recent Publications
-[Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://arxiv.org/abs/2410.07141)\
-Louis Martin-Monier*, Simo Pajovic*, Muluneh G. Abebe*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
-arXiv:2410.07141 (2024)
-
-[Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
-Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
-arXiv:2409.14299 (2024)
-
 [Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
 Physical Review Letters (2024)
@@ -27,10 +19,6 @@ Physical Review Letters (2024)
 [Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
 André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
 Physical Review Letters (2024)
-
-[KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
-Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
-arXiv:2404.19756 (2024)
 
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
