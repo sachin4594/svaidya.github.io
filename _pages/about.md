@@ -12,6 +12,10 @@ Hello! I'm Sachin Vaidya, a postdoctoral associate at the [Massachusetts Institu
 I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also broadly interested in nanophotonics, topological matter, and, more recently, artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
 ## Recent Publications
+[Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://arxiv.org/abs/2410.07141)\
+Louis Martin-Monier*, Simo Pajovic*, Muluneh G. Abebe*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
+arXiv:2409.14299 (2024)
+
 [Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
 Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
 arXiv:2409.14299 (2024)
