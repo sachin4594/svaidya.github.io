@@ -19,7 +19,7 @@ arXiv:2409.14299 (2024)
 
 [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
-arXiv:2404.19756 (2024) - [*Scientific American article*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine article*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+arXiv:2404.19756 (2024) - [*Scientific American*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/), [*MIT Technology Review*](https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/), [*IEEE Spectrum*](https://spectrum.ieee.org/kan-neural-network)
 
 <div style="text-align: right"> * denotes equal contribution </div>
 
