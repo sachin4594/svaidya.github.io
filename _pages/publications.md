@@ -11,7 +11,7 @@ author_profile: true
 ## Preprints 
 [End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging](https://arxiv.org/abs/2410.08543)\
 Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes\
-arXiv:2410.08543 (2024)
+arXiv:2410.08543 (2024) 
 
 [Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://arxiv.org/abs/2410.07141)\
 Louis Martin-Monier\*, Simo Pajovic\*, Muluneh G. Abebe\*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
