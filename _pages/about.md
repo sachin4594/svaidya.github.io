@@ -12,20 +12,20 @@ Hello! I'm Sachin Vaidya, a postdoctoral associate at the [Massachusetts Institu
 I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also broadly interested in nanophotonics, topological matter, and, more recently, artifical intelligence (AI) for physics. Read more about my research [here](research/).
 
 ## Recent Publications
-[Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
+[**Prevalence of two-dimensional photonic topology**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
-Physical Review Letters (2024)
+**Physical Review Letters** (2024)
 
-[Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
+[**Weyl points on non-orientable manifolds**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
 André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
-Physical Review Letters (2024)
+**Physical Review Letters** (2024)
 
-[Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
+[**Direct observation of Landau levels in silicon photonic crystals**](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
-Nature Photonics (2024)
+**Nature Photonics** (2024)
 
-[Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
+[**Response to polarization and weak topology in Chern insulators**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
-Physical Review Letters (2024)
+**Physical Review Letters** (2024)
 
 [See all publications](/publications/)
