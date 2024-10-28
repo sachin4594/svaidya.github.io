@@ -15,7 +15,7 @@ Frontiers in scintillation, quantum optics, and interpretable AI for physics -- 
 CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
 
 Emerging paradigms in nanophotonics\
-Host: Prof. Boubacar Kanté and Prof. Eli Yablonovitch at University of California, Berkeley (October 2024) | Berkeley, California
+Host: Prof. Boubacar Kanté and Prof. Eli Yablonovitch at UC Berkeley (October 2024) | Berkeley, California
 
 Advances in topological insulators and semimetals\
 Host: Prof. Shanhui Fan at Stanford University (June 2024) | Stanford, California
