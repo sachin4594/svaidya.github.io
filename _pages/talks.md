@@ -11,7 +11,7 @@ AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | S
 Topological treks through non-orientable spaces and noisy landscapes -- _upcoming_\
 Condensed matter physics seminar at Emory University (November 2024) | Atlanta, Georgia
 
-Frontiers in scintillation, quantum optics, and interpretable AI for physics -- _upcoming_\
+Frontiers in nanophotonics, quantum optics, and interpretable AI for physics\
 CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
 
 Emerging paradigms in nanophotonics\
