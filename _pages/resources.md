@@ -22,11 +22,13 @@ Here is a list of resources, software, and useful websites. All credits go to th
 
 [Optical multilayer spectrum calculator (_includes material dispersion_)](https://www.filmetrics.com/reflectance-calculator)
 
-## Databases
+## Databases and tools
 
 [Refractive index database](https://refractiveindex.info/)
 
 [Scintillator library](https://scintillator.lbl.gov/)
+
+[X-ray interactions with matter](https://henke.lbl.gov/optical_constants/)
 
 [Character tables for point groups](http://symmetry.jacobs-university.de/)
 
@@ -51,6 +53,5 @@ Here is a list of resources, software, and useful websites. All credits go to th
 
 [A guide to digital signal processing](https://pysdr.org/index.html)
 
-[Ising model simulation](https://mattbierbaum.github.io/ising.js/)
-
+[Complex Analysis](https://complex-analysis.com/)
 
