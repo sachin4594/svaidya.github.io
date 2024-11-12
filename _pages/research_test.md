@@ -1,9 +1,9 @@
 ## Topological Matter
-Topological insulators and semimetals are a fascinating class of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property.
+Topological insulators and semimetals are fascinating classes of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property. Moreover, when quasiparticle interactions are strong, topological phases of matter can give rise to even more exotic phenomena, such as fractionalization and topological order.
 
 These are some key questions that inform my research:
-- How can we systematically classify different topological phases of matter, including topological insulators, superconductors, and semimetals?
-- What are the most general experimental signatures of topological phases and their photonic analogs?
+- How can we expand the principles of topological phases to photonic systems and leverage them for robust control over light?
+- How can we systematically classify different topological phases of matter and their photonic analogs?
 
 #### Topological photonics
 <details>
@@ -11,11 +11,10 @@ These are some key questions that inform my research:
 <br>
 <img align="left" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/weyl.png" width="300" style="margin: 20px">
 <div style="text-align: justify"> 
-In the last decade, many ideas from topological matter have been extended to other systems that host wave-like excitations (such as light propagating in photonic crystals or sound waves in acoustic metamaterials). I am interested in extending the theory of topological phases to photonic systems, and their finding their associated experimental signatures.
-<br/><br/>
+In the last decade, many ideas from topological matter have been extended to other systems that host wave-like excitations (such as light propagating in photonic crystals or sound waves in acoustic metamaterials). 
 One part of my research has focussed on Weyl points. Weyl points are robust band degeneracies that occur in the momentum space of 3D periodic systems and are enforced by an integer topological charge known as the Chern number. In the photonic domain, Weyl points may enable the creation of large-volume single-mode lasing devices. Furthermore, they can mediate unique long-range interactions between embedded quantum emitters. However, due to fabrication challenges, experimental realization of photonic Weyl points at near-IR wavelengths has remained elusive. Our work on Weyl points addressed these challenges by employing a novel micro-printing technique to fabricate 3D photonic crystals that host Weyl points at mid- and near-infrared wavelengths [1, 2, 3].
 <br/><br/>
-More recently, we developed a complete classification of topological phases in photonic crystals under crystalline symmetries and proposed a design strategy based on this classification [4]. We also quantified the prevalence of various important topological phases in two-dimensional photonic crystals [5]. 
+More recently, we developed a complete classification of topological phases in photonic crystals under crystalline symmetries [4], and quantified the prevalence of various important topological phases in two-dimensional photonic crystals [5]. 
 <br/><br/>
 
 **References:** <br/>
@@ -44,7 +43,7 @@ In a different paper, we resolved a long-standing debate on whether the concept 
 **References:** <br/>
 [1] André Grossi e Fonseca*, **Sachin Vaidya***, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
 Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
-<br/><br/>
+<br/>
 [2] **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar, Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
 </details>
 
@@ -65,23 +64,35 @@ Some key questions that inform my research:
 Photonic crystals are lattices of dielectric materials, such as glasses or semiconductors, that enable fine control over the properties of light. They are known to possess band gaps, making them act as perfect mirrors for a range of frequencies. These band gaps have traditionally been utilized for trapping light to defects, creating one-dimensional waveguides and zero-dimensional nanocavities. However, the reliance on a band gap limits the choice of materials to those with a sufficiently high refractive index.
 <br/><br/>
 
-We proposed a new method for trapping light within nanocavities embedded in two-dimensional photonic crystals that lack band gaps. We demonstrated that it is possible to engineer the photonic crystal and nanocavity such that a symmetry mismatch with the photonic crystal's modes prohibits light within the cavity from leaking away. This state of light is an example of a "bound state in the continuum", which is a localized state that co-exists with a continuum of propagating states of the photonic crystal. Furthermore, we showed that such states can be utilized to create slow-light modes in complex photonic crystal fibers. Our work enables the construction of nanocavities within photonic crystals made of versatile, low-index materials like glasses and polymers.
+We proposed a new method for trapping light within nanocavities embedded in two-dimensional photonic crystals that lack band gaps [1]. We demonstrated that it is possible to engineer the photonic crystal and nanocavity such that a symmetry mismatch with the photonic crystal's modes prohibits light within the cavity from leaking away. This state of light is an example of a "bound state in the continuum", which is a localized state that co-exists with a continuum of propagating states of the photonic crystal [1, 2]. Furthermore, we showed that such states can be utilized to create slow-light modes in complex photonic crystal fibers. Our work enables the construction of nanocavities within photonic crystals made of versatile, low-index materials like glasses and polymers.
 <br/><br/>
 </div>
+
+**References:** <br/>
+[1] **Sachin Vaidya**, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
+<br/>
+[2] Alexander Cerjan, Christina Jörg, **Sachin Vaidya**, Shyam Augustine, Wladimir A. Benalcazar, Chia Wei Hsu, Georg von Freymann, and Mikael C. Rechtsman, Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
+
 </details>
 
 #### Nanophotonic Scintillators
 <details>
 <summary>Read more</summary>
 <br>
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/Nanophotonic_scintillator.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 Scintillators are materials that convert high-energy particles, such as X-rays, free electrons, or gamma rays, into optical photons through a complex cascade of processes. These materials are central to various modern imaging technologies, including diagnostic medical imaging and non-destructive testing. Integrating nanophotonics with scintillators represents a promising direction poised to advance several technologies by directly controlling and tailoring the light emission process. For instance, utilizing the Purcell effect can increase the rate of spontaneous emission, yielding significantly brighter scintillators. This enhancement would directly translate to reduced X-ray dosage in medical settings, thereby decreasing the risk of radiation exposure to patients. 
 <br/><br/>
 
-I am currently working towards demonstrating that bulk-patterned (volumetric), two-dimensional photonic crystal scintillators can exhibit significant emission enhancement while being several hundred microns thick.
+Along with my collaborators, I am currently working to theoretically and experimentally demonstrate that integrating nanophotonics with scintillators can enhance light yield and spatial resolution [1], while also enabling new functionalities [2].
 <br/><br/>
 </div>
+
+**References:** <br/>
+[1] Louis Martin-Monier, Simo Pajovic, Muluneh G. Abebe, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes, Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
+<br/>
+[2] Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
+
 </details>
 
 
@@ -92,6 +103,8 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs.png" width="325" style="margin: 20px">
+<div style="text-align: justify"> 
 Coming soon...
 </details>
 
@@ -104,5 +117,7 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs.png" width="325" style="margin: 20px">
+<div style="text-align: justify"> 
 Coming soon...
 </details>
