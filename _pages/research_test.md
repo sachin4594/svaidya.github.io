@@ -34,6 +34,8 @@ More recently, we developed a complete classification of topological phases in p
 <details>
 <summary>Read more</summary>
 <br>
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
+<div style="text-align: justify"> 
 The momentum space of lattice systems forms a manifold that is topologically equivalent to a torus, and the process of classifying wave functions over this manifold leads to various topological invariants. The following question naturally arises: what if the momentum space manifold was not a torus? In a recent work, we explored the consequences of changing the topology of this underlying manifold on the properties of quasiparticles that exist on them. In particular, we showed that Weyl fermions living on a non-orientable manifold have markedly different topological invariants describing them, leading to a range of unique properties [1].
 <br/><br/>
 
@@ -59,7 +61,7 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
+<img align="left" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 Photonic crystals are lattices of dielectric materials, such as glasses or semiconductors, that enable fine control over the properties of light. They are known to possess band gaps, making them act as perfect mirrors for a range of frequencies. These band gaps have traditionally been utilized for trapping light to defects, creating one-dimensional waveguides and zero-dimensional nanocavities. However, the reliance on a band gap limits the choice of materials to those with a sufficiently high refractive index.
 <br/><br/>
@@ -103,8 +105,6 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs.png" width="325" style="margin: 20px">
-<div style="text-align: justify"> 
 Coming soon...
 </details>
 
@@ -117,7 +117,5 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs.png" width="325" style="margin: 20px">
-<div style="text-align: justify"> 
 Coming soon...
 </details>
