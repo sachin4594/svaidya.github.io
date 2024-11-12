@@ -36,6 +36,8 @@ Here is a list of resources, software, and useful websites. All credits go to th
 
 [Bilbao crystallographic server](https://www.cryst.ehu.es/)
 
+[NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+
 ## Interactive/visual learning resources
 ### AI/ML (browser based)
 [Neural network playground](https://playground.tensorflow.org/)
