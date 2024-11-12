@@ -1,9 +1,3 @@
----
-permalink: /research/
-title: "Research"
-author_profile: true
----
-
 ## Photonic Weyl Points
 <img align="left" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/weyl.png" width="300" style="margin: 20px">
 <div style="text-align: justify"> 
