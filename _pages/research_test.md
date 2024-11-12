@@ -2,7 +2,7 @@
 Topological insulators and semimetals are fascinating classes of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property. Moreover, when quasiparticle interactions are strong, topological phases of matter can give rise to even more exotic phenomena, such as fractionalization and topological order.
 
 These are some key questions that inform my research:
-- How can we expand the principles of topological phases to photonic systems and leverage them for robust control over light?
+- How can we extend the principles of topological phases to photonic systems and leverage them for robust control over light?
 - How can we systematically classify different topological phases of matter and their photonic analogs?
 
 #### Topological photonics
