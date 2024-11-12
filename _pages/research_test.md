@@ -92,7 +92,7 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
-  empty
+Coming soon...
 </details>
 
 ## Interpretable AI for physics
@@ -104,7 +104,5 @@ Some key questions that inform my research:
 <details>
 <summary>Read more</summary>
 <br>
-I'm interested in developing and applying two distinct strategies for enhancing interpretability: (1) Encouraging sparsity in conventional multi-layer perceptrons (MPs) that leads to compact and highly interpretable networks, well-suited for discovering phenomenological laws and modularity in scientific tasks. (2) Replacing weights with with learnable activation functions makes it possible to extract symbolic expressions for various scientific problems.
-  
-This architecture, known as 'Kolmogorov-Arnold Networks (KANs)', significantly outperforms MLPs in both accuracy and interpretability. As an example, we apply KANs to a problem in condensed matter physics, showing that these networks, when trained on numerical data, can derive exact symbolic expressions for phase transition boundaries between metallic and insulating states in disordered quantum systems.
+Coming soon...
 </details>
