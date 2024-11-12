@@ -51,11 +51,11 @@ Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical R
 
 
 ## Nanophotonics
-The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions smaller than the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. Furthermore, nanophotonics holds promise for a wide range of applications, from telecommunications and information processing to sensing, imaging, and quantum computing.
+The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components.
 
 Some key questions that inform my research:
 - Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
-- What new functionalities can be achieved by combining nanophotonics with conventional medical imaging techniques?
+- What new functionalities can be achieved by combining nanophotonics with scintillation?
 
 #### Bound States in the Continuum
 <details>
