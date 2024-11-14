@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Sachin Vaidya, a postdoctoral associate at the [Massachusetts Institute of Technology (MIT)](https://physics.mit.edu/), working with [Prof. Marin Soljačić](https://marin-rle.mit.edu/). I am also a junior investigator at the [NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/). I earned my PhD in Physics from [Penn State](https://science.psu.edu/physics) in 2023, where I was part of [Prof. Mikael C. Rechtsman's](https://leptos.psu.edu/) research group. 
 
-I use computational, theoretical, and experimental approaches to study photonic realizations of topological phases of matter, such as Weyl semi-metals and higher-order topological insulators. I am also broadly interested in nanophotonics, topological matter, and, more recently, artifical intelligence (AI) for physics. Read more about my research [here](research/).
+My research spans a wide array of topics, from nanophotonics and topological matter to the development of interpretable AI platforms for science and robotics. I enjoy collaborating with scientists from diverse fields, bringing together computational, theoretical, and experimental approaches to tackle complex and challenging problems. Read more about my research [here](research/).
 
 ## Recent Publications
 [Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
