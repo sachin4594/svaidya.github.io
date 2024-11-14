@@ -40,15 +40,15 @@ Some key questions that inform my research:
 - What new functionalities can be achieved by combining nanophotonics with scintillation?
 <br><br>
 
-<b>References:<b>
+<b>References:</b>
 <br>
-[1] **Sachin Vaidya**, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
+[1] <b>Sachin Vaidya</b>, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
 <br>
-[2] Alexander Cerjan, Christina Jörg, **Sachin Vaidya**, Shyam Augustine, Wladimir A. Benalcazar, Chia Wei Hsu, Georg von Freymann, and Mikael C. Rechtsman, Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
+[2] Alexander Cerjan*, Christina Jörg*, <b>Sachin Vaidya</b>, Shyam Augustine, Wladimir A. Benalcazar, Chia Wei Hsu, Georg von Freymann, and Mikael C. Rechtsman, Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
 <br>
-[3] Louis Martin-Monier, Simo Pajovic, Muluneh G. Abebe, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes, Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
+[3] Louis Martin-Monier*, Simo Pajovic*, Muluneh G. Abebe*, Joshua Chen, <b>Sachin Vaidya</b>, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes, Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
 <br>
-[4] Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
+[4] Seokhwan Min, Seou Choi, Simo Pajovic, <b>Sachin Vaidya</b>, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
 </div>
 
 ## Classical and quantum nonlinear optics
@@ -63,9 +63,9 @@ Some key questions that inform my research:
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
 <br><br>
 
-**References:**
+<b>References:</b>
 <br>
-[1] Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljacic, Yannick Salamin, Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
+[1] Sahil Pontula, <b>Sachin Vaidya</b>, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljacic, Yannick Salamin, Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
 <br>
 </div>
 
@@ -81,8 +81,8 @@ Some key questions that inform my research:
 - What does a future that employs AI and robotics for physics experiments look like?
 <br><br>
 
-**References:** 
+<b>References:</b>
 <br>
-[1] Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark, KAN: Kolmogorov-Arnold Networks, arXiv:2404.19756 (2024)
+[1] Ziming Liu, Yixuan Wang, <b>Sachin Vaidya</b>, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark, KAN: Kolmogorov-Arnold Networks, arXiv:2404.19756 (2024)
 <br>
 </div>
