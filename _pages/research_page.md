@@ -16,15 +16,15 @@ These are some key questions that inform my research:
 - How can we systematically classify different topological phases of matter and their photonic analogs?
 <br><br>
 
-**References:** 
+<b>References:</b>
 <br>
-[1] **Sachin Vaidya***, Jiho Noh*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman, Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
+[1] <b>Sachin Vaidya*</b>, Jiho Noh*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman, Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
 <br>
-[2] **Sachin Vaidya**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A.Benalcazar, Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
+[2] <b>Sachin Vaidya<b>, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A.Benalcazar, Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
 <br>
-[3] **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar, Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
+[3] <b>Sachin Vaidya<b>, Mikael C. Rechtsman and Wladimir A. Benalcazar, Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
 <br>
-[4] André Grossi e Fonseca*, **Sachin Vaidya***, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
+[4] André Grossi e Fonseca*, <b>Sachin Vaidya*<b>, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
 Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
 </div>
 
@@ -40,7 +40,7 @@ Some key questions that inform my research:
 - What new functionalities can be achieved by combining nanophotonics with scintillation?
 <br><br>
 
-**References:** 
+<b>References:<b>
 <br>
 [1] **Sachin Vaidya**, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
 <br>
