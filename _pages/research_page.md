@@ -39,6 +39,9 @@ Some key questions that inform my research:
 [4] Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
 
 ## Classical and quantum nonlinear optics
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/quantum_noise.png" width="325" style="margin: 20px">
+<div style="text-align: justify"> 
+
 Over the past few decades, efforts have been directed at understanding and controlling nonlinear optical systems with many degrees of freedom (e.g., frequency/time, space/wavevector, polarization) due to their enhanced capacities to carry power, transmit data, and perform physical computations. However, to fully exploit these degrees of freedom, new guiding principles must be developed for the control and routing of excitations, as well as for managing noise within these complex systems, as such principles are currently lacking.
 
 Some key questions that inform my research:
@@ -50,7 +53,7 @@ Some key questions that inform my research:
 <br>
 
 ## Interpretable AI for physics
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs.png" width="325" style="margin: 20px">
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs_image.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
 Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. In contrast, advancements in physics often rely on key insights derived from experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
