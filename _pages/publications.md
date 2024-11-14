@@ -28,6 +28,9 @@ arXiv:2404.19756 (2024) - [*Scientific American*](https://www.scientificamerican
 <div style="text-align: right"> * denotes equal contribution </div>
 
 ## Journal Publications
+
+### 2024
+
 [Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
 Physical Review Letters (2024)
@@ -44,6 +47,8 @@ Nature Photonics (2024) - [*Penn State news*](https://science.psu.edu/news/Recht
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
 Physical Review Letters (2024)
 
+### 2023
+
 [Reentrant delocalization transition in one-dimensional photonic quasicrystals](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170)\
 **Sachin Vaidya\***, Christina Jörg\*, Kyle Linn, Megan Goh and Mikael C. Rechtsman\
 Physical Review Research (2023)
@@ -52,9 +57,13 @@ Physical Review Research (2023)
 **Sachin Vaidya**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A. Benalcazar\
 Physical Review B (2023)
 
+### 2022
+
 [Observation of Quadratic (Charge-2) Weyl Point Splitting in Near-Infrared Photonic Crystals](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202100452)\
 Christina Jörg\*, **Sachin Vaidya\***, Jiho Noh, Alexander Cerjan, Shyam Augustine, Georg von Freymann and Mikael C. Rechtsman\
 Laser & Photonics Reviews (2022) - [*Featured on the cover*](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202270002)
+
+### 2021 
 
 [Observation of Bound States in the Continuum Embedded in Symmetry Bandgaps](https://www.science.org/doi/10.1126/sciadv.abk1117)\
 Alexander Cerjan\*, Christina Jörg\*, **Sachin Vaidya**, Shyam Augustine, Wladimir A. Benalcazar, Chia Wei Hsu, Georg von Freymann and Mikael C. Rechtsman\
@@ -67,6 +76,8 @@ APL Photonics (2021) - *Editor's Pick*
 [Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.023605)\
 **Sachin Vaidya**, Wladimir A. Benalcazar, Alexander Cerjan and Mikael C. Rechtsman\
 Physical Review Letters (2021)
+
+### 2020 
 
 [Observation of a Charge-2 Photonic Weyl Point in the Infrared](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.253902)\
 **Sachin Vaidya\***, Jiho Noh\*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman\
