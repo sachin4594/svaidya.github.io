@@ -16,6 +16,7 @@ These are some key questions that inform my research:<br>
 - How can we systematically classify different topological phases of matter and their photonic analogs?
 <br><br>
 
+<small>
 <b>References:</b>
 <br>
 [1] <b>Sachin Vaidya*</b>, Jiho Noh*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman, Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
@@ -27,6 +28,7 @@ These are some key questions that inform my research:<br>
 [4] André Grossi e Fonseca*, <b>Sachin Vaidya*</b>, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
 Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
 </div>
+</small>small>
 
 ## Nanophotonics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
