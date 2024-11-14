@@ -33,12 +33,15 @@ Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical R
 <div style="text-align: justify"> 
 
 The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control of light makes it possible to leverage effects like the Purcell effect to increase spontaneous emission rates or achieve supercollimation, promising advancements in applications such as developing nanophotonic scintillators to improve medical imaging.
+<br><br>
 
 Some key questions that inform my research:
 - Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?
 - What new functionalities can be achieved by combining nanophotonics with scintillation?
+<br><br>
 
-**References:** <br>
+**References:** 
+<br>
 [1] **Sachin Vaidya**, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
 <br>
 [2] Alexander Cerjan, Christina Jörg, **Sachin Vaidya**, Shyam Augustine, Wladimir A. Benalcazar, Chia Wei Hsu, Georg von Freymann, and Mikael C. Rechtsman, Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
@@ -53,12 +56,15 @@ Some key questions that inform my research:
 <div style="text-align: justify"> 
 
 Over the past few decades, efforts have been directed at understanding and controlling nonlinear optical systems with many degrees of freedom (e.g., frequency/time, space/wavevector, polarization) due to their enhanced capacities to carry power, transmit data, and perform physical computations. However, to fully exploit these degrees of freedom, new guiding principles must be developed for the control and routing of excitations, as well as for managing noise within these complex systems, as such principles are currently lacking.
+<br><br>
 
 Some key questions that inform my research:
 - What new physical phenomena emerge from the interplay of topology, symmetry and interactions in nonlinear optical systems?
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
+<br><br>
 
-**References:** <br>
+**References:**
+<br>
 [1] Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljacic, Yannick Salamin, Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
 <br>
 </div>
@@ -68,12 +74,15 @@ Some key questions that inform my research:
 <div style="text-align: justify"> 
 
 Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. In contrast, advancements in physics often rely on key insights derived from experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
+<br><br>
 
 Some key questions that inform my research:
 - How do we develop interpretable AI models that are closely aligned with scientific goals?
 - What does a future that employs AI and robotics for physics experiments look like?
+<br><br>
 
-**References:** <br>
+**References:** 
+<br>
 [1] Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark, KAN: Kolmogorov-Arnold Networks, arXiv:2404.19756 (2024)
 <br>
 </div>
