@@ -2,7 +2,7 @@
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
   
-Topological insulators and semimetals are fascinating classes of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property. Moreover, when quasiparticle interactions are strong, topological phases of matter can give rise to even more exotic phenomena, such as fractionalization and topological order.
+Topological insulators and semimetals are fascinating classes of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property. Moreover, when quasiparticle interactions are strong, topological phases of matter can give rise to even more exotic phenomena, such as fractionalization and topological order. In the last decade, many ideas from topological matter have been extended to other systems that host wave-like excitations, such as light propagating in photonic crystals, where they serve as new guiding principles for photonic design.
 
 These are some key questions that inform my research:
 - How can we extend the principles of topological phases to photonic systems and leverage them for robust control over light?
@@ -39,9 +39,15 @@ Some key questions that inform my research:
 [4] Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
 
 ## Classical and quantum nonlinear optics
+Over the past few decades, efforts have been directed at understanding and controlling nonlinear optical systems with many degrees of freedom (e.g., frequency/time, space/wavevector, polarization) due to their enhanced capacities to carry power, transmit data, and perform physical computations. However, to fully exploit these degrees of freedom, new guiding principles must be developed for the control and routing of excitations, as well as for managing noise within these complex systems, as such principles are currently lacking.
+
 Some key questions that inform my research:
 - What new physical phenomena emerge from the interplay of topology, symmetry and interactions in nonlinear optical systems?
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
+
+**References:** <br>
+[1] Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljacic, Yannick Salamin, Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
+<br>
 
 ## Interpretable AI for physics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs.png" width="325" style="margin: 20px">
@@ -51,7 +57,7 @@ Current AI models, while capable of achieving high accuracies in various tasks, 
 
 Some key questions that inform my research:
 - How do we develop interpretable AI models that are closely aligned with scientific goals?
-- What does a future that employs AI for physics experiments look like?
+- What does a future that employs AI and robotics for physics experiments look like?
 
 **References:** <br>
 [1] Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark, KAN: Kolmogorov-Arnold Networks, arXiv:2404.19756 (2024)
