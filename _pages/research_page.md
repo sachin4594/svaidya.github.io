@@ -1,3 +1,9 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
 ## Topological matter and topological photonics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
