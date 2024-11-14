@@ -1,4 +1,4 @@
-## Topological Matter and Topological Photonics
+## Topological matter and topological photonics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
   
@@ -39,7 +39,7 @@ Some key questions that inform my research:
 [4] Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
 
 ## Classical and quantum nonlinear optics
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/quantum_noise.png" width="325" style="margin: 20px">
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/quantum_noise_lattice.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
 Over the past few decades, efforts have been directed at understanding and controlling nonlinear optical systems with many degrees of freedom (e.g., frequency/time, space/wavevector, polarization) due to their enhanced capacities to carry power, transmit data, and perform physical computations. However, to fully exploit these degrees of freedom, new guiding principles must be developed for the control and routing of excitations, as well as for managing noise within these complex systems, as such principles are currently lacking.
