@@ -14,7 +14,7 @@ Topological insulators and semimetals are fascinating classes of materials that 
 These are some key questions that inform my research:
 - How can we extend the principles of topological phases to photonic systems and leverage them for robust control over light?
 - How can we systematically classify different topological phases of matter and their photonic analogs?
-<br>
+<br><br>
 
 **References:** 
 <br>
