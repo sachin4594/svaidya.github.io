@@ -13,7 +13,7 @@ I served as a graduate teaching assistant for the following courses:
 - Mechanics, Penn State, Spring 2018
 - Introductory Physics, Penn State, Fall 2017
 
-In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](https://science.psu.edu/physics/graduate/awards/student-teaching) by the Department of Physics at Penn State for 'teaching excellence in physics,' based on feedback from hundreds of students. You can read some of the student comments [here](https://sachin4594.github.io/svaidya.github.io/files/Selected_Student_Comments.pdf).
+In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](https://science.psu.edu/physics/graduate/awards/student-teaching) by the Department of Physics at Penn State for 'teaching excellence in physics,' based on feedback from hundreds of students. You can read some of the student feedback [here](https://sachin4594.github.io/svaidya.github.io/files/Selected_Student_Comments.pdf).
 
 ## Mentorship
 I have mentored several undergraduate students and guided their research projects over the past four years:
