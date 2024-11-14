@@ -27,8 +27,8 @@ These are some key questions that inform my research:<br>
 <br>
 [4] André Grossi e Fonseca*, <b>Sachin Vaidya*</b>, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
 Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
+</small>
 </div>
-</small>small>
 
 ## Nanophotonics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
@@ -42,6 +42,7 @@ Some key questions that inform my research:<br>
 - What new functionalities can be achieved by combining nanophotonics with scintillation?
 <br><br>
 
+<small>
 <b>References:</b>
 <br>
 [1] <b>Sachin Vaidya</b>, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
@@ -51,6 +52,7 @@ Some key questions that inform my research:<br>
 [3] Louis Martin-Monier*, Simo Pajovic*, Muluneh G. Abebe*, Joshua Chen, <b>Sachin Vaidya</b>, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes, Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
 <br>
 [4] Seokhwan Min, Seou Choi, Simo Pajovic, <b>Sachin Vaidya</b>, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
+</small>  
 </div>
 
 ## Classical and quantum nonlinear optics
@@ -65,10 +67,12 @@ Some key questions that inform my research:<br>
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
 <br><br>
 
+<small>
 <b>References:</b>
 <br>
 [1] Sahil Pontula, <b>Sachin Vaidya</b>, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljacic, Yannick Salamin, Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
 <br>
+</small>
 </div>
 
 ## Interpretable AI for physics
@@ -83,8 +87,10 @@ Some key questions that inform my research:<br>
 - What does a future that employs AI and robotics for physics experiments look like?
 <br><br>
 
+<small>
 <b>References:</b>
 <br>
 [1] Ziming Liu, Yixuan Wang, <b>Sachin Vaidya</b>, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark, KAN: Kolmogorov-Arnold Networks, arXiv:2404.19756 (2024)
 <br>
+</small>
 </div>
