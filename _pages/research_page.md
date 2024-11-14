@@ -16,10 +16,14 @@ These are some key questions that inform my research:
 
 **References:** 
 [1] **Sachin Vaidya***, Jiho Noh*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman, Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
+<br>
 [2] **Sachin Vaidya**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A.Benalcazar, Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
+<br>
 [3] **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar, Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
+<br>
 [4] André Grossi e Fonseca*, **Sachin Vaidya***, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
 Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
+</div>
 
 ## Nanophotonics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
