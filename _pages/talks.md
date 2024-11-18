@@ -8,8 +8,8 @@ author_profile: true
 [Interpretable AI for physics and photonics applications](https://spie.org/photonics-west/presentation/Interpretable-AI-for-physics-and-photonics/13375-76#_=_) -- _upcoming_\
 AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | San Francisco, California
 
-Topological treks through non-orientable spaces and noisy landscapes -- _upcoming_\
-Condensed matter physics seminar at Emory University (November 2024) | Atlanta, Georgia
+[Topological treks through non-orientable spaces and noisy landscapes](https://physics.emory.edu/home/news/index.html?trumbaEmbed=view%3Devent%26eventid%3D178790409) -- _upcoming_\
+Special Condensed Matter Seminar at Emory University (November 2024) | Atlanta, Georgia
 
 Frontiers in nanophotonics, quantum optics, and interpretable AI for physics\
 CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
