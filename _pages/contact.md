@@ -7,8 +7,8 @@ author_profile: true
 
 ## Email
 
-University: svaidya1 [at] mit.edu\
-Personal: sachin4594 [at] gmail.com
+University: svaidya1 [at] mit [dot] edu\
+Personal: sachin4594 [at] gmail [dot] com
 
 
 ## Office
