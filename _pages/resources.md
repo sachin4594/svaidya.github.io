@@ -38,6 +38,9 @@ Here is a list of resources, software, and useful websites. All credits go to th
 
 [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 
+## Machine learning
+[PyKAN](https://github.com/KindXiaoming/pykan) and [KAN Documentation](https://kindxiaoming.github.io/pykan/)
+
 ## Interactive/visual learning resources
 ### AI/ML (browser based)
 [Neural network playground](https://playground.tensorflow.org/)
