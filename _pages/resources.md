@@ -58,5 +58,7 @@ Here is a list of resources, software, and useful websites. All credits go to th
 
 [A guide to digital signal processing](https://pysdr.org/index.html)
 
+[The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
+
 [Complex Analysis: A Visual and Interactive Introduction](https://complex-analysis.com/)
 
