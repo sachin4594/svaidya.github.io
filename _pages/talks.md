@@ -24,7 +24,7 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
-[Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154808) -- _upcoming_\
+[Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154808)\
 MRS Fall Meeting (December 2024) | Boston, Massachusetts
 
 [Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
@@ -78,7 +78,7 @@ Weyl points and BICs in 3D micro-printed photonic crystals\
 Nanoscribe User Meeting (2021) | Virtual
 
 ## Posters
-[Volumetric photonic crystal scintillators](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154386) -- _upcoming_\
+[Volumetric photonic crystal scintillators](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154386)\
 MRS Fall Meeting (2024) | Boston, Massachusetts
 
 [Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
