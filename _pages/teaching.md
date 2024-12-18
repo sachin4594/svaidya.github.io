@@ -41,6 +41,7 @@ I frequently serve as a referee for the following physics and photonics journals
 - Wiley: Advanced Optical Materials, Laser & Photonics Reviews
 - AIP: APL Photonics, Applied Physics Letters, Journal of Applied Physics
 - Oxford: National Science Review
+- ACM: ACM Computing Surveys
 
 I also serve as an external reviewer for user proposals submitted to the [Center for Integrated Nanotechnologies (CINT)](https://tours.sandia.gov/cint_info.html) at Sandia National Laboratories.
 
