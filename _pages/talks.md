@@ -24,6 +24,9 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
+[Unidirectional flow of quantum noise through non-reciprocity](https://summit.aps.org/events/MAR-G30/12) -- _upcoming_\
+APS Global Physics Summit (March 2025) | Anaheim, California 
+
 [Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154808)\
 MRS Fall Meeting (December 2024) | Boston, Massachusetts
 
