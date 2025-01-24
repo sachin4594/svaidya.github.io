@@ -77,7 +77,7 @@ Peter Eklund Award Finalist at Penn State (2023) | State College, Pennsylvania
 [Quantized polarization and fractional corner charge in Chern insulators](https://photons.illinois.edu/blog/65293)\
 Office of Naval Research (ONR) MURI Seminar (2022) | Virtual
 
-Weyl points and BICs in 3D micro-printed photonic crystals\
+[Weyl points and BICs in 3D micro-printed photonic crystals](https://www.nanoscribe.com/en/news-insights/news/nanoscribe-user-meeting-2021/)\
 Nanoscribe User Meeting (2021) | Virtual
 
 ## Posters
