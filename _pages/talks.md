@@ -74,7 +74,7 @@ MIT CMT Journal Club (2023) | Cambridge, Massachusetts
 Weyl points in 3D photonic crystals\
 Peter Eklund Award Finalist at Penn State (2023) | State College, Pennsylvania
 
-Quantized polarization and fractional corner charge in Chern insulators\
+[Quantized polarization and fractional corner charge in Chern insulators](https://photons.illinois.edu/blog/65293)\
 Office of Naval Research (ONR) MURI Seminar (2022) | Virtual
 
 Weyl points and BICs in 3D micro-printed photonic crystals\
