@@ -9,10 +9,12 @@ author_profile: true
 AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | San Francisco, California
 
 [Topological treks through non-orientable spaces and noisy landscapes](https://physics.emory.edu/home/news/index.html?trumbaEmbed=view%3Devent%26eventid%3D178790409)\
-Special Condensed Matter Seminar at Emory University (November 2024) | Atlanta, Georgia
+Special Condensed Matter Seminar at Emory University (November 2024) | Atlanta, Georgia\
+Host: Prof. Wladimir Benalcazar
 
 Frontiers in nanophotonics, quantum optics, and interpretable AI for physics\
-CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico
+CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico\
+Host: Dr. Alexander Cerjan
 
 Emerging paradigms in nanophotonics\
 Host: Prof. Boubacar Kanté and Prof. Eli Yablonovitch at UC Berkeley (October 2024) | Berkeley, California
