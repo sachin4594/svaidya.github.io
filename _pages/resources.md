@@ -4,7 +4,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-Here is a list of resources, software, and useful websites. All credits go to the original authors.
+Here is a (random) list of resources, software, and useful websites. All credits go to the original authors.
 
 ## Computational electromagnetics packages
 [MPB (MIT Photonic Bands): Plane-wave expansion method for photonic crystal band structures](https://mpb.readthedocs.io/en/stable/)
