@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Invited talks
-[Interpretable AI for physics and photonics applications](https://spie.org/photonics-west/presentation/Interpretable-AI-for-physics-and-photonics/13375-76#_=_) -- _upcoming_\
+[Interpretable AI for physics and photonics applications](https://spie.org/photonics-west/presentation/Interpretable-AI-for-physics-and-photonics/13375-76#_=_)\
 AI and Optical Data Sciences Conference (SPIE Photonics West) (January 2025) | San Francisco, California
 
 [Topological treks through non-orientable spaces and noisy landscapes](https://physics.emory.edu/home/news/index.html?trumbaEmbed=view%3Devent%26eventid%3D178790409)\
