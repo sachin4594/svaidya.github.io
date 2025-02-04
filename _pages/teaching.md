@@ -32,7 +32,7 @@ I have mentored several undergraduate students and guided their research project
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Project: Searching for Fermi-arcs in woodpile photonic crystals](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
 ## Service
-I frequently serve as a referee for the following physics and photonics journals:
+I frequently serve as a referee for the following journals:
 
 - APS: Physical Review Letters, Physical Review X, Physical Review A, Physical Review B, Physical Review Applied, Physical Review Research
 - Nature Publishing Group: Nature Physics, Nature Communications, Communications Physics
