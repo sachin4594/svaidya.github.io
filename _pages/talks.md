@@ -54,20 +54,23 @@ DAMOP (June 2021) | Virtual Conference
 CLEO (May 2020) | Virtual Conference
 
 ## Grant Reviews
+Title TBD -- _upcoming_\
+Office of Naval Research (ONR) MURI Review (May 2025) at University of Illinois Urbana-Champaign | Urbana-Champaign, Illinois
+
 Non-reciprocal topological control of quantum noise\
 DARPA PhENOM quarterly program review (QPR) (October 2024) | Virtual
 
 Development of advanced nanophotonic scintillators\
-DARPA PhENOM Kickoff (2024) | Virtual
+DARPA PhENOM Kickoff (June 2024) | Virtual
 
 Advances in topological band theory\
-Office of Naval Research (ONR) MURI Review (2024) | Philadelphia, Pennsylvania
+Office of Naval Research (ONR) MURI Review (April 2024) at University of Pennsylvania | Philadelphia, Pennsylvania
 
 Novel topological phases in photonic crystals\
-Office of Naval Research (ONR) MURI Review (2023) | Los Angeles, California
+Office of Naval Research (ONR) MURI Review (April 2023) at University of Southern California | Los Angeles, California
 
 Observation of quadratic Weyl point splitting in 3D micro-printed photonic crystals\
-Office of Naval Research (ONR) MURI Review (2021) | Virtual
+Office of Naval Research (ONR) MURI Review (April 2021) | Virtual
 
 ## Other talks
 Symmetry-indicator invariants: bridging the gap in topological band theory\
