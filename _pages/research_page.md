@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Topological matter and topological photonics
+## Topological matter
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
   
@@ -12,8 +12,8 @@ Topological insulators and semimetals are fascinating classes of materials that 
 <br><br>
 
 These are some key questions that inform my research:<br>
+- What novel phases of matter arise from the interplay of symmetry, geometry, and topology?
 - How can we extend the principles of topological phases to photonic systems and leverage them for robust control over light?<br>
-- How can we systematically classify different topological phases of matter and their photonic analogs?
 <br><br>
 
 <small>
@@ -63,7 +63,7 @@ Over the past few decades, efforts have been directed at understanding and contr
 <br><br>
 
 Some key questions that inform my research:<br>
-- What new physical phenomena emerge from the interplay of topology, symmetry and interactions in nonlinear optical systems?<br>
+- What physical phenomena arise from engineered interactions in nonlinear optical systems?<br>
 - How can we robustly control noise in quantum systems and generate non-classical states of light?
 <br><br>
 
@@ -79,7 +79,7 @@ Some key questions that inform my research:<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs_image.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
-Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. In contrast, advancements in physics often rely on key insights derived from experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
+Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. Advancements in physics often rely on key insights derived from theoretical developments, experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
 <br><br>
 
 Some key questions that inform my research:<br>
