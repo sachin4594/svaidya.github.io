@@ -12,7 +12,7 @@ Topological insulators and semimetals are fascinating classes of materials that 
 <br><br>
 
 These are some key questions that inform my research:<br>
-- What novel phases of matter arise from the interplay of symmetry, geometry, and topology?
+- What novel phases of matter arise from the interplay of symmetry, geometry, and topology?<br>
 - How can we extend the principles of topological phases to photonic systems and leverage them for robust control over light?<br>
 <br><br>
 
