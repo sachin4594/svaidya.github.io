@@ -57,6 +57,9 @@ CLEO (May 2020) | Virtual Conference
 Title TBD -- _upcoming_\
 Office of Naval Research (ONR) MURI Review (May 2025) at University of Illinois Urbana-Champaign | Urbana-Champaign, Illinois
 
+Title TBD -- _upcoming_\
+DARPA PhENOM phase 1 program review (May 2025) | Virtual
+
 Non-reciprocal topological control of quantum noise\
 DARPA PhENOM quarterly program review (QPR) (October 2024) | Virtual
 
