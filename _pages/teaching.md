@@ -22,7 +22,7 @@ I have mentored several undergraduate students and guided their research project
 - Amelie A. Chan, MIT, UROP, Fall 2024-present 
 - Taohan Lin, MIT, UROP, Fall 2024-present
 - Eric Wang, MIT, UROP, Fall 2024-present
-- Luke Huang, MIT, UROP, Fall 2024-present
+- Luke Huang, MIT, UROP, Fall 2024-Spring 2025
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-present
 - Raafat Salib, MIT, UROP, Spring 2024-present
 - Shrish Choudhary, MIT, UROP, Spring 2024-present
