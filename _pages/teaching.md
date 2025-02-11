@@ -26,10 +26,10 @@ I have mentored several undergraduate students and guided their research project
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-present
 - Raafat Salib, MIT, UROP, Spring 2024-present
 - Shrish Choudhary, MIT, UROP, Spring 2024-present
-- Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present (Project: Confinement of light in three dimensions without photonic bandgaps -- _in preparation_)
-- Kyle Linn, Penn State, REU, Summer 2022 ([Project: Reentrant delocalization transition in photonic quasicrystals](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
-- Megan Goh, Amherst College, REU, Summer 2022 (Project: Hofstadter butterfly and topological states in photonic crystals -- _in preparation_)
-- Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Project: Searching for Fermi-arcs in woodpile photonic crystals](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
+- Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present
+- Kyle Linn, Penn State, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
+- Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
+- Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Conference Presentation](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
 ## Service
 I frequently serve as a referee for the following journals:
