@@ -16,7 +16,7 @@ I served as a graduate teaching assistant for the following courses:
 In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](https://science.psu.edu/physics/graduate/awards/student-teaching) by the Department of Physics at Penn State for 'teaching excellence in physics,' based on feedback from hundreds of students. You can read some of the student feedback [here](https://sachin4594.github.io/svaidya.github.io/files/Selected_Student_Comments.pdf).
 
 ## Mentorship
-I mentor undergraduate students and guide their research projects:
+I actively mentor undergraduate students, guiding them through research projects. Here are the students I have had the privilege of working with over the past few years:
 
 - Yichen (Sophie) Li, MIT, UROP, Fall 2024-present
 - Amelie A. Chan, MIT, UROP, Fall 2024-present 
