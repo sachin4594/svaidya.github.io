@@ -14,19 +14,19 @@ My research spans a wide array of topics, from nanophotonics and topological mat
 ## Recent Publications
 [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
-The Thirteenth International Conference on Learning Representations (2025) _(accepted)_\
+*The Thirteenth International Conference on Learning Representations - ICLR (2025)* _(accepted)_\
 [*Scientific American*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/), [*MIT Technology Review*](https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/), [*IEEE Spectrum*](https://spectrum.ieee.org/kan-neural-network)
 
 [Prevalence of two-dimensional photonic topology](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.056602)\
 Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin Soljačić and Thomas Christensen\
-Physical Review Letters (2024)
+*Physical Review Letters (2024)*
 
 [Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
 André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
-Physical Review Letters (2024)
+*Physical Review Letters (2024)*
 
 [Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
-Physical Review Letters (2024)
+*Physical Review Letters (2024)*
 
 [See all publications](/publications/)
