@@ -19,11 +19,11 @@ These are some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] <b>Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
+[1] Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
 <br>
-[2] <b>Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
+[2] Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
 <br>
-[3] <b>Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
+[3] Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
 <br>
 [4] Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
 </small>
