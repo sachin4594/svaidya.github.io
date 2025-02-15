@@ -19,14 +19,13 @@ These are some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] <b>Sachin Vaidya*</b>, Jiho Noh*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman, Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
+[1] <b>Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
 <br>
-[2] <b>Sachin Vaidya</b>, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A.Benalcazar, Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
+[2] <b>Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
 <br>
-[3] <b>Sachin Vaidya</b>, Mikael C. Rechtsman and Wladimir A. Benalcazar, Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
+[3] <b>Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
 <br>
-[4] André Grossi e Fonseca*, <b>Sachin Vaidya*</b>, Thomas Christensen, Mikael C. Rechtsman, Taylor L.
-Hughes and Marin Soljačić, Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
+[4] Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
 </small>
 </div>
 
@@ -45,13 +44,13 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] <b>Sachin Vaidya</b>, Wladimir A. Benalcazar, Alexander Cerjan, and Mikael C. Rechtsman, Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
+[1] Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
 <br>
-[2] Alexander Cerjan*, Christina Jörg*, <b>Sachin Vaidya</b>, Shyam Augustine, Wladimir A. Benalcazar, Chia Wei Hsu, Georg von Freymann, and Mikael C. Rechtsman, Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
+[2] Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
 <br>
-[3] Louis Martin-Monier*, Simo Pajovic*, Muluneh G. Abebe*, Joshua Chen, <b>Sachin Vaidya</b>, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes, Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
+[3] Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
 <br>
-[4] Seokhwan Min, Seou Choi, Simo Pajovic, <b>Sachin Vaidya</b>, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes, End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
+[4] End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
 </small>  
 </div>
 
@@ -70,7 +69,7 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] Sahil Pontula, <b>Sachin Vaidya</b>, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljacic, Yannick Salamin, Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
+[1] Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
 <br>
 </small>
 </div>
@@ -90,7 +89,7 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] Ziming Liu, Yixuan Wang, <b>Sachin Vaidya</b>, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark, KAN: Kolmogorov-Arnold Networks, arXiv:2404.19756 (2024)
+[1] KAN: Kolmogorov-Arnold Networks, ICLR (2025)
 <br>
 </small>
 </div>
