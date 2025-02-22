@@ -44,7 +44,7 @@ André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Re
 
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
 Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Guglielmon, Michael I. Weinstein, Li He, Bo Zhen, Randall McEntaffer and Mikael C. Rechtsman\
-*Nature Photonics (2024)* - [*Penn State news*](https://science.psu.edu/news/Rechtsman4-2024), [*News & Views*](https://www.nature.com/articles/s41566-024-01453-8)
+*Nature Photonics (2024)* - [*Phys.org*](https://phys.org/news/2024-04-magnetic-field-electron.html), [*Penn State news*](https://science.psu.edu/news/Rechtsman4-2024), [*News & Views*](https://www.nature.com/articles/s41566-024-01453-8)
 
 [Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
 **Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
