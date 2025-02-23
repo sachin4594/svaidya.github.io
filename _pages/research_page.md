@@ -78,7 +78,7 @@ Some key questions that inform my research:<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs_image.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
-Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. Advancements in physics often rely on key insights derived from theoretical developments, experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraing AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
+Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. Advancements in physics often rely on key insights derived from theoretical developments, experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraging AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
 <br><br>
 
 Some key questions that inform my research:<br>
