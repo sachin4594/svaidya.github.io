@@ -15,4 +15,4 @@ Personal: sachin4594 [at] gmail [dot] com
 6C-417\
 Massachusetts Institute of Technology\
 77 Massachusetts Avenue\
-Cambrigde, MA 02139
+Cambridge, MA 02139
