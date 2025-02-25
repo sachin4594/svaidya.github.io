@@ -38,6 +38,8 @@ Here is a (random) list of resources, software, and useful websites. All credits
 
 [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 
+[myHDF5 - online HDF5 file viewing service](https://myhdf5.hdfgroup.org/help) 
+
 ## Machine learning
 [PyKAN](https://github.com/KindXiaoming/pykan) and [KAN Documentation](https://kindxiaoming.github.io/pykan/)
 
