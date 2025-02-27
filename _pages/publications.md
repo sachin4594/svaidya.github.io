@@ -21,7 +21,7 @@ Louis Martin-Monier\*, Simo Pajovic\*, Muluneh G. Abebe\*, Joshua Chen, **Sachin
 Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
 *arXiv:2409.14299 (2024)*
 
-<div style="text-align: right"> * denotes equal contribution </div>
+<div style="text-align: right"> * equal contribution, † corresponding author </div>
 
 ## Journal Publications
 
@@ -39,7 +39,7 @@ Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin So
 *Physical Review Letters (2024)*
 
 [Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
-André Grossi e Fonseca\*, **Sachin Vaidya\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+André Grossi e Fonseca\*, **Sachin Vaidya†\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
 *Physical Review Letters (2024)*
 
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
@@ -47,17 +47,17 @@ Maria Barsukova\*, Fabien Grisé\*, Zeyu Zhang\*, **Sachin Vaidya**, Jonathan Gu
 *Nature Photonics (2024)* - [*Phys.org*](https://phys.org/news/2024-04-magnetic-field-electron.html), [*Penn State news*](https://science.psu.edu/news/Rechtsman4-2024), [*News & Views*](https://www.nature.com/articles/s41566-024-01453-8)
 
 [Response to polarization and weak topology in Chern insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.116602)\
-**Sachin Vaidya**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
+**Sachin Vaidya†**, Mikael C. Rechtsman and Wladimir A. Benalcazar\
 *Physical Review Letters (2024)*
 
 ### 2023
 
 [Reentrant delocalization transition in one-dimensional photonic quasicrystals](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170)\
-**Sachin Vaidya\***, Christina Jörg\*, Kyle Linn, Megan Goh and Mikael C. Rechtsman\
+**Sachin Vaidya†\***, Christina Jörg\*, Kyle Linn, Megan Goh and Mikael C. Rechtsman\
 *Physical Review Research (2023)*
 
 [Topological phases of photonic crystals under crystalline symmetries](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.085116)\
-**Sachin Vaidya**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A. Benalcazar\
+**Sachin Vaidya†**, Ali Ghorashi, Thomas Christensen, Mikael C. Rechtsman and Wladimir A. Benalcazar\
 *Physical Review B (2023)*
 
 ### 2022
@@ -77,7 +77,7 @@ Julian Schulz, **Sachin Vaidya** and Christina Jörg\
 *APL Photonics (2021)* - *Editor's Pick*
 
 [Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.023605)\
-**Sachin Vaidya**, Wladimir A. Benalcazar, Alexander Cerjan and Mikael C. Rechtsman\
+**Sachin Vaidya†**, Wladimir A. Benalcazar, Alexander Cerjan and Mikael C. Rechtsman\
 *Physical Review Letters (2021)*
 
 ### 2020 
@@ -86,4 +86,4 @@ Julian Schulz, **Sachin Vaidya** and Christina Jörg\
 **Sachin Vaidya\***, Jiho Noh\*, Alexander Cerjan, Christina, Jörg, Georg von Freymann and Mikael C. Rechtsman\
 *Physical Review Letters (2020)* - *Editors' Suggestion*, [*Press*](https://pro-physik.de/nachrichten/weyl-punkte-im-infrarotlicht)
 
-<div style="text-align: right"> * denotes equal contribution </div>
+<div style="text-align: right"> * equal contribution, † corresponding author</div>
