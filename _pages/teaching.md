@@ -31,7 +31,7 @@ I actively mentor undergraduate students, guiding them through research projects
 - Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Conference Presentation](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
-## Service
+## Professional Service
 I frequently serve as a referee for the following journals:
 
 - APS: Physical Review Letters, Physical Review X, Physical Review A, Physical Review B, Physical Review Applied, Physical Review Research
