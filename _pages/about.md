@@ -12,4 +12,4 @@ Hello! I'm Sachin Vaidya, a postdoctoral associate at the [Massachusetts Institu
 My research spans a wide array of topics, from nanophotonics and topological matter to interpretable AI for science, and more recently includes robotics. I enjoy collaborating with scientists from diverse fields and backgrounds, bringing together theoretical, computational, and experimental approaches to tackle complex problems in  physics and engineering. You can read more about my research [here](/research/) and find an up-to-date list of my publications [here](/publications/).
 
 ### Research mind map
-<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/Research_mindmap.png" width="700" style="margin: 20px">
+<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/Research_mindmap.png" width="1000" style="margin: 20px">
