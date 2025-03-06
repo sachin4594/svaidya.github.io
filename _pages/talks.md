@@ -26,6 +26,9 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
+[Volumetrically-Patterned Nanophotonic Scintillators](https://cleoconference.org/) -- _upcoming_\
+CLEO (May 2025) | Long Beach, California
+
 [Unidirectional flow of quantum noise through non-reciprocity](https://summit.aps.org/events/MAR-G30/12) -- _upcoming_\
 APS Global Physics Summit (March 2025) | Anaheim, California 
 
