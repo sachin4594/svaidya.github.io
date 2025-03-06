@@ -7,41 +7,41 @@ author_profile: true
 Here is a (random) list of resources, software, and useful websites. All credits go to the original authors.
 
 ## Computational electromagnetics packages
-[MPB (MIT Photonic Bands): Plane-wave expansion method for photonic crystal band structures](https://mpb.readthedocs.io/en/stable/)
+[MPB (MIT Photonic Bands)](https://mpb.readthedocs.io/en/stable/): Implements the plane-wave expansion method for calculating photonic crystal band structures.
 
-[MEEP: Finite-different time domain implementation](https://meep.readthedocs.io/en/latest/)
+[MEEP](https://meep.readthedocs.io/en/latest/): Finite-difference time-domain (FDTD) software used for simulating electromagnetic systems.
 
-[Stanford S4: Rigorous coupled-wave analysis (RCWA) for calculating properties of 2D/3D optical multilayer structures](https://web.stanford.edu/group/fan/S4/)
+[Stanford S4](https://web.stanford.edu/group/fan/S4/): Performs rigorous coupled-wave analysis (RCWA) for both 2D and 3D optical multilayer structures.
 
-[Inkstone: RCWA](https://github.com/alexysong/inkstone)
+[Inkstone: RCWA](https://github.com/alexysong/inkstone): Another RCWA tool for optical multilayer structures.
 
-[Legume: Guided mode expansion method (GME) for photonic crystal slabs](https://github.com/fancompute/legume)
+[Legume](https://github.com/fancompute/legume): Implements guided mode expansion (GME) for photonic crystal slabs.
 
 ## Optics simulation tools (browser based)
-[Ray optics simulation](https://phydemo.app/ray-optics/)
+[Ray optics simulation](https://phydemo.app/ray-optics/): Interactive visualization tool demonstrating ray optics phenomena.
 
-[Optical multilayer spectrum calculator (_includes material dispersion_)](https://www.filmetrics.com/reflectance-calculator)
+[Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator): Calculates optical spectra for 1D multilayer structures with material dispersion.
 
 ## Databases and tools
 
-[Refractive index database](https://refractiveindex.info/)
+[Refractive index database](https://refractiveindex.info/): Comprehensive database of refractive indices for various materials.
 
-[Scintillator library](https://scintillator.lbl.gov/)
+[Scintillator library](https://scintillator.lbl.gov/): Database of scintillator materials used in radiation detection.
 
-[X-ray interactions with matter](https://henke.lbl.gov/optical_constants/)
+[X-ray interactions with matter](https://henke.lbl.gov/optical_constants/): Resource for understanding X-ray interactions with various materials.
 
-[Character tables for point groups](http://symmetry.jacobs-university.de/)
+[Character tables for point groups](http://symmetry.jacobs-university.de/): Tables used for symmetry analysis.
 
-[Space group diagrams and tables](http://img.chem.ucl.ac.uk/sgp/large/sgp.htm)
+[Space group diagrams and tables](http://img.chem.ucl.ac.uk/sgp/large/sgp.htm): Detailed crystallographic space group diagrams and tables.
 
-[Bilbao crystallographic server](https://www.cryst.ehu.es/)
+[Bilbao crystallographic server](https://www.cryst.ehu.es/): Extensive tools for crystallography and solid state physics research.
 
-[NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+[NIST DLMF](https://dlmf.nist.gov/): Standard reference for mathematical and special functions.
 
-[myHDF5 - online HDF5 file viewing service](https://myhdf5.hdfgroup.org/help) 
+[myHDF5](https://myhdf5.hdfgroup.org/help): Web-based platform for interactive viewing of HDF5 files.
 
 ## Machine learning
-[PyKAN](https://github.com/KindXiaoming/pykan) and [KAN Documentation](https://kindxiaoming.github.io/pykan/)
+[PyKAN](https://github.com/KindXiaoming/pykan) and [KAN Documentation](https://kindxiaoming.github.io/pykan/): Implementation and documentation for Kolmogorov-Arnold Networks (KAN).
 
 ## Interactive/visual learning resources
 ### AI/ML (browser based)
