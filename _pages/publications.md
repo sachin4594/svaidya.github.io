@@ -9,13 +9,17 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Classification of Fragile Topology Enabled by Matrix Homotopy](https://arxiv.org/abs/2503.03948)\
+Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
+arXiv:2503.03948 (2025)
+
 [Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://arxiv.org/abs/2410.07141)\
 Louis Martin-Monier\*, Simo Pajovic\*, Muluneh G. Abebe\*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
-*arXiv:2410.07141 (2024)*
+arXiv:2410.07141 (2024)
 
 [Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
 Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
-*arXiv:2409.14299 (2024)*
+arXiv:2409.14299 (2024)
 
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
 
