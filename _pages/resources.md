@@ -18,13 +18,13 @@ Here is a (random) list of resources, software, and useful websites. All credits
 [Legume](https://github.com/fancompute/legume): Implements guided mode expansion (GME) for photonic crystal slabs.
 
 ## Optics simulation tools (browser based)
-[Ray optics simulation](https://phydemo.app/ray-optics/): Interactive visualization tool demonstrating ray optics phenomena.
+[Ray optics simulation](https://phydemo.app/ray-optics/): Interactive visualization tool for ray optics phenomena.
 
 [Optical multilayer spectrum calculator](https://www.filmetrics.com/reflectance-calculator): Calculates optical spectra for 1D multilayer structures with material dispersion.
 
 ## Databases and tools
 
-[Refractive index database](https://refractiveindex.info/): Comprehensive database of refractive indices for various materials.
+[Refractive index database](https://refractiveindex.info/): Comprehensive database of optical constants for various materials.
 
 [Scintillator library](https://scintillator.lbl.gov/): Database of scintillator materials used in radiation detection.
 
@@ -36,7 +36,7 @@ Here is a (random) list of resources, software, and useful websites. All credits
 
 [Bilbao crystallographic server](https://www.cryst.ehu.es/): Extensive tools for crystallography and solid state physics research.
 
-[NIST DLMF](https://dlmf.nist.gov/): Standard reference for mathematical and special functions.
+[NIST DLMF](https://dlmf.nist.gov/): Standard reference for mathematical functions and their properties.
 
 [myHDF5](https://myhdf5.hdfgroup.org/help): Web-based platform for interactive viewing of HDF5 files.
 
