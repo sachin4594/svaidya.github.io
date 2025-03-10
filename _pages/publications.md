@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Exceptional Topology on Nonorientable Manifolds](https://arxiv.org/abs/2503.04889)\
+J. Lukas K. König*, Kang Yang*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
+arXiv:2503.04889 (2025)
+
 [Classification of Fragile Topology Enabled by Matrix Homotopy](https://arxiv.org/abs/2503.03948)\
 Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
 arXiv:2503.03948 (2025)
