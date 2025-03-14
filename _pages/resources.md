@@ -44,12 +44,6 @@ Here is a (random) list of resources, software, and useful websites. All credits
 [PyKAN](https://github.com/KindXiaoming/pykan) and [KAN Documentation](https://kindxiaoming.github.io/pykan/): Implementation and documentation for Kolmogorov-Arnold Networks (KAN).
 
 ## Interactive/visual learning resources
-### AI/ML (browser based)
-[Neural network playground](https://playground.tensorflow.org/)
-
-[KANvas: Explore Kolmogorov-Arnold Networks](https://kanvas.deepverse.tech/#/kan)
-
-### Physics and math
 [Waves and oscillations demos (Penn State)](https://www.acs.psu.edu/drussell/demos.html)
 
 [Caltech physics demos](https://www.physicsdemos.caltech.edu/)
