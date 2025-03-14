@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Quantized crystalline-electromagnetic responses in insulators](https://arxiv.org/abs/2503.09970)\
+**Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
+arXiv:2503.09970 (2025)
+
 [Exceptional Topology on Nonorientable Manifolds](https://arxiv.org/abs/2503.04889)\
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
 arXiv:2503.04889 (2025)
@@ -46,7 +50,7 @@ Ali Ghorashi, **Sachin Vaidya**, Mikael Rechtsman, Wladimir Benalcazar, Marin So
 Physical Review Letters (2024)
 
 [Weyl points on non-orientable manifolds](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.266601)\
-André Grossi e Fonseca\*, **Sachin Vaidya†\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
+André Grossi Fonseca\*, **Sachin Vaidya†\***, Thomas Christensen, Mikael C. Rechtsman, Taylor L. Hughes and Marin Soljačić\
 Physical Review Letters (2024)
 
 [Direct observation of Landau levels in silicon photonic crystals](https://www.nature.com/articles/s41566-024-01425-y)\
