@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Noise immunity in quantum optical systems through non-Hermitian topology](https://arxiv.org/abs/2503.11620)\
+Jamison Sloan*, **Sachin Vaidya†\***, Nicholas Rivera, Marin Soljačić\
+arXiv:2503.11620 (2025)
+
 [Quantized crystalline-electromagnetic responses in insulators](https://arxiv.org/abs/2503.09970)\
 **Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
 arXiv:2503.09970 (2025)
