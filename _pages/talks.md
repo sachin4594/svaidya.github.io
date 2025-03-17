@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Invited talks
+Interpretable AI and robotics for physics\
+Host: Prof. Di Luo at UCLA (March 2025) | Los Angeles, California
+
 [Interpretable AI for physics and photonics applications](https://spie.org/photonics-west/presentation/Interpretable-AI-for-physics-and-photonics/13375-76#_=_)\
 SPIE Photonics West (January 2025) | San Francisco, California
 
