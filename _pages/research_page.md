@@ -4,6 +4,9 @@ title: "Research"
 author_profile: true
 ---
 
+<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/mindmap.png" width="500" style="margin: 20px">
+<p style="text-align: center; font-size: 0.9em;"><em>A "mind map" of my research interests.</em></p>
+
 ## Topological matter
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
@@ -13,19 +16,19 @@ Topological insulators and semimetals are fascinating classes of materials that 
 
 These are some key questions that inform my research:<br>
 - What novel phases of matter arise from the interplay of symmetry, geometry, and topology?<br>
-- How can we extend the principles of topological phases to photonic systems and leverage them for robust control over light?<br>
+- How can we extend topological phases to photonic systems and leverage them for robust control over light?<br>
 <br><br>
 
 <small>
 <b>References:</b>
 <br>
-[1] Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters 125, 253902 (2020)
+[1] Quantized crystalline-electromagnetic responses in insulators, arXiv:2503.09970 (2025)
 <br>
-[2] Topological phases of photonic crystals under crystalline symmetries, Physical Review B 108, 085116 (2023)
+[2] Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
 <br>
 [3] Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
 <br>
-[4] Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
+[4] Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters, 125, 253902 (2020)
 </small>
 </div>
 
@@ -69,7 +72,9 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
+[1] Noise immunity in quantum optical systems through non-Hermitian topology, arXiv:2503.11620 (2025)  
+<br>
+[2] Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
 <br>
 </small>
 </div>
