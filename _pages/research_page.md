@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/mindmap.png" width="500" style="margin: 20px">
+<img align="center" src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/mindmap.png" width="1000" style="margin: 20px">
 <p style="text-align: center; font-size: 0.9em;"><em>A "mind map" of my research interests.</em></p>
 
 ## Topological matter
