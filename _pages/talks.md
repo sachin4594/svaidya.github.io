@@ -32,7 +32,7 @@ Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 [Volumetrically-Patterned Nanophotonic Scintillators](https://cleoconference.org/) -- _upcoming_\
 CLEO (May 2025) | Long Beach, California
 
-[Unidirectional flow of quantum noise through non-reciprocity](https://summit.aps.org/events/MAR-G30/12) -- _upcoming_\
+[Unidirectional flow of quantum noise through non-reciprocity](https://summit.aps.org/events/MAR-G30/12)\
 APS Global Physics Summit (March 2025) | Anaheim, California 
 
 [Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154808)\
