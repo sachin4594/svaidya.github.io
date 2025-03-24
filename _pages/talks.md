@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Invited talks
+Unidirectional flow of quantum noise through non-reciprocity\
+Host: Prof. Dirk Englund at MIT (April 2025) | Cambridge, Massachusetts 
+
 Interpretable AI and robotics for physics\
 Host: Prof. Di Luo at UCLA (March 2025) | Los Angeles, California
 
