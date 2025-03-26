@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Invited talks
-Unidirectional flow of quantum noise through non-reciprocity\
+Unidirectional flow of quantum noise through non-reciprocity -- _upcoming_\
 Host: Prof. Dirk Englund at MIT (April 2025) | Cambridge, Massachusetts 
 
 Interpretable AI and robotics for physics\
@@ -67,7 +67,7 @@ Title TBD -- _upcoming_\
 DARPA PhENOM phase 1 program review (May 2025) | Virtual
 
 Title TBD -- _upcoming_\
-Office of Naval Research (ONR) MURI Review (April 2025)
+Office of Naval Research (ONR) MURI Review (May 2025)
 
 Non-reciprocal topological control of quantum noise\
 DARPA PhENOM quarterly program review (QPR) (October 2024) | Virtual
