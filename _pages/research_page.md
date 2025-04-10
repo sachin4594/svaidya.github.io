@@ -47,13 +47,13 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
+[1] End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
 <br>
-[2] Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
+[2] Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
 <br>
-[3] Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
+[3] Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances Vol 7, Issue 52 eabk1117 (2021)
 <br>
-[4] End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, arXiv:2410.08543 (2024)
+[4] Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
 </small>  
 </div>
 
