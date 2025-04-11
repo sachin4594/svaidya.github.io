@@ -38,9 +38,9 @@ arXiv:2409.14299 (2024)
 ## Journal Publications
 
 ### 2025
-[End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging](https://arxiv.org/abs/2410.08543)\
+[End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging](https://www.nature.com/articles/s41377-025-01836-8)\
 Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes\
-Light: Science & Applications (2025) _(accepted)_
+Light: Science & Applications (2025)
 
 [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
