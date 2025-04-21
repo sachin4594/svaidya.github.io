@@ -39,7 +39,7 @@ arXiv:2409.14299 (2024)
 
 ### 2025
 Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet\
-Ahmet Kemal Demir*, Luca Nessi*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
+Ahmet Kemal Demir\*, Luca Nessi\*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
 Nature Photonics (2025) _(ccepted)_
 
 [End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging](https://www.nature.com/articles/s41377-025-01836-8)\
