@@ -67,7 +67,7 @@ Title TBD -- _upcoming_\
 DARPA PhENOM phase 1 program review (May 2025) | Virtual
 
 Title TBD -- _upcoming_\
-Office of Naval Research (ONR) MURI Review (May 2025)
+Office of Naval Research (ONR) MURI Review (May 2025) at University of Maryland | Washington, D.C.
 
 Non-reciprocal topological control of quantum noise\
 DARPA PhENOM quarterly program review (QPR) (October 2024) | Virtual
