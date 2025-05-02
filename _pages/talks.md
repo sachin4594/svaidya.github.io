@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Invited talks
+Interpretable AI and robotics for physics -- _upcoming_\
+Host: Prof. Mohammad Hafezi at University of Maryland (May 2025) |  College Park, Maryland
+
 Unidirectional flow of quantum noise through non-reciprocity\
 Host: Prof. Dirk Englund at MIT (April 2025) | Cambridge, Massachusetts 
 
@@ -64,10 +67,10 @@ CLEO (May 2020) | Virtual Conference
 
 ## Grant Reviews
 Title TBD -- _upcoming_\
-DARPA PhENOM phase 1 program review (May 2025) | Virtual
+Office of Naval Research (ONR) MURI Review (May 2025) at University of Maryland | College Park, Maryland
 
-Title TBD -- _upcoming_\
-Office of Naval Research (ONR) MURI Review (May 2025) at University of Maryland | Washington, D.C.
+Robustly controlling quantum noise & development of nanophotonic scintillators\
+DARPA PhENOM phase 1 program review (May 2025) | Virtual
 
 Non-reciprocal topological control of quantum noise\
 DARPA PhENOM quarterly program review (QPR) (October 2024) | Virtual
