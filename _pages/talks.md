@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Invited talks
-Interpretable AI and robotics for physics -- _upcoming_\
+Interpretable AI and robotics for photonics\
 Host: Prof. Mohammad Hafezi at University of Maryland (May 2025) |  College Park, Maryland
 
 Unidirectional flow of quantum noise through non-reciprocity\
@@ -35,7 +35,7 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
-[Volumetrically-Patterned Nanophotonic Scintillators](https://cleoconference.org/) -- _upcoming_\
+[Volumetrically-Patterned Nanophotonic Scintillators](https://cleoconference.org/)\
 CLEO (May 2025) | Long Beach, California
 
 [Unidirectional flow of quantum noise through non-reciprocity](https://summit.aps.org/events/MAR-G30/12)\
@@ -44,7 +44,7 @@ APS Global Physics Summit (March 2025) | Anaheim, California
 [Weyl points on non-orientable manifolds](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154808)\
 MRS Fall Meeting (December 2024) | Boston, Massachusetts
 
-[Photonic Weyl points on non-orientable Brillouin zones](https://www.cleoconference.org/home/schedule/)\
+[Photonic Weyl points on non-orientable Brillouin zones](https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2024-FW3M.1)\
 CLEO (May 2024) | Charlotte, North Carolina
 
 [Localization and reentrant delocalization transitions in one-dimensional photonic quasicrystals](https://meetings.aps.org/Meeting/MAR24/Session/T54.5)\
@@ -66,7 +66,7 @@ DAMOP (June 2021) | Virtual Conference
 CLEO (May 2020) | Virtual Conference
 
 ## Grant Reviews
-Title TBD -- _upcoming_\
+New developments in topological matter and photonics\
 Office of Naval Research (ONR) MURI Review (May 2025) at University of Maryland | College Park, Maryland
 
 Robustly controlling quantum noise & development of nanophotonic scintillators\
