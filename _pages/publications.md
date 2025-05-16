@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Interpretable Artificial Intelligence for Topological Photonics](https://arxiv.org/abs/2505.10485)\
+Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
+arXiv:2505.10485 (2025)
+
 [Noise immunity in quantum optical systems through non-Hermitian topology](https://arxiv.org/abs/2503.11620)\
 Jamison Sloan*, **Sachin Vaidya†\***, Nicholas Rivera, Marin Soljačić\
 arXiv:2503.11620 (2025)
