@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[AI-Driven Robotics for Free-Space Optics](https://arxiv.org/abs/2505.17985)\
+Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
+arXiv:2505.17985 (2025)
+
 [Interpretable Artificial Intelligence for Topological Photonics](https://arxiv.org/abs/2505.10485)\
 Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
 arXiv:2505.10485 (2025)
