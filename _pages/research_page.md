@@ -33,12 +33,12 @@ These are some key questions that inform my research:<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
-The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control of light makes it possible to leverage effects like the Purcell effect to increase spontaneous emission rates or achieve supercollimation, promising advancements in applications such as developing nanophotonic scintillators for medical imaging.
+The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control of light makes it possible to leverage effects like the Purcell effect to increase spontaneous emission rates or achieve supercollimation, promising advancements in applications such as developing nanophotonic scintillators.
 <br><br>
 
 Some key questions that inform my research:<br>
 - Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?<br>
-- What new functionalities can be achieved by combining nanophotonics with scintillation?
+- What new functionalities can be achieved by leveraging nanophotonics for scintillation?
 <br><br>
 
 <small>
@@ -76,7 +76,7 @@ Some key questions that inform my research:<br>
 </small>
 </div>
 
-## Interpretable AI for physics
+## Interpretable AI and robotics for physics
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs_image.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
@@ -92,6 +92,8 @@ Some key questions that inform my research:<br>
 <b>References:</b>
 <br>
 [1] KAN: Kolmogorov-Arnold Networks, ICLR (2025)
+<br>
+[2] AI-driven robotics for free-space optics, arXiv:2505.17985 (2025)
 <br>
 </small>
 </div>
