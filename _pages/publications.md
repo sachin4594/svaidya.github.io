@@ -56,7 +56,7 @@ Light: Science & Applications (2025)
 
 [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)\
 Ziming Liu, Yixuan Wang, **Sachin Vaidya**, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark\
-The Thirteenth International Conference on Learning Representations - ICLR (2025) _(accepted)_ - [*Scientific American*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/), [*MIT Technology Review*](https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/), [*IEEE Spectrum*](https://spectrum.ieee.org/kan-neural-network)
+The Thirteenth International Conference on Learning Representations - [ICLR (2025)](https://iclr.cc/virtual/2025/oral/31858) - [*Scientific American*](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/), [*Quanta Magazine*](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/), [*MIT Technology Review*](https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/), [*IEEE Spectrum*](https://spectrum.ieee.org/kan-neural-network)
 
 
 ### 2024
