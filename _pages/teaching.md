@@ -22,10 +22,10 @@ I actively mentor undergraduate students, guiding them through research projects
 - Amelie A. Chan, MIT, UROP, Fall 2024-present 
 - Taohan Lin, MIT, UROP, Fall 2024-present
 - Eric Wang, MIT, UROP, Fall 2024-present
-- Luke Huang, MIT, UROP, Fall 2024-Spring 2025
+- Luke Huang, MIT, UROP, Fall 2024-Spring 2025 ([Paper](https://arxiv.org/abs/2505.17985))
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-present
-- Raafat Salib, MIT, UROP, Spring 2024-present
-- Shrish Choudhary, MIT, UROP, Spring 2024-present
+- Raafat Salib, MIT, UROP, Spring 2024-present ([Paper](https://arxiv.org/abs/2505.17985))
+- Shrish Choudhary, MIT, UROP, Spring 2024-present ([Paper](https://arxiv.org/abs/2505.17985))
 - Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present
 - Kyle Linn, Penn State, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
 - Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
