@@ -40,6 +40,7 @@ I frequently serve as a referee for the following journals:
 - Optica: Optica, Photonics Research, Optics Express
 - Wiley: Advanced Optical Materials, Laser & Photonics Reviews
 - AIP: APL Photonics, Applied Physics Letters, Journal of Applied Physics
+- IOP: Journal of Physics: Photonics
 - Oxford: National Science Review
 - ACM: ACM Computing Surveys
 
