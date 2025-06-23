@@ -5,6 +5,13 @@ author_profile: true
 ---
 
 ## Invited talks
+[Interpretable AI and robotics for photonics](https://opticalcomputingconference.org/)\
+Emerging Directions in Optical Computing and Information Processing at CUNY (June 2025) | Virtual Conference
+
+Interpretable AI and robotics for photonics\
+AI Seminar at RPTU Kaiserslautern-Landau (June 2025) | Virtual Conference\
+Host: Prof. Christina Jörg
+
 Interpretable AI and robotics for photonics\
 Host: Prof. Mohammad Hafezi at University of Maryland (May 2025) |  College Park, Maryland
 
