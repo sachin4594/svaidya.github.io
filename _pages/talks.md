@@ -43,6 +43,9 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
+AI-driven robotics for physics - _upcoming_\
+NSF IAIFI Summer Workshop at Harvard University (August 2025) | Cambridge, Massachusetts
+
 [Volumetrically-Patterned Nanophotonic Scintillators](https://cleoconference.org/)\
 CLEO (May 2025) | Long Beach, California
 
