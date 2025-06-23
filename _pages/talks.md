@@ -6,7 +6,7 @@ author_profile: true
 
 ## Invited talks
 [Interpretable AI and robotics for photonics](https://opticalcomputingconference.org/)\
-Emerging Directions in Optical Computing and Information Processing at CUNY (June 2025) | Virtual Conference
+Emerging Directions in Optical Computing and Information Processing at CUNY (June 2025) | Virtual Conference\
 Host: Prof. Mohammad-Ali Miri
 
 Interpretable AI and robotics for photonics\
