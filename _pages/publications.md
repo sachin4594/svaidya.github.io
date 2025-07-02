@@ -46,9 +46,9 @@ Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet\
 Ahmet Kemal Demir\*, Luca Nessi\*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
 Nature Photonics (2025) _(accepted)_
 
-[Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://arxiv.org/abs/2410.07141)\
+[Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://www.nature.com/articles/s41467-025-60953-5)\
 Louis Martin-Monier\*, Simo Pajovic\*, Muluneh G. Abebe\*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
-Nature Communications (2025) _(accepted)_
+Nature Communications (2025)
 
 [End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging](https://www.nature.com/articles/s41377-025-01836-8)\
 Seokhwan Min, Seou Choi, Simo Pajovic, **Sachin Vaidya**, Nicholas Rivera, Shanhui Fan, Marin Soljačić, Charles Roques-Carmes\
