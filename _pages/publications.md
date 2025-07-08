@@ -42,9 +42,9 @@ arXiv:2409.14299 (2024)
 ## Journal Publications
 
 ### 2025
-Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet\
+[Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet](https://www.nature.com/articles/s41566-025-01712-2)\
 Ahmet Kemal Demir\*, Luca Nessi\*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
-Nature Photonics (2025) _(accepted)_
+Nature Photonics (2025)
 
 [Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://www.nature.com/articles/s41467-025-60953-5)\
 Louis Martin-Monier\*, Simo Pajovic\*, Muluneh G. Abebe\*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
