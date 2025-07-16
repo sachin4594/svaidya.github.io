@@ -33,15 +33,15 @@ arXiv:2503.04889 (2025)
 Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
 arXiv:2503.03948 (2025)
 
-[Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
-Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
-arXiv:2409.14299 (2024)
-
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
 
 ## Journal Publications
 
 ### 2025
+[Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
+Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
+Nature Communications (2025) - _accepted_
+
 [Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet](https://www.nature.com/articles/s41566-025-01712-2)\
 Ahmet Kemal Demir\*, Luca Nessi\*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
 Nature Photonics (2025)
