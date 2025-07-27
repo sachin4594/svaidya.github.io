@@ -44,7 +44,7 @@ Nature Communications (2025) - _accepted_
 
 [Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet](https://www.nature.com/articles/s41566-025-01712-2)\
 Ahmet Kemal Demir\*, Luca Nessi\*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
-Nature Photonics (2025)
+Nature Photonics (2025) - - [*MIT MRL Newsletter*](https://mrl.mit.edu/article/ultra-small-optical-devices-rewrite-the-rules-of-light-manipulation)
 
 [Large-scale self-assembled nanophotonic scintillators for X-ray imaging](https://www.nature.com/articles/s41467-025-60953-5)\
 Louis Martin-Monier\*, Simo Pajovic\*, Muluneh G. Abebe\*, Joshua Chen, **Sachin Vaidya**, Seokhwan Min, Seou Choi, Steven E. Kooi, Bjorn Maes, Juejun Hu, Marin Soljacic, Charles Roques-Carmes\
