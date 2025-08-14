@@ -38,9 +38,9 @@ arXiv:2503.03948 (2025)
 ## Journal Publications
 
 ### 2025
-[Non-reciprocal frequency conversion in a multimode nonlinear system](https://arxiv.org/abs/2409.14299)\
+[Non-reciprocal frequency conversion in a multimode nonlinear system](https://www.nature.com/articles/s41467-025-62853-0)\
 Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
-Nature Communications (2025) - _accepted_
+Nature Communications (2025)
 
 [Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet](https://www.nature.com/articles/s41566-025-01712-2)\
 Ahmet Kemal Demir\*, Luca Nessi\*, **Sachin Vaidya**, Connor Occhialini, Marin Soljačić, Riccardo Comin\
