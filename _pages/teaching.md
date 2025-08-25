@@ -18,6 +18,7 @@ In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](htt
 ## Mentorship
 I actively mentor undergraduate students, guiding them through research projects. Here are the students I have had the privilege of working with over the past few years:
 
+- Caio Silva, MIT, UROP, Fall 2025-present
 - Luka Protulipac, MIT, Visiting Student, Summer 2025
 - Yichen (Sophie) Li, MIT, UROP, Fall 2024-present
 - Amelie A. Chan, MIT, UROP, Fall 2024-present 
@@ -25,8 +26,8 @@ I actively mentor undergraduate students, guiding them through research projects
 - Eric Wang, MIT, UROP, Fall 2024-present
 - Luke Huang, MIT, UROP, Fall 2024-Spring 2025 ([Paper](https://arxiv.org/abs/2505.17985))
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-Summer 2025
-- Raafat Salib, MIT, UROP, Spring 2024-present ([Paper](https://arxiv.org/abs/2505.17985))
-- Shrish Choudhary, MIT, UROP, Spring 2024-present ([Paper](https://arxiv.org/abs/2505.17985))
+- Raafat Salib, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
+- Shrish Choudhary, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
 - Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present
 - Kyle Linn, Penn State, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
 - Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
