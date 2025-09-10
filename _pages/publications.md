@@ -29,15 +29,15 @@ arXiv:2503.09970 (2025)
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
 arXiv:2503.04889 (2025)
 
-[Classification of Fragile Topology Enabled by Matrix Homotopy](https://arxiv.org/abs/2503.03948)\
-Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
-arXiv:2503.03948 (2025)
-
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
 
 ## Journal Publications
 
 ### 2025
+[Classification of Fragile Topology Enabled by Matrix Homotopy](https://journals.aps.org/prresearch/abstract/10.1103/5rqd-bp11)\
+Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
+Physical Review Research (2025)
+
 [Non-reciprocal frequency conversion in a multimode nonlinear system](https://www.nature.com/articles/s41467-025-62853-0)\
 Sahil Pontula, **Sachin Vaidya**, Charles Roques-Carmes, Shiekh Zia Uddin, Marin Soljačić, and Yannick Salamin\
 Nature Communications (2025)
