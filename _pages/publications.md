@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators](https://arxiv.org/abs/2509.10438)\
+André Grossi Fonseca*, Eric Wang*, **Sachin Vaidya**, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić\
+arXiv:2509.10438 (2025)
+
 [AI-Driven Robotics for Free-Space Optics](https://arxiv.org/abs/2505.17985)\
 Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
 arXiv:2505.17985 (2025)
