@@ -38,6 +38,10 @@ arXiv:2503.04889 (2025)
 ## Journal Publications
 
 ### 2025
+[Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties]()\
+Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
+Light: Science & Applications (2025) - *accepted*
+
 [Classification of Fragile Topology Enabled by Matrix Homotopy](https://journals.aps.org/prresearch/abstract/10.1103/5rqd-bp11)\
 Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
 Physical Review Research (2025)
