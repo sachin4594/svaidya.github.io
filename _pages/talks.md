@@ -43,6 +43,9 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
+[Supercollimating photonic crystal scintillators](https://spie.org/photonics-west/presentation/Supercollimating-photonic-crystal-scintillators/13910-11)\
+SPIE Photonics West (January 2026) | San Francisco, California -- _upcoming_
+
 [AI-driven robotics for physics](https://iaifi.org/summer-workshop.html#speakers)\
 NSF IAIFI Summer Workshop at Harvard University (August 2025) | Cambridge, Massachusetts
 
