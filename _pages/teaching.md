@@ -16,7 +16,7 @@ I served as a graduate teaching assistant for the following courses:
 In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](https://science.psu.edu/physics/graduate/awards/student-teaching) by the Department of Physics at Penn State for 'teaching excellence in physics,' based on feedback from hundreds of students. You can read some of the student feedback [here](https://sachin4594.github.io/svaidya.github.io/files/Selected_Student_Comments.pdf).
 
 ## Mentorship
-I actively mentor undergraduate students, guiding them through research projects. Here are the students I have had the privilege of working with over the past few years:
+I actively mentor undergraduate students, guiding them through research projects. Here are the students I have had the privilege of working with and their projects:
 
 - Caio Silva, MIT, UROP, Fall 2025-present
 - Luka Protulipac, MIT, Visiting Student, Summer 2025
@@ -28,7 +28,7 @@ I actively mentor undergraduate students, guiding them through research projects
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-Summer 2025
 - Raafat Salib, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
 - Shrish Choudhary, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
-- Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present
+- Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present ([Conference Presentation](https://opg.optica.org/abstract.cfm?URI=CLEO_FS-2025-FF147_3))
 - Kyle Linn, Penn State, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
 - Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Conference Presentation](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
