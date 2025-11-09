@@ -33,7 +33,7 @@ These are some key questions that inform my research:<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
-The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical forces, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control of light makes it possible to leverage effects like the Purcell effect to increase spontaneous emission rates or achieve supercollimation, promising advancements in applications such as developing nanophotonic scintillators.
+The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical transport, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control makes it possible to leverage phenomena like the Purcell effect to increase spontaneous emission rates or supercollimation to guide light.
 <br><br>
 
 Some key questions that inform my research:<br>
@@ -55,7 +55,7 @@ Some key questions that inform my research:<br>
 </div>
 
 ## Interpretable AI and robotics for physics
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/KANs_image.png" width="325" style="margin: 20px">
+<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/Optomate.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
 Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. Advancements in physics often rely on key insights derived from theoretical developments, experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraging AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
