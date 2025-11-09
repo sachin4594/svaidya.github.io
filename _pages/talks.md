@@ -102,6 +102,9 @@ Observation of quadratic Weyl point splitting in 3D micro-printed photonic cryst
 Office of Naval Research (ONR) MURI Review (April 2021) | Virtual
 
 ## Other talks
+Overcoming the experimental bottleneck with AI and robotics\
+NSF IAIFI Journal Club at MIT (2025) | Cambridge, Massachusetts
+
 Symmetry-indicator invariants: bridging the gap in topological band theory\
 MIT CMT Journal Club (2023) | Cambridge, Massachusetts
 
