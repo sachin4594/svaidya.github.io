@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Topological matter
+## Topological quantum matter
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
   
@@ -13,19 +13,19 @@ Topological insulators and semimetals are fascinating classes of materials that 
 
 These are some key questions that inform my research:<br>
 - What novel phases of matter arise from the interplay of symmetry, geometry, and topology?<br>
-- How can we extend topological phases to photonic systems and leverage them for robust control over light?<br>
+- How can we robustly control noise and excitations in quantum systems using topological principles?<br>
 <br><br>
 
 <small>
 <b>References:</b>
 <br>
-[1] Quantized crystalline-electromagnetic responses in insulators, arXiv:2503.09970 (2025)
+[1] Noise Immunity in Quantum Optical Systems through Non-Hermitian Topology, arXiv:2503.11620 (2025) 
 <br>
-[2] Weyl points on non-orientable manifolds, Physical Review Letters 132, 266601 (2024)
+[2] Quantized Crystalline-Electromagnetic Responses in Insulators, arXiv:2503.09970 (2025)
 <br>
-[3] Polarization and weak topology in Chern insulators, Physical Review Letters 132, 116602 (2024)
+[3] Weyl Points on Non-Orientable Manifolds, Physical Review Letters 132, 266601 (2024)
 <br>
-[4] Observation of a charge-2 photonic Weyl point in the infrared, Physical Review Letters, 125, 253902 (2020)
+[4] Polarization and Weak Topology in Chern Insulators, Physical Review Letters 132, 116602 (2024)
 </small>
 </div>
 
@@ -44,36 +44,14 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging, Light: Science & Applications 14, 158 (2025)
+[1] Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet, Nature Photonics 19, 1006–1012 (2025)
 <br>
-[2] Large-scale self-assembled nanophotonic scintillators for X-ray imaging, arXiv:2410.07141 (2024)
+[2] Large-Scale Self-Assembled Nanophotonic Scintillators for X-ray Imaging, Nature Communications 16, 5750 (2025)
 <br>
-[3] Observation of bound states in the continuum embedded in symmetry bandgaps, Science Advances 7, 52 eabk1117 (2021)
+[3] Observation of Bound States in the Continuum Embedded in Symmetry Bandgaps, Science Advances 7, 52 eabk1117 (2021)
 <br>
 [4] Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
 </small>  
-</div>
-
-## Classical and quantum nonlinear optics
-<img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/quantum_noise_lattice.png" width="325" style="margin: 20px">
-<div style="text-align: justify"> 
-
-Over the past few decades, efforts have been directed at understanding and controlling nonlinear optical systems with many degrees of freedom (e.g., frequency/time, space/wavevector, polarization) due to their enhanced capacities to carry power, transmit data, and perform physical computations. However, to fully exploit these degrees of freedom, new guiding principles must be developed for the control and routing of excitations, as well as for managing noise within these complex systems.
-<br><br>
-
-Some key questions that inform my research:<br>
-- What physical phenomena arise from engineered interactions in nonlinear optical systems?<br>
-- How can we robustly control noise in quantum systems and generate non-classical states of light?
-<br><br>
-
-<small>
-<b>References:</b>
-<br>
-[1] Noise immunity in quantum optical systems through non-Hermitian topology, arXiv:2503.11620 (2025)  
-<br>
-[2] Non-reciprocal frequency conversion in a multimode nonlinear system, arXiv:2409.14299 (2024)
-<br>
-</small>
 </div>
 
 ## Interpretable AI and robotics for physics
@@ -93,7 +71,11 @@ Some key questions that inform my research:<br>
 <br>
 [1] KAN: Kolmogorov-Arnold Networks, ICLR (2025)
 <br>
-[2] AI-driven robotics for free-space optics, arXiv:2505.17985 (2025)
+[2] AI-Driven Robotics for Free-Space Optics, arXiv:2505.17985 (2025)
+<br>
+[3] Interpretable Artificial Intelligence for Topological Photonics, arXiv:2505.10485 (2025)
+<br>
+[4] Gradient-Based Search of Quantum Phases: Discovering Unconventional Fractional Chern Insulators, arXiv:2509.10438 (2025)
 <br>
 </small>
 </div>
