@@ -25,10 +25,6 @@ arXiv:2505.10485 (2025)
 Jamison Sloan*, **Sachin Vaidya†\***, Nicholas Rivera, Marin Soljačić\
 arXiv:2503.11620 (2025)
 
-[Quantized crystalline-electromagnetic responses in insulators](https://arxiv.org/abs/2503.09970)\
-**Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
-arXiv:2503.09970 (2025)
-
 [Exceptional Topology on Nonorientable Manifolds](https://arxiv.org/abs/2503.04889)\
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
 arXiv:2503.04889 (2025)
@@ -38,6 +34,10 @@ arXiv:2503.04889 (2025)
 ## Journal Publications
 
 ### 2025
+[Quantized crystalline-electromagnetic responses in insulators](https://arxiv.org/abs/2503.09970)\
+**Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
+Physical Review Letters (2025) - *accepted*
+
 [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties]()\
 Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
 Light: Science & Applications (2025) - *accepted*
