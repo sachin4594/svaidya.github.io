@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 ## Invited talks
+Title TBD\
+Noncommutative Topology and Quantum Materials at University of New Mexico (March 2026) | Albuquerque, New Mexico -- _upcoming_\
+Host: Prof. Terry Loring
+
+Overcoming the experimental bottleneck with AI and robotics\
+AMOS Seminar at Berkeley Lab (January 2026) | Berkeley, California -- _upcoming_\
+Host: Dr. Oliver Gessner
+
 [Interpretable AI and robotics for photonics](https://opticalcomputingconference.org/)\
 Emerging Directions in Optical Computing and Information Processing at CUNY (June 2025) | Virtual Conference\
 Host: Prof. Mohammad-Ali Miri
