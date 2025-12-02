@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
+Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
+arXiv:2512.01873 (2025)
+
 [Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators](https://arxiv.org/abs/2509.10438)\
 André Grossi Fonseca\*, Eric Wang\*, **Sachin Vaidya**, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić\
 arXiv:2509.10438 (2025)
