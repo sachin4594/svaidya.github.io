@@ -13,7 +13,7 @@ Current AI models, while capable of achieving high accuracies in various tasks, 
 
 Some key questions that inform my research:<br>
 - How do we develop interpretable AI models that are closely aligned with scientific goals?<br>
-- What does a future that employs AI and robotics for physics experiments look like?
+- What does a future that employs robotics and AI for physics experiments look like?
 <br><br>
 
 <small>
@@ -23,9 +23,11 @@ Some key questions that inform my research:<br>
 <br>
 [2] AI-Driven Robotics for Optics, arXiv:2505.17985 (2025)
 <br>
-[3] Interpretable Artificial Intelligence for Topological Photonics, arXiv:2505.10485 (2025)
+[3] Symbolic Learning of Topological Bands in Photonic Crystals, arXiv:2505.10485 (2025)
 <br>
 [4] Gradient-Based Search of Quantum Phases: Discovering Unconventional Fractional Chern Insulators, arXiv:2509.10438 (2025)
+<br>
+[5] Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning, arXiv:2512.01873 (2025)
 <br>
 </small>
 </div>
@@ -38,7 +40,7 @@ The field of nanophotonics focuses on the manipulation and control of light on t
 <br><br>
 
 Some key questions that inform my research:<br>
-- Can we find novel strategies for trapping and guiding light at the nanoscale to achieve strong light-matter coupling?<br>
+- Can we find novel strategies for trapping and guiding light at the nanoscale?<br>
 - What new functionalities can be achieved by leveraging nanophotonics for scintillation?
 <br><br>
 
