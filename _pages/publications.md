@@ -38,9 +38,9 @@ arXiv:2503.04889 (2025)
 ## Journal Publications
 
 ### 2025
-[19] [Quantized crystalline-electromagnetic responses in insulators](https://arxiv.org/abs/2503.09970)\
+[19] [Quantized crystalline-electromagnetic responses in insulators](https://journals.aps.org/prl/abstract/10.1103/5nsr-rw4d)\
 **Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
-Physical Review Letters (2025) - *accepted* - *Editors' Suggestion*
+Physical Review Letters (2025) - *Editors' Suggestion*
 
 [18] [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties]()\
 Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
