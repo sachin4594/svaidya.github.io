@@ -74,7 +74,7 @@ These are some key questions that inform my research:<br>
 <br>
 [1] Noise Immunity in Quantum Optical Systems through Non-Hermitian Topology, arXiv:2503.11620 (2025) 
 <br>
-[2] Quantized Crystalline-Electromagnetic Responses in Insulators, Physical Review Letters (accepted) (2025)
+[2] Quantized Crystalline-Electromagnetic Responses in Insulators, Physical Review Letters 135, 256602 (2025)
 <br>
 [3] Weyl Points on Non-Orientable Manifolds, Physical Review Letters 132, 266601 (2024)
 <br>
