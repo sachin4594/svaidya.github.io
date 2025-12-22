@@ -51,6 +51,9 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
+[AI-driven robotics for optics](https://summit.aps.org/smt/2026/events/MAR-J20/2)\
+APS Global Physics Summit (March 2026) | Denver, Colorado -- _upcoming_
+
 [Supercollimating photonic crystal scintillators](https://spie.org/photonics-west/presentation/Supercollimating-photonic-crystal-scintillators/13910-11)\
 SPIE Photonics West (January 2026) | San Francisco, California -- _upcoming_
 
