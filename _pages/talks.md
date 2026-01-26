@@ -10,7 +10,7 @@ Noncommutative Topology and Quantum Materials at University of New Mexico (March
 Host: Prof. Terry Loring
 
 Overcoming the experimental bottleneck with AI and robotics\
-AMOS Seminar at Berkeley Lab (January 2026) | Berkeley, California -- _upcoming_\
+AMOS Seminar at Berkeley Lab (January 2026) | Berkeley, California\
 Host: Dr. Oliver Gessner
 
 [Interpretable AI and robotics for photonics](https://opticalcomputingconference.org/)\
@@ -55,7 +55,7 @@ Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 APS Global Physics Summit (March 2026) | Denver, Colorado -- _upcoming_
 
 [Supercollimating photonic crystal scintillators](https://spie.org/photonics-west/presentation/Supercollimating-photonic-crystal-scintillators/13910-11)\
-SPIE Photonics West (January 2026) | San Francisco, California -- _upcoming_
+SPIE Photonics West (January 2026) | San Francisco, California
 
 [AI-driven robotics for physics](https://iaifi.org/summer-workshop.html#speakers)\
 NSF IAIFI Summer Workshop at Harvard University (August 2025) | Cambridge, Massachusetts
