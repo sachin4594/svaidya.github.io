@@ -9,6 +9,9 @@ Title TBD\
 Noncommutative Topology and Quantum Materials at University of New Mexico (March 2026) | Albuquerque, New Mexico -- _upcoming_\
 Host: Prof. Terry Loring
 
+[Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
+Yale Quantum Institute (YQI) talk (February 2026) | New Haven, Connecticut
+
 Overcoming the experimental bottleneck with AI and robotics\
 AMOS Seminar at Berkeley Lab (January 2026) | Berkeley, California\
 Host: Dr. Oliver Gessner
