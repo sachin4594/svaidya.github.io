@@ -33,13 +33,14 @@ arXiv:2505.10485 (2025)
 Jamison Sloan*, **Sachin Vaidya†\***, Nicholas Rivera, Marin Soljačić\
 arXiv:2503.11620 (2025)
 
-[Exceptional Topology on Nonorientable Manifolds](https://arxiv.org/abs/2503.04889)\
-J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
-arXiv:2503.04889 (2025)
-
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
 
 ## Journal Publications
+
+### 2026
+[20] [Exceptional Topology on Nonorientable Manifolds](https://arxiv.org/abs/2503.04889)\
+J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
+Physical Review Research (2026) - *accepted*
 
 ### 2025
 [19] [Quantized crystalline-electromagnetic responses in insulators](https://journals.aps.org/prl/abstract/10.1103/5nsr-rw4d)\
