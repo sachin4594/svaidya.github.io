@@ -30,8 +30,6 @@ Here is a (random) list of resources, software, and useful websites. All credits
 
 [X-ray interactions with matter](https://henke.lbl.gov/optical_constants/): Resource for understanding X-ray interactions with various materials.
 
-[Character tables for point groups](http://symmetry.jacobs-university.de/): Tables used for symmetry analysis.
-
 [Space group diagrams and tables](http://img.chem.ucl.ac.uk/sgp/large/sgp.htm): Detailed crystallographic space group diagrams and tables.
 
 [Bilbao crystallographic server](https://www.cryst.ehu.es/): Extensive tools for crystallography and solid state physics research.
