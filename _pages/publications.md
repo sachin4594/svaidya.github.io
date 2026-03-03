@@ -38,9 +38,9 @@ arXiv:2503.11620 (2025)
 ## Journal Publications
 
 ### 2026
-[20] [Exceptional Topology on Nonorientable Manifolds](https://arxiv.org/abs/2503.04889)\
+[20] [Exceptional Topology on Nonorientable Manifolds](https://journals.aps.org/prresearch/abstract/10.1103/g5cr-dwxz)\
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
-Physical Review Research (2026) - *accepted*
+Physical Review Research (2026)
 
 ### 2025
 [19] [Quantized crystalline-electromagnetic responses in insulators](https://journals.aps.org/prl/abstract/10.1103/5nsr-rw4d)\
