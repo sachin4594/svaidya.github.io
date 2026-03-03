@@ -9,10 +9,6 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
-[Wavefront Engineering for Scintillation-Based Imaging](https://arxiv.org/abs/2601.09830)\
-Joshua Chen, **Sachin Vaidya**, Simo Pajovic, Seou Choi, William Michaels, Louis Martin-Monier, Juejun Hu, Carol Cogswell, Charles Roques-Carmes, Marin Soljačić\
-arXiv:2601.09830 (2026)
-
 [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
 Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
 arXiv:2512.01873 (2025)
@@ -38,6 +34,10 @@ arXiv:2503.11620 (2025)
 ## Journal Publications
 
 ### 2026
+[21] [Wavefront Engineering for Scintillation-Based Imaging](https://arxiv.org/abs/2601.09830)\
+Joshua Chen, **Sachin Vaidya**, Simo Pajovic, Seou Choi, William Michaels, Louis Martin-Monier, Juejun Hu, Carol Cogswell, Charles Roques-Carmes, Marin Soljačić\
+ACS Photonics (2026) - *accepted*
+
 [20] [Exceptional Topology on Nonorientable Manifolds](https://journals.aps.org/prresearch/abstract/10.1103/g5cr-dwxz)\
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
 Physical Review Research (2026)
