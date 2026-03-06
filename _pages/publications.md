@@ -47,9 +47,9 @@ Physical Review Research (2026)
 **Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
 Physical Review Letters (2025) - *Editors' Suggestion*
 
-[18] [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties]()\
+[18] [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties](https://www.nature.com/articles/s41377-025-02166-5)\
 Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
-Light: Science & Applications (2025) - *accepted*
+Light: Science & Applications (2025)
 
 [17] [Classification of Fragile Topology Enabled by Matrix Homotopy](https://journals.aps.org/prresearch/abstract/10.1103/5rqd-bp11)\
 Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
