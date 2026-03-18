@@ -5,12 +5,12 @@ author_profile: true
 ---
 
 ## Invited talks
-[A Weyl'd story about chirality](https://2026spectralloc.sciencesconf.org/resource/listeparticipants?lang=en)\
-Noncommutative Topology and Quantum Materials at University of New Mexico (March 2026) | Albuquerque, New Mexico -- _upcoming_\
-Host: Prof. Terry Loring
-
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
-Yale Quantum Institute (YQI) talk at Yale University (February 2026) | New Haven, Connecticut -- _upcoming_
+Yale Quantum Institute (YQI) talk at Yale University (March 2026) | New Haven, Connecticut -- _upcoming_
+
+[A Weyl'd story about chirality](https://2026spectralloc.sciencesconf.org/resource/listeparticipants?lang=en)\
+Noncommutative Topology and Quantum Materials at University of New Mexico (March 2026) | Albuquerque, New Mexico\
+Host: Prof. Terry Loring
 
 Overcoming the experimental bottleneck with AI and robotics\
 AMOS Seminar at Berkeley Lab (January 2026) | Berkeley, California\
@@ -55,7 +55,7 @@ Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
 [AI-driven robotics for optics](https://summit.aps.org/smt/2026/events/MAR-J20/2)\
-APS Global Physics Summit (March 2026) | Denver, Colorado -- _upcoming_
+APS Global Physics Summit (March 2026) | Denver, Colorado
 
 [Supercollimating photonic crystal scintillators](https://spie.org/photonics-west/presentation/Supercollimating-photonic-crystal-scintillators/13910-11)\
 SPIE Photonics West (January 2026) | San Francisco, California
