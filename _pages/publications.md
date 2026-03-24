@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
+Seou Choi\*, **Sachin Vaidya†**, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
+arXiv:2603.21496 (2026)
+
 [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
 Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
 arXiv:2512.01873 (2025)
