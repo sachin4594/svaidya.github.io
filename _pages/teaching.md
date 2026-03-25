@@ -30,7 +30,7 @@ I actively mentor undergraduate students, guiding them through research projects
 - Shrish Choudhary, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
 - Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present ([Conference Presentation](https://opg.optica.org/abstract.cfm?URI=CLEO_FS-2025-FF147_3))
 - Kyle Linn, Penn State, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
-- Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
+- Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://arxiv.org/abs/2603.22697))
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Conference Presentation](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
 ## Professional Service
