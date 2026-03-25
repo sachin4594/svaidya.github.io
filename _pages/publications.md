@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
+Kyle Linn\*, Megan Goh\*, **Sachin Vaidya†**, Christina Jörg, Mikael C. Rechtsman\
+arXiv:2603.22697 (2026)
+
 [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
 arXiv:2603.21496 (2026)
