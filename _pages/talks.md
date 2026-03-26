@@ -6,7 +6,7 @@ author_profile: true
 
 ## Invited talks
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
-Yale Quantum Institute (YQI) talk at Yale University (March 2026) | New Haven, Connecticut -- _upcoming_
+Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut -- _upcoming_
 
 [A Weyl'd story about chirality](https://2026spectralloc.sciencesconf.org/resource/listeparticipants?lang=en)\
 Noncommutative Topology and Quantum Materials at University of New Mexico (March 2026) | Albuquerque, New Mexico\
