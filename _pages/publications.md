@@ -40,7 +40,7 @@ arXiv:2503.11620 (2025)
 ### 2026
 [22] [Symbolic Learning of Topological Bands in Photonic Crystals](https://arxiv.org/abs/2505.10485)\
 Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
-ACS Photonics (2026) - *accepted*
+ACS Photonics (2026) - accepted
 
 [21] [Wavefront Engineering for Scintillation-Based Imaging](https://pubs.acs.org/doi/10.1021/acsphotonics.5c03124)\
 Joshua Chen, **Sachin Vaidya**, Simo Pajovic, Seou Choi, William Michaels, Louis Martin-Monier, Juejun Hu, Carol Cogswell, Charles Roques-Carmes, Marin Soljačić\
