@@ -139,3 +139,14 @@ Physical Review Letters (2021)
 Physical Review Letters (2020) - *Editors' Suggestion*, [*Press*](https://pro-physik.de/nachrichten/weyl-punkte-im-infrarotlicht)
 
 <div style="text-align: right"> * equal contribution, † corresponding author</div>
+
+## Patents
+
+[3] Scintillator Metalens for High-Resolution Scintillation-Based Imaging\
+U.S. provisional patent application No. 64/008,275, MIT (2026)
+
+[2] Supercollimating photonic crystal scintillators\
+U.S. provisional patent application No. 63/960,449, MIT (2026)
+
+[1] Automated robotic system for the assembly, fine-alignment, and characterization of optical setups\
+U.S. provisional patent application No. 63/745,115, MIT (2025)
