@@ -27,7 +27,7 @@ Some key questions that inform my research:<br>
 <br>
 [4] Gradient-Based Search of Quantum Phases: Discovering Unconventional Fractional Chern Insulators, arXiv:2509.10438 (2025)
 <br>
-[5] Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning, arXiv:2512.01873 (2025)
+[5] A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems, arXiv:2603.21496 (2026)
 <br>
 </small>
 </div>
