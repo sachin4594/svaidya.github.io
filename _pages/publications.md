@@ -9,29 +9,25 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
-[7] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
+[6] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
 Kyle Linn\*, Megan Goh\*, **Sachin Vaidya†**, Christina Jörg, Mikael C. Rechtsman\
 arXiv:2603.22697 (2026)
 
-[6] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
+[5] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
 arXiv:2603.21496 (2026)
 
-[5] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
+[4] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
 Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
 arXiv:2512.01873 (2025)
 
-[4] [Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators](https://arxiv.org/abs/2509.10438)\
+[3] [Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators](https://arxiv.org/abs/2509.10438)\
 André Grossi Fonseca\*, Eric Wang\*, **Sachin Vaidya**, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić\
 arXiv:2509.10438 (2025)
 
-[3] [AI-Driven Robotics for Optics](https://arxiv.org/abs/2505.17985)\
+[2] [AI-Driven Robotics for Optics](https://arxiv.org/abs/2505.17985)\
 Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
 arXiv:2505.17985 (2025)
-
-[2] [Symbolic Learning of Topological Bands in Photonic Crystals](https://arxiv.org/abs/2505.10485)\
-Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
-arXiv:2505.10485 (2025)
 
 [1] [Noise immunity in quantum optical systems through non-Hermitian topology](https://arxiv.org/abs/2503.11620)\
 Jamison Sloan*, **Sachin Vaidya†\***, Nicholas Rivera, Marin Soljačić\
@@ -42,6 +38,10 @@ arXiv:2503.11620 (2025)
 ## Journal Publications
 
 ### 2026
+[22] [Symbolic Learning of Topological Bands in Photonic Crystals](https://arxiv.org/abs/2505.10485)\
+Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
+ACS Photonics (2026) - *accepted*
+
 [21] [Wavefront Engineering for Scintillation-Based Imaging](https://pubs.acs.org/doi/10.1021/acsphotonics.5c03124)\
 Joshua Chen, **Sachin Vaidya**, Simo Pajovic, Seou Choi, William Michaels, Louis Martin-Monier, Juejun Hu, Carol Cogswell, Charles Roques-Carmes, Marin Soljačić\
 ACS Photonics (2026)
