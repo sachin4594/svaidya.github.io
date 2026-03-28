@@ -6,7 +6,8 @@ author_profile: true
 
 ## Invited talks
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
-Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut -- _upcoming_
+Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut -- _upcoming_\
+Host: Prof. A. Douglas Stone
 
 [A Weyl'd story about chirality](https://2026spectralloc.sciencesconf.org/resource/listeparticipants?lang=en)\
 Noncommutative Topology and Quantum Materials at University of New Mexico (March 2026) | Albuquerque, New Mexico\
@@ -26,9 +27,6 @@ Host: Prof. Christina Jörg
 
 Interpretable AI and robotics for photonics\
 Host: Prof. Mohammad Hafezi at University of Maryland (May 2025) |  College Park, Maryland
-
-Unidirectional flow of quantum noise through non-reciprocity\
-Host: Prof. Dirk Englund at MIT (April 2025) | Cambridge, Massachusetts 
 
 Interpretable AI and robotics for physics\
 Host: Prof. Di Luo at UCLA (March 2025) | Los Angeles, California
@@ -133,10 +131,24 @@ Nanoscribe User Meeting (2021) | Virtual
 
 ## Posters
 [Volumetric photonic crystal scintillators](https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-meeting/symposium-sessions/presentations/view/2024-fall-meeting/2024-fall-meeting-4154386)\
-MRS Fall Meeting (2024) | Boston, Massachusetts
+MRS Fall Meeting (December 2024) | Boston, Massachusetts
 
 [Topological phases on the real projective plane](https://meetings.aps.org/Meeting/MAR24/Session/V00.32)\
-APS March Meeting (2024) | Minneapolis, Minnesota
+APS March Meeting (March 2024) | Minneapolis, Minnesota
 
 Point-defect localized photonic bound states in the continuum\
 Office of Naval Research (ONR) MURI Poster Session (2021) | Virtual
+
+## Conference Organization
+Organizer for the symposium "Topology Beyond Periodicity: From Aperiodic to Interacting System"\
+MRS Fall Meeting (December 2026) | Boston, Massachusetts
+
+Chair for the session "Insulators & Tensor Networks for Topological Properties"\
+APS Global Physics Summit (March 2026) | Denver, Colorado
+
+Chair for the focus session "Topological Crystalline Insulators: Theory and Experiment"\
+APS March Meeting (March 2024) | Minneapolis, Minnesota
+
+Chair for the session "Optoelectronic Nanodevices" session\
+CLEO (May 2024) | Charlotte, North Carolina
+
