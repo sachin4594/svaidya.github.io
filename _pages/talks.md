@@ -4,6 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+<img align="center" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/talk_photo.jpeg" width="700" style="margin: 20px">
+
 ## Invited talks
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
 Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut -- _upcoming_\
