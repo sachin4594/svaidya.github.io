@@ -8,7 +8,7 @@ author_profile: true
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/Optomate.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
-Current AI models, while capable of achieving high accuracies in various tasks, are fundamentally limited in terms of interpretability. Advancements in physics often rely on key insights derived from theoretical developments, experimental observations or numerical simulations. Consequently, developing novel AI frameworks that align closely with scientific goals is crucial for leveraging AI's capabilities for fundamental discoveries. Furthermore, as developments in AI continue to advance rapidly, there is a growing need to integrate robotic solutions with AI for accelerating experimental science through automation and intelligent decision-making.
+In today’s AI- and data-driven era, the rate at which we generate scientific hypotheses far outpaces our ability to experimentally validate them. To keep pace in the laboratory, there is a growing need to integrate robotics to accelerate experimental science through automation and intelligent decision-making. Furthermore, while predictive AI models can achieve high accuracy across a range of tasks, they remain limited in interpretability. Progress in physics often depends on key insights derived from data; therefore, developing novel AI frameworks that align closely with scientific objectives is crucial for fully leveraging AI’s capabilities in enabling fundamental discoveries.
 <br><br>
 
 Some key questions that inform my research:<br>
@@ -36,7 +36,7 @@ Some key questions that inform my research:<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/BIC.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
 
-The field of nanophotonics focuses on the manipulation and control of light on the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This confinement leads to phenomena such as enhanced optical transport, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control makes it possible to leverage phenomena like the Purcell effect to increase spontaneous emission rates or supercollimation to guide light.
+The field of nanophotonics focuses on the manipulation and control of light at the nanometer scale. The unique properties of light-matter interactions at these scales arise from the confinement of photons to dimensions comparable to the wavelength of light. This leads to phenomena such as enhanced optical transport, strong light-matter coupling, and the ability to manipulate light in ways that are impossible with traditional optical components. This precise control makes it possible to leverage phenomena such as the Purcell effect to increase or suppress spontaneous emission rates or supercollimation to guide light perfectly.
 <br><br>
 
 Some key questions that inform my research:<br>
@@ -61,7 +61,7 @@ Some key questions that inform my research:<br>
 <img align="right" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/nonorientable_Weyl.png" width="325" style="margin: 20px">
 <div style="text-align: justify"> 
   
-Topological insulators and semimetals are fascinating classes of materials that have recently emerged as a prominent subject of study in condensed matter physics. They represent new phases of matter that possess unique properties at their surfaces, hinges, edges or corners, distinct from those in the bulk. This results ultimately from the underlying non-trivial topology of the electronic band structure rather than any specific material property. Moreover, when quasiparticle interactions are strong, topological phases of matter can give rise to even more exotic phenomena, such as fractionalization and topological order. In the last decade, many ideas from topological matter have been extended to other systems that host wave-like excitations, such as light propagating in photonic crystals, where they serve as new guiding principles for design.
+Topological insulators and semimetals are fascinating classes of materials that have emerged as a central focus in condensed matter physics. They represent distinct phases of matter characterized by boundary states whose properties differ fundamentally from those of the bulk. These features arise from the nontrivial topology of the electronic wavefunctions, rather than from specific material details. Moreover, in systems with strong quasiparticle interactions, topological phases can give rise to even more exotic phenomena, such as fractionalization and topological order. Over the past decade, concepts from topological matter have been extended to other systems supporting wave-like excitations, such as light propagating in photonic crystals, where they provide powerful guiding principles for device design.
 <br><br>
 
 These are some key questions that inform my research:<br>
