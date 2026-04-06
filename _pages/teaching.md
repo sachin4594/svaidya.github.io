@@ -27,10 +27,10 @@ I actively mentor undergraduate students, guiding them through research projects
 - Luke Huang, MIT, UROP, Fall 2024-Spring 2025 ([Paper](https://arxiv.org/abs/2505.17985))
 - Oriol Mayne i Comas, MIT, Erasmus Intern, Fall 2024-Summer 2025 ([Paper](https://arxiv.org/abs/2512.01873))
 - Raafat Salib, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
-- Shrish Choudhary, MIT, UROP, Spring 2024-Fall 2025 ([Paper](https://arxiv.org/abs/2505.17985))
+- Shrish Choudhary, MIT, UROP, Spring 2024-Fall 2025 ([Paper 1](https://arxiv.org/abs/2505.17985), [Paper 2](https://arxiv.org/abs/2603.21496))
 - Manxi (Maggie) Shi, MIT, UROP, Fall 2023-present ([Conference Presentation](https://opg.optica.org/abstract.cfm?URI=CLEO_FS-2025-FF147_3))
-- Kyle Linn, Penn State, REU, Summer 2022 ([Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170))
-- Megan Goh, Amherst College, REU, Summer 2022 ([Paper](https://arxiv.org/abs/2603.22697))
+- Kyle Linn, Penn State, REU, Summer 2022 ([Paper 1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170), [Paper 2](https://arxiv.org/abs/2603.22697))
+- Megan Goh, Amherst College, REU, Summer 2022 ([Paper 1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033170), [Paper 2](https://arxiv.org/abs/2603.22697))
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Conference Presentation](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
 ## Professional Service
