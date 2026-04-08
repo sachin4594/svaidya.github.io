@@ -148,6 +148,6 @@ APS Global Physics Summit (March 2026) | Denver, Colorado
 Chair for the focus session "Topological Crystalline Insulators: Theory and Experiment"\
 APS March Meeting (March 2024) | Minneapolis, Minnesota
 
-Chair for the session "Optoelectronic Nanodevices" session\
+Chair for the session "Optoelectronic Nanodevices"\
 CLEO (May 2024) | Charlotte, North Carolina
 
