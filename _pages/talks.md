@@ -139,7 +139,7 @@ Point-defect localized photonic bound states in the continuum\
 Office of Naval Research (ONR) MURI Poster Session (2021) | Virtual
 
 ## Conference Organization
-Organizer for the symposium "Topology Beyond Periodicity: From Aperiodic to Interacting System"\
+[Organizer for the symposium "Topology Beyond Periodicity: From Aperiodic to Interacting System"](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/call-for-abstracts/view/2026-mrs-fall-meeting-exhibit/Symposium-QT06-Topology-Beyond-Periodicity-From-Aperiodic-to-Interacting-Systems)\
 MRS Fall Meeting (December 2026) | Boston, Massachusetts
 
 Chair for the session "Insulators & Tensor Networks for Topological Properties"\
