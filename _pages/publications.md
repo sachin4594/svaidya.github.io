@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[7] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://arxiv.org/abs/2605.14992)\
+Seou Choi, **Sachin Vaidya**, Avner Shultzman, Charles Roques-Carmes, Ido Kaminer, Marin Soljačić\
+arXiv:2605.14992 (2026)
+
 [6] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
 Kyle Linn\*, Megan Goh\*, **Sachin Vaidya†**, Christina Jörg, Mikael C. Rechtsman\
 arXiv:2603.22697 (2026)
