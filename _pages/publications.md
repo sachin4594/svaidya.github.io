@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints 
+[8] [Supercollimating photonic crystal scintillators](https://arxiv.org/abs/2605.17006)\
+Seou Choi\*, **Sachin Vaidya†\***, Charles Roques-Carmes, Marin Soljačić\
+arXiv:2605.17006 (2026)
+
 [7] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://arxiv.org/abs/2605.14992)\
 Seou Choi, **Sachin Vaidya**, Avner Shultzman, Charles Roques-Carmes, Ido Kaminer, Marin Soljačić\
 arXiv:2605.14992 (2026)
