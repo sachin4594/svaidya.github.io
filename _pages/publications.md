@@ -8,7 +8,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Preprints 
+## Preprints
+[9] [Non-Hermiticity-induced chirality imbalance of Weyl Landau levels](https://arxiv.org/abs/2606.00615)\
+**Sachin Vaidya†\***, Alaa Bayazeed\*, André Grossi Fonseca, Adolfo G. Grushin, Marin Soljačić, Christina Jörg\
+arXiv:2606.00615 (2026)
+
 [8] [Supercollimating photonic crystal scintillators](https://arxiv.org/abs/2605.17006)\
 Seou Choi\*, **Sachin Vaidya†\***, Charles Roques-Carmes, Marin Soljačić\
 arXiv:2605.17006 (2026)
