@@ -20,7 +20,7 @@ I actively mentor undergraduate students, guiding them through research projects
 
 - Caio Silva, MIT, UROP, Fall 2025-Summer 2026 ([Paper](https://arxiv.org/abs/2603.21496))
 - Luka Protulipac, MIT, Visiting Student, Summer 2025
-- Yichen (Sophie) Li, MIT, UROP, Fall 2024-Fall 2025
+- Yichen (Sophie) Li, MIT, UROP, Fall 2024-Fall 2025, Summer 2026
 - Amelie A. Chan, MIT, UROP, Fall 2024-present 
 - Taohan Lin, MIT, UROP, Fall 2024-Fall 2025
 - Eric Wang, MIT, UROP, Fall 2024-Summer 2025 ([Paper](https://arxiv.org/abs/2509.10438))
