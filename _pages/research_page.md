@@ -23,7 +23,7 @@ Some key questions that inform my research:<br>
 <br>
 [2] AI-Driven Robotics for Optics, arXiv:2505.17985 (2025)
 <br>
-[3] Symbolic Learning of Topological Bands in Photonic Crystals, arXiv:2505.10485 (2025)
+[3] Symbolic Learning of Topological Bands in Photonic Crystals, ACS Photonics (2026)
 <br>
 [4] Gradient-Based Search of Quantum Phases: Discovering Unconventional Fractional Chern Insulators, arXiv:2509.10438 (2025)
 <br>
@@ -47,13 +47,13 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet, Nature Photonics 19, 1006–1012 (2025)
+[1] Tunable Nanophotonic Devices and Cavities based on a Two-Dimensional Magnet, Nature Photonics (2025)
 <br>
-[2] Reentrant delocalization transition in one-dimensional photonic quasicrystals, Physical Review Research 5, 033170 (2023)
+[2] Reentrant delocalization transition in one-dimensional photonic quasicrystals, Physical Review Research (2023)
 <br>
-[3] Observation of Bound States in the Continuum Embedded in Symmetry Bandgaps, Science Advances 7, 52 eabk1117 (2021)
+[3] Observation of Bound States in the Continuum Embedded in Symmetry Bandgaps, Science Advances (2021)
 <br>
-[4] Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters 127, 023605 (2021)
+[4] Point-Defect-Localized Bound States in the Continuum in Photonic Crystals and Structured Fibers, Physical Review Letters (2021)
 </small>  
 </div>
 
@@ -74,13 +74,13 @@ These are some key questions that inform my research:<br>
 <br>
 [1] Noise Immunity in Quantum Optical Systems through Non-Hermitian Topology, arXiv:2503.11620 (2025) 
 <br>
-[2] Quantized Crystalline-Electromagnetic Responses in Insulators, Physical Review Letters 135, 256602 (2025)
+[2] Quantized Crystalline-Electromagnetic Responses in Insulators, Physical Review Letters (2025)
 <br>
-[3] Weyl Points on Non-Orientable Manifolds, Physical Review Letters 132, 266601 (2024)
+[3] Weyl Points on Non-Orientable Manifolds, Physical Review Letters (2024)
 <br>
-[4] Polarization and Weak Topology in Chern Insulators, Physical Review Letters 132, 116602 (2024)
+[4] Polarization and Weak Topology in Chern Insulators, Physical Review Letters (2024)
 <br>
-[5] Observation of a Charge-2 Photonic Weyl Point in the Infrared, Physical Review Letters 125, 253902 (2020)
+[5] Observation of a Charge-2 Photonic Weyl Point in the Infrared, Physical Review Letters (2020)
 </small>
 </div>
 
