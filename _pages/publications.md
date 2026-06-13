@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints
+[10] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
+Archer Wang, Joshua Chen, **Sachin Vaidya**, Marin Soljačić\
+arXiv:2606.09792 (2026)
+
 [9] [Non-Hermiticity-induced chirality imbalance of Weyl Landau levels](https://arxiv.org/abs/2606.00615)\
 **Sachin Vaidya†\***, Alaa Bayazeed\*, André Grossi Fonseca, Adolfo G. Grushin, Marin Soljačić, Christina Jörg\
 arXiv:2606.00615 (2026)
