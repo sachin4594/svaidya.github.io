@@ -9,29 +9,25 @@ author_profile: true
 {% endif %}
 
 ## Preprints
-[10] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
+[9] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
 Archer Wang, Joshua Chen, **Sachin Vaidya**, Marin Soljačić\
 arXiv:2606.09792 (2026)
 
-[9] [Non-Hermiticity-induced chirality imbalance of Weyl Landau levels](https://arxiv.org/abs/2606.00615)\
+[8] [Non-Hermiticity-induced chirality imbalance of Weyl Landau levels](https://arxiv.org/abs/2606.00615)\
 **Sachin Vaidya†\***, Alaa Bayazeed\*, André Grossi Fonseca, Adolfo G. Grushin, Marin Soljačić, Christina Jörg\
 arXiv:2606.00615 (2026)
 
-[8] [Supercollimating photonic crystal scintillators](https://arxiv.org/abs/2605.17006)\
+[7] [Supercollimating photonic crystal scintillators](https://arxiv.org/abs/2605.17006)\
 Seou Choi\*, **Sachin Vaidya†\***, Charles Roques-Carmes, Marin Soljačić\
 arXiv:2605.17006 (2026)
 
-[7] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://arxiv.org/abs/2605.14992)\
+[6] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://arxiv.org/abs/2605.14992)\
 Seou Choi, **Sachin Vaidya**, Avner Shultzman, Charles Roques-Carmes, Ido Kaminer, Marin Soljačić\
 arXiv:2605.14992 (2026)
 
-[6] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
+[5] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
 Kyle Linn\*, Megan Goh\*, **Sachin Vaidya†**, Christina Jörg, Mikael C. Rechtsman\
 arXiv:2603.22697 (2026)
-
-[5] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
-Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
-arXiv:2603.21496 (2026)
 
 [4] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
 Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
@@ -54,6 +50,10 @@ arXiv:2503.11620 (2025)
 ## Journal Publications
 
 ### 2026
+[23] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
+Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
+The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026)
+
 [22] [Symbolic Learning of Topological Bands in Photonic Crystals](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00098)\
 Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
 ACS Photonics (2026)
