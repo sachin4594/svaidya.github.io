@@ -8,6 +8,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## Submitted
+[2] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
+Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul Steinhardt, Salvatore Torquato, and Mikael C. Rechtsman
+
+[1] Magnetic Exciton-Based On-Chip Optical Attenuators\
+Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin
+
+
 ## Preprints
 [9] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
 Archer Wang, Joshua Chen, **Sachin Vaidya**, Marin Soljačić\
