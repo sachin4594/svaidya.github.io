@@ -17,6 +17,10 @@ Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Com
 
 
 ## Preprints
+[10] [CLUSTER: Derivative-free optimization of smooth functions with parameter-change costs](https://arxiv.org/abs/2606.20498)\
+Serena Landers, Sahil Pontula, Shiekh Zia Uddin, **Sachin Vaidya**, Marin Soljačić, Steven G. Johnson\
+arXiv:2606.20498 (2026)
+
 [9] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
 Archer Wang, Joshua Chen, **Sachin Vaidya**, Marin Soljačić\
 arXiv:2606.09792 (2026)
