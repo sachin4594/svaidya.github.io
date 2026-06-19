@@ -64,7 +64,7 @@ arXiv:2503.11620 (2025)
 ### 2026
 [23] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
-The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026)
+The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026) - _accepted_
 
 [22] [Symbolic Learning of Topological Bands in Photonic Crystals](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00098)\
 Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
