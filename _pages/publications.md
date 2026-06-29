@@ -17,33 +17,29 @@ Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Com
 
 
 ## Preprints
-[9] [CLUSTER: Derivative-free optimization of smooth functions with parameter-change costs](https://arxiv.org/abs/2606.20498)\
+[8] [CLUSTER: Derivative-free optimization of smooth functions with parameter-change costs](https://arxiv.org/abs/2606.20498)\
 Serena Landers, Sahil Pontula, Shiekh Zia Uddin, **Sachin Vaidya**, Marin Soljačić, Steven G. Johnson\
 arXiv:2606.20498 (2026)
 
-[8] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
+[7] [End-to-End Optimization of Incoherent Imaging for Classification Under Detector-Limited Readout](https://arxiv.org/abs/2606.09792)\
 Archer Wang, Joshua Chen, **Sachin Vaidya**, Marin Soljačić\
 arXiv:2606.09792 (2026)
 
-[7] [Non-Hermiticity-induced chirality imbalance of Weyl Landau levels](https://arxiv.org/abs/2606.00615)\
+[6] [Non-Hermiticity-induced chirality imbalance of Weyl Landau levels](https://arxiv.org/abs/2606.00615)\
 **Sachin Vaidya†\***, Alaa Bayazeed\*, André Grossi Fonseca, Adolfo G. Grushin, Marin Soljačić, Christina Jörg\
 arXiv:2606.00615 (2026)
 
-[6] [Supercollimating photonic crystal scintillators](https://arxiv.org/abs/2605.17006)\
+[5] [Supercollimating photonic crystal scintillators](https://arxiv.org/abs/2605.17006)\
 Seou Choi\*, **Sachin Vaidya†\***, Charles Roques-Carmes, Marin Soljačić\
 arXiv:2605.17006 (2026)
 
-[5] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://arxiv.org/abs/2605.14992)\
+[4] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://arxiv.org/abs/2605.14992)\
 Seou Choi, **Sachin Vaidya**, Avner Shultzman, Charles Roques-Carmes, Ido Kaminer, Marin Soljačić\
 arXiv:2605.14992 (2026)
 
-[4] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
+[3] [Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System](https://arxiv.org/abs/2603.22697)\
 Kyle Linn\*, Megan Goh\*, **Sachin Vaidya†**, Christina Jörg, Mikael C. Rechtsman\
 arXiv:2603.22697 (2026)
-
-[3] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
-Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
-arXiv:2512.01873 (2025)
 
 [2] [Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators](https://arxiv.org/abs/2509.10438)\
 André Grossi Fonseca\*, Eric Wang\*, **Sachin Vaidya**, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić\
@@ -58,13 +54,17 @@ arXiv:2503.11620 (2025)
 ## Journal Publications
 
 ### 2026
-[24] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
+[25] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
 The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026) - _accepted_
 
-[23] [AI-Driven Robotics for Optics](https://arxiv.org/abs/2505.17985)\
+[24] [AI-Driven Robotics for Optics](https://arxiv.org/abs/2505.17985)\
 Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
 Science Advances (2026) - _accepted_
+
+[23] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://arxiv.org/abs/2512.01873)\
+Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
+Physical Review B - _accepted_
 
 [22] [Symbolic Learning of Topological Bands in Photonic Crystals](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00098)\
 Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
