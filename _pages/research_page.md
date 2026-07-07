@@ -19,7 +19,7 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] KAN: Kolmogorov-Arnold Networks, ICLR (2025)
+[1] A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems, IROS (2026)
 <br>
 [2] AI-Driven Robotics for Optics, Science Advances (2026)
 <br>
@@ -27,7 +27,7 @@ Some key questions that inform my research:<br>
 <br>
 [4] Gradient-Based Search of Quantum Phases: Discovering Unconventional Fractional Chern Insulators, arXiv:2509.10438 (2025)
 <br>
-[5] A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems, IROS (2026)
+[5] KAN: Kolmogorov-Arnold Networks, ICLR (2025)
 <br>
 </small>
 </div>
