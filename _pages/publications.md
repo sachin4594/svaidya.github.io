@@ -17,6 +17,10 @@ Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Com
 
 
 ## Preprints
+[8] [Three-dimensional confinement of light in photonic crystals without bandgaps](https://arxiv.org/abs/2607.23281)\
+Manxi Shi\*, **Sachin Vaidya†\***, Ali Ghorashi, Steven G. Johnson, Marin Soljačić\
+arXiv:2607.23281 (2026)
+
 [7] [CLUSTER: Derivative-free optimization of smooth functions with parameter-change costs](https://arxiv.org/abs/2606.20498)\
 Serena Landers, Sahil Pontula, Shiekh Zia Uddin, **Sachin Vaidya**, Marin Soljačić, Steven G. Johnson\
 arXiv:2606.20498 (2026)
