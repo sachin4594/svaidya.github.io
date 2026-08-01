@@ -8,14 +8,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Submitted
-[2] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
-Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul Steinhardt, Salvatore Torquato, and Mikael C. Rechtsman
-
-[1] Magnetic Exciton-Based On-Chip Optical Attenuators\
-Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin
-
-
 ## Preprints
 [8] [Three-dimensional confinement of light in photonic crystals without bandgaps](https://arxiv.org/abs/2607.23281)\
 Manxi Shi\*, **Sachin Vaidya†\***, Ali Ghorashi, Steven G. Johnson, Marin Soljačić\
@@ -50,6 +42,13 @@ Jamison Sloan*, **Sachin Vaidya†\***, Nicholas Rivera, Marin Soljačić\
 arXiv:2503.11620 (2025)
 
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
+
+## Submitted
+[2] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
+Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul Steinhardt, Salvatore Torquato, and Mikael C. Rechtsman
+
+[1] Magnetic Exciton-Based On-Chip Optical Attenuators\
+Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin
 
 ## Journal Publications
 
