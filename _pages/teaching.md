@@ -18,6 +18,7 @@ In the spring of 2018, I was awarded the [Graduate Teaching Assistant Award](htt
 ## Mentorship
 I actively mentor undergraduate students, guiding them through research projects. Here are the students I have had the privilege of working with and the projects they have been a part of:
 
+- Jehyeon Shin, MIT, Exchange Student, Summer 2026-present
 - Caio Silva, MIT, UROP, Fall 2025-Summer 2026 ([Paper](https://arxiv.org/abs/2603.21496))
 - Luka Protulipac, MIT, Visiting Student, Summer 2025
 - Yichen (Sophie) Li, MIT, UROP, Fall 2024-Fall 2025, Summer 2026
