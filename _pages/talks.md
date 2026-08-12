@@ -63,7 +63,7 @@ APS Global Physics Summit (March 2026) | Denver, Colorado
 [Supercollimating photonic crystal scintillators](https://spie.org/photonics-west/presentation/Supercollimating-photonic-crystal-scintillators/13910-11)\
 SPIE Photonics West (January 2026) | San Francisco, California
 
-[AI-driven robotics for physics](https://iaifi.org/summer-workshop.html#speakers)\
+[AI-driven robotics for physics](https://iaifi.org/past-workshops.html)\
 NSF IAIFI Summer Workshop at Harvard University (August 2025) | Cambridge, Massachusetts
 
 [Volumetrically-Patterned Nanophotonic Scintillators](https://cleoconference.org/)\
