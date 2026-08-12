@@ -8,7 +8,7 @@ author_profile: true
 
 ## Invited talks
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
-CINT User Meeting (September 2026) | Santa Fe, New Mexico
+CINT User Meeting (September 2026) | Santa Fe, New Mexico - _upcoming_
 
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
 Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut\
@@ -54,6 +54,9 @@ Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
 
 ## Contributed talks
+[Supercollimating Photonic Crystal Scintillators](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/call-for-abstracts/view/2026-mrs-fall-meeting-exhibit/Symposium-EL07-Emerging-Materials-and-Fundamentals-for-Plasmonics--Nanophotonics-and-Metasurfaces)\
+MRS Fall Meeting (December 2026) | Boston, Massachusetts - _upcoming_
+
 [AI-driven robotics for optics](https://summit.aps.org/smt/2026/events/MAR-J20/2)\
 APS Global Physics Summit (March 2026) | Denver, Colorado
 
