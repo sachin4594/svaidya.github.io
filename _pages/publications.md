@@ -61,13 +61,13 @@ The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (
 Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
 Science Advances (2026)
 
-[24] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://pubs.acs.org/apchd5/article-abstract/doi/10.1021/acsphotonics.6c01422/5237066/Hybrid-Nanophotonic-Scintillators-for-Enhanced-X?redirectedFrom=fulltext)\
-Seou Choi, **Sachin Vaidya**, Avner Shultzman, Charles Roques-Carmes, Ido Kaminer, Marin Soljačić\
-ACS Photonics (2026)
-
-[23] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://journals.aps.org/prb/abstract/10.1103/qyj5-cd7k)\
+[24] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://journals.aps.org/prb/abstract/10.1103/qyj5-cd7k)\
 Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
 Physical Review B (2026)
+
+[23] [Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution](https://pubs.acs.org/apchd5/article-abstract/doi/10.1021/acsphotonics.6c01422/5237066/Hybrid-Nanophotonic-Scintillators-for-Enhanced-X?redirectedFrom=fulltext)\
+Seou Choi, **Sachin Vaidya**, Avner Shultzman, Charles Roques-Carmes, Ido Kaminer, Marin Soljačić\
+ACS Photonics (2026)
 
 [22] [Symbolic Learning of Topological Bands in Photonic Crystals](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00098)\
 Ali Ghorashi*, **Sachin Vaidya†\***, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić\
