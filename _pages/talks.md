@@ -10,6 +10,10 @@ author_profile: true
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
 CINT User Meeting (September 2026) | Santa Fe, New Mexico - _upcoming_
 
+[Emerging Paradigms in Topological Quantum and Photonic Matter](https://www.physics.nus.edu.sg/colloquium-2026-sep-sachin-vaidya/)\
+Physics Colloquium at NUS Singapore (September 2026) | Virtual - _upcoming_\
+Host: Prof. Ching Hua Lee
+
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/events-archive)\
 Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut\
 Host: Prof. A. Douglas Stone
@@ -33,7 +37,7 @@ Host: Prof. Christina Jörg
 Interpretable AI and robotics for photonics\
 Host: Prof. Mohammad Hafezi at University of Maryland (May 2025) |  College Park, Maryland
 
-[Interpretable AI for physics and photonics applications](https://spie.org/photonics-west/presentation/Interpretable-AI-for-physics-and-photonics/13375-76#_=_)\
+[Interpretable AI for physics and photonics applications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13375/3043262/Interpretable-AI-and-robotics-for-physics-and-photonics/10.1117/12.3043262.full)\
 SPIE Photonics West (January 2025) | San Francisco, California
 
 [Topological treks through non-orientable spaces and noisy landscapes](https://physics.emory.edu/news/index.html?trumbaEmbed=view%3Devent%26eventid%3D178790409)\
@@ -45,7 +49,7 @@ CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, Ne
 Host: Dr. Alexander Cerjan
 
 Emerging paradigms in nanophotonics\
-Host: Prof. Boubacar Kanté and Prof. Eli Yablonovitch at UC Berkeley (October 2024) | Berkeley, California
+Hosts: Prof. Boubacar Kanté and Prof. Eli Yablonovitch at UC Berkeley (October 2024) | Berkeley, California
 
 Advances in topological insulators and semimetals\
 Host: Prof. Shanhui Fan at Stanford University (June 2024) | Stanford, California
