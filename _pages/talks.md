@@ -10,7 +10,7 @@ author_profile: true
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
 CINT User Meeting (September 2026) | Santa Fe, New Mexico - _upcoming_
 
-[Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/event/yqi-talk-sachin-vaidya-mit)\
+[Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/events-archive)\
 Yale Quantum Institute (YQI) talk at Yale University (April 2026) | New Haven, Connecticut\
 Host: Prof. A. Douglas Stone
 
