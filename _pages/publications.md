@@ -79,7 +79,7 @@ ACS Photonics (2026)
 
 [20] [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties](https://www.nature.com/articles/s41377-025-02166-5)\
 Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
-Light: Science & Applications (2025)
+Light: Science & Applications (2026)
 
 [19] [Exceptional Topology on Nonorientable Manifolds](https://journals.aps.org/prresearch/abstract/10.1103/g5cr-dwxz)\
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
