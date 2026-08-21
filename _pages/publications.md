@@ -77,18 +77,18 @@ ACS Photonics (2026)
 Joshua Chen, **Sachin Vaidya**, Simo Pajovic, Seou Choi, William Michaels, Louis Martin-Monier, Juejun Hu, Carol Cogswell, Charles Roques-Carmes, Marin Soljačić\
 ACS Photonics (2026)
 
-[20] [Exceptional Topology on Nonorientable Manifolds](https://journals.aps.org/prresearch/abstract/10.1103/g5cr-dwxz)\
+[20] [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties](https://www.nature.com/articles/s41377-025-02166-5)\
+Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
+Light: Science & Applications (2025)
+
+[19] [Exceptional Topology on Nonorientable Manifolds](https://journals.aps.org/prresearch/abstract/10.1103/g5cr-dwxz)\
 J. Lukas K. König\*, Kang Yang\*, André Grossi Fonseca, **Sachin Vaidya**, Marin Soljačić, Emil J. Bergholtz\
 Physical Review Research (2026)
 
 ### 2025
-[19] [Quantized crystalline-electromagnetic responses in insulators](https://journals.aps.org/prl/abstract/10.1103/5nsr-rw4d)\
+[18] [Quantized crystalline-electromagnetic responses in insulators](https://journals.aps.org/prl/abstract/10.1103/5nsr-rw4d)\
 **Sachin Vaidya†\***, André Grossi Fonseca\*, Mark R. Hirsbrunner, Taylor L. Hughes, Marin Soljačić\
 Physical Review Letters (2025) - *Editors' Suggestion*
-
-[18] [Three-Dimensional Nanophotonics with Spatially Modulated Optical Properties](https://www.nature.com/articles/s41377-025-02166-5)\
-Yannick Salamin, Gaojie Yang, Brian Mills, André Grossi Fonseca, Charles Roques-Carmes, Quansan Yang, Justin Beroz, Steven Kooi, Marc de Miguel Comella, Kiran Mak, **Sachin Vaidya**, Daniel Oran, Corban Swain, Yi Sun, Shai Maayani, Jamison Sloan, Amel Amin Elfadil Elawad, Josue Lopez, Edward Boyden, and Marin Soljačić\
-Light: Science & Applications (2025)
 
 [17] [Classification of Fragile Topology Enabled by Matrix Homotopy](https://journals.aps.org/prresearch/abstract/10.1103/5rqd-bp11)\
 Ki Young Lee, Stephan Wong, **Sachin Vaidya**, Terry A. Loring, Alexander Cerjan\
