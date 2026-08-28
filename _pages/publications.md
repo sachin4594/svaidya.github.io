@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints
+[9] [Nanophotonic control of spatial information in scintillation detectors](https://arxiv.org/abs/2608.25294)\
+Joshua Chen, Simo Pajovic, Seou Choi, **Sachin Vaidya**, William Michaels, Louis Martin-Monier, Christina M. Spägele, Steven E. Kooi, Juejun Hu, Rajiv Gupta, Charles Roques-Carmes, Marin Soljačić\
+arXiv:2608.25294 (2026) 
+
 [8] [Three-dimensional confinement of light in photonic crystals without bandgaps](https://arxiv.org/abs/2607.23281)\
 Manxi Shi\*, **Sachin Vaidya†\***, Ali Ghorashi, Steven G. Johnson, Marin Soljačić\
 arXiv:2607.23281 (2026)
