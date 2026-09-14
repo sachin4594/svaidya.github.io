@@ -8,10 +8,10 @@ author_profile: true
 
 ## Invited talks
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
-CINT User Meeting (September 2026) | Santa Fe, New Mexico - _upcoming_
+CINT User Meeting (September 2026) | Santa Fe, New Mexico
 
 [Emerging Paradigms in Topological Quantum and Photonic Matter](https://www.physics.nus.edu.sg/colloquium-2026-sep-sachin-vaidya/)\
-Physics Colloquium at NUS Singapore (September 2026) | Virtual - _upcoming_\
+Physics Colloquium at NUS Singapore (September 2026) | Virtual
 Host: Prof. Ching Hua Lee
 
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://quantuminstitute.yale.edu/events-archive)\
