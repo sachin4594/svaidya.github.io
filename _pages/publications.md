@@ -9,6 +9,11 @@ author_profile: true
 {% endif %}
 
 ## Preprints
+[10] [A Programmable Optics Cloud Laboratory](https://arxiv.org/abs/2609.16413)\
+**Sachin Vaidya†\***, Caio Silva\*, Seou Choi\*, Joshua Chen, Marin Soljačić\
+arXiv:2609.16413 (2026)
+
+
 [9] [Nanophotonic control of spatial information in scintillation detectors](https://arxiv.org/abs/2608.25294)\
 Joshua Chen, Simo Pajovic, Seou Choi, **Sachin Vaidya**, William Michaels, Louis Martin-Monier, Christina M. Spägele, Steven E. Kooi, Juejun Hu, Rajiv Gupta, Charles Roques-Carmes, Marin Soljačić\
 arXiv:2608.25294 (2026) 
