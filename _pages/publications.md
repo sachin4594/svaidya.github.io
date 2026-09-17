@@ -64,7 +64,7 @@ Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Com
 ### 2026
 [26] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
-The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026) - _accepted_
+The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026) - [*MIT News*](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)
 
 [25] [AI-Driven Robotics for Optics](https://www.science.org/doi/10.1126/sciadv.aee1381)\
 Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
