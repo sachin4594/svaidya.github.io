@@ -7,6 +7,10 @@ author_profile: true
 <img align="center" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/talk_photo.jpeg" width="700" style="margin: 20px">
 
 ## Invited talks
+[Title TBD]()\
+Condensed matter theory seminar at University of California, Santa Cruz (October 2026) | Santa Cruz, California - _upcoming_\
+Host: Prof. Aiming Yan
+
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
 CINT User Meeting (September 2026) | Santa Fe, New Mexico
 
