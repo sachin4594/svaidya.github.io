@@ -68,7 +68,7 @@ The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (
 
 [25] [AI-Driven Robotics for Optics](https://www.science.org/doi/10.1126/sciadv.aee1381)\
 Shiekh Zia Uddin*, **Sachin Vaidya†\***, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić\
-Science Advances (2026)
+Science Advances (2026) - [*MIT (MGAIC) interview*](https://genai.mit.edu/2026/09/24/making-mgaic-with-sachin-vaidya/)
 
 [24] [Refining Heuristic Predictors of Fractional Chern Insulators using Machine Learning](https://journals.aps.org/prb/abstract/10.1103/qyj5-cd7k)\
 Oriol Mayné i Comas\*, André Grossi Fonseca\*, **Sachin Vaidya†**, Marin Soljačić\
