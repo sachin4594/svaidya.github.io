@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints
+[11][Vision-Language Agents for Active Perception in Optics Laboratories](https://arxiv.org/abs/2609.32918)\
+Ryan Lopez*\, **Sachin Vaidya†\***, Seou Choi, Serena Landers, Marin Soljačić
+arXiv:2609.32918 (2026)
+
 [10] [A Programmable Optics Cloud Laboratory](https://arxiv.org/abs/2609.16413)\
 **Sachin Vaidya†\***, Caio Silva\*, Seou Choi\*, Joshua Chen, Marin Soljačić\
 arXiv:2609.16413 (2026)
