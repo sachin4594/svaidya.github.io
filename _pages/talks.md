@@ -41,9 +41,6 @@ Interpretable AI and robotics for photonics\
 Quantum computing for artificial intelligence (QC-AI) Seminar at RPTU Kaiserslautern-Landau (June 2025) | Virtual Conference\
 Host: Prof. Christina Jörg
 
-Interpretable AI and robotics for photonics\
-Host: Prof. Mohammad Hafezi at University of Maryland (May 2025) |  College Park, Maryland
-
 [Interpretable AI for physics and photonics applications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13375/3043262/Interpretable-AI-and-robotics-for-physics-and-photonics/10.1117/12.3043262.full)\
 SPIE Photonics West (January 2025) | San Francisco, California
 
@@ -54,12 +51,6 @@ Host: Prof. Wladimir Benalcazar
 Frontiers in nanophotonics, quantum optics, and interpretable AI for physics\
 CINT colloquium at Sandia National Laboratories (October 2024) | Albuquerque, New Mexico\
 Host: Dr. Alexander Cerjan
-
-Emerging paradigms in nanophotonics\
-Hosts: Prof. Boubacar Kanté and Prof. Eli Yablonovitch at UC Berkeley (October 2024) | Berkeley, California
-
-Advances in topological insulators and semimetals\
-Host: Prof. Shanhui Fan at Stanford University (June 2024) | Stanford, California
 
 Topological photonic crystals in one, two and three dimensions\
 Host: Prof. Marin Soljačić at MIT (October 2022) | Cambridge, Massachusetts
