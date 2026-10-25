@@ -8,7 +8,7 @@ author_profile: true
 
 ## Invited talks
 [Title TBD](https://www.ofcconference.org/program/special-events/workshop-ai-for-science-(ai4s)-in-context-of-optical-fiber-communications/)\
-AI for Science Workshop at OFC 2027 (March 2027) | Los Angeles, California - _upcoming_
+AI for Science Workshop at OFC (March 2027) | Los Angeles, California - _upcoming_
 
 [A programmable optics cloud laboratory](https://spie.org/photonics-west/presentation/A-programmable-optics-cloud-laboratory/14474-12)\
 SPIE Photonics West (February 2027) | San Francisco, California - _upcoming_
