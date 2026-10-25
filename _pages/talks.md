@@ -7,11 +7,14 @@ author_profile: true
 <img align="center" img src="https://raw.githubusercontent.com/sachin4594/svaidya.github.io/master/images/talk_photo.jpeg" width="700" style="margin: 20px">
 
 ## Invited talks
+[Title TBD](https://www.ofcconference.org/program/special-events/workshop-ai-for-science-(ai4s)-in-context-of-optical-fiber-communications/)\
+AI for Science Workshop at OFC 2027 (March 2027) | Los Angeles, California - _upcoming_
+
 [A programmable optics cloud laboratory](https://spie.org/photonics-west/presentation/A-programmable-optics-cloud-laboratory/14474-12)\
 SPIE Photonics West (February 2027) | San Francisco, California - _upcoming_
 
 A Weyl'd story about chirality\
-Condensed matter theory seminar at University of California, Santa Cruz (October 2026) | Santa Cruz, California - _upcoming_\
+Condensed matter theory seminar at University of California, Santa Cruz (October 2026) | Santa Cruz, California
 
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
 CINT User Meeting (September 2026) | Santa Fe, New Mexico
