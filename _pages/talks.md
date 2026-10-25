@@ -12,7 +12,6 @@ SPIE Photonics West (February 2027) | San Francisco, California - _upcoming_
 
 A Weyl'd story about chirality\
 Condensed matter theory seminar at University of California, Santa Cruz (October 2026) | Santa Cruz, California - _upcoming_\
-Host: Prof. Aiming Yan
 
 [Overcoming Bottlenecks in Physics with Interpretable AI and Robotics](https://cint.lanl.gov/user-resources/annual-user-mtg.shtml)\
 CINT User Meeting (September 2026) | Santa Fe, New Mexico
