@@ -65,7 +65,7 @@ Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul St
 ### 2026
 [27] Magnetic Exciton-Based On-Chip Optical Attenuators\
 Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin\
-Nano Letters - _accepted_
+Nano Letters (2026) - _accepted_
 
 [26] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
