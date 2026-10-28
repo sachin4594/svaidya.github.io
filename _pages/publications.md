@@ -17,7 +17,6 @@ arXiv:2609.32918 (2026)
 **Sachin Vaidya†\***, Caio Silva\*, Seou Choi\*, Joshua Chen, Marin Soljačić\
 arXiv:2609.16413 (2026)
 
-
 [9] [Nanophotonic control of spatial information in scintillation detectors](https://arxiv.org/abs/2608.25294)\
 Joshua Chen, Simo Pajovic, Seou Choi, **Sachin Vaidya**, William Michaels, Louis Martin-Monier, Christina M. Spägele, Steven E. Kooi, Juejun Hu, Rajiv Gupta, Charles Roques-Carmes, Marin Soljačić\
 arXiv:2608.25294 (2026) 
@@ -56,13 +55,13 @@ arXiv:2503.11620 (2025)
 
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
 
-## Submitted
-[1] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
-Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul Steinhardt, Salvatore Torquato, and Mikael C. Rechtsman
-
 ## Journal Publications
 
 ### 2026
+[28] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
+Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul Steinhardt, Salvatore Torquato, and Mikael C. Rechtsman\
+Advanced Optical Materials (2026) - _accepted_
+
 [27] Magnetic Exciton-Based On-Chip Optical Attenuators\
 Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin\
 Nano Letters (2026) - _accepted_
