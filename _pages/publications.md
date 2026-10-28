@@ -57,15 +57,16 @@ arXiv:2503.11620 (2025)
 <div style="text-align: right"> * equal contribution, † corresponding author </div>
 
 ## Submitted
-[2] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
+[1] Transparency in a one-dimensional disordered stealthy-hyperuniform photonic medium\
 Kyle Linn, Jonas Karcher, **Sachin Vaidya**, Christina Jörg, Jaeuk Kim, Paul Steinhardt, Salvatore Torquato, and Mikael C. Rechtsman
-
-[1] Magnetic Exciton-Based On-Chip Optical Attenuators\
-Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin
 
 ## Journal Publications
 
 ### 2026
+[27] Magnetic Exciton-Based On-Chip Optical Attenuators\
+Ahmet Kemal Demir, Luca Nessi, **Sachin Vaidya**, Marin Soljačić, Riccardo Comin\
+Nano Letters - _accepted_
+
 [26] [A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems](https://arxiv.org/abs/2603.21496)\
 Seou Choi\*, **Sachin Vaidya†\***, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić\
 The IEEE/RSJ International Conference on Intelligent Robots and Systems - IROS (2026) - [*MIT News*](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)
