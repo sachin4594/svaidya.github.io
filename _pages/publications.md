@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 
 ## Preprints
+[12] [Volumetric Nanophotonics for Enhanced Scintillation and Remote Light Outcoupling](https://arxiv.org/abs/2610.39079)\
+Simo Pajovic\*, Marius Jürgensen\*, **Sachin Vaidya**, Johnathon P. Gales, Joshua Chen, Steven E. Kooi, Sion Richards, Isabel H. B. Braddock, Karen Mamian, William Michaels, Shaul Katznelson, Chris D. Armstrong, Ido Kaminer, Marin Soljačić, Mikael C. Rechtsman, Charles Roques-Carmes\
+arXiv:2610.39079 (2026)
+
 [11] [Vision-Language Agents for Active Perception in Optics Laboratories](https://arxiv.org/abs/2609.32918)\
 Ryan Lopez\*, **Sachin Vaidya†\***, Seou Choi, Serena Landers, Marin Soljačić\
 arXiv:2609.32918 (2026)
