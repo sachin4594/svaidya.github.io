@@ -19,13 +19,13 @@ Some key questions that inform my research:<br>
 <small>
 <b>References:</b>
 <br>
-[1] <a href="https://arxiv.org/abs/2603.21496">A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems</a>, IROS (2026)
+[1] <a href="https://arxiv.org/abs/2609.32918">Vision-Language Agents for Active Perception in Optics Laboratories</a>, arXiv:2609.32918 (2026)
 <br>
-[2] <a href="https://www.science.org/doi/10.1126/sciadv.aee1381">AI-Driven Robotics for Optics</a>, Science Advances (2026)
+[2] <a href="https://arxiv.org/abs/2609.16413">A Programmable Optics Cloud Laboratory</a>, arXiv:2609.16413 (2026)
 <br>
-[3] <a href="https://pubs.acs.org/apchd5/article-abstract/13/9/2572/5069811/Symbolic-Learning-of-Topological-Bands-in-Photonic?redirectedFrom=fulltext">Symbolic Learning of Topological Bands in Photonic Crystals</a>, ACS Photonics (2026)
+[3] <a href="https://arxiv.org/abs/2603.21496">A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems</a>, IROS (2026)
 <br>
-[4] <a href="https://arxiv.org/abs/2509.10438">Gradient-Based Search of Quantum Phases: Discovering Unconventional Fractional Chern Insulators</a>, arXiv:2509.10438 (2025)
+[4] <a href="https://www.science.org/doi/10.1126/sciadv.aee1381">AI-Driven Robotics for Optics</a>, Science Advances (2026)
 <br>
 [5] <a href="https://arxiv.org/abs/2404.19756">KAN: Kolmogorov-Arnold Networks</a>, ICLR (2025)
 <br>
