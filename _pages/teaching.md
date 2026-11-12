@@ -39,7 +39,7 @@ I actively mentor undergraduate students, guiding them through research projects
 - Alison Weiss, Amherst College, REU, Summer 2020 and 2021 ([Conference Presentation](https://meetings.aps.org/Meeting/CUWIP22/Session/A01.47))
 
 ## Professional Service
-I frequently serve as a referee for the following journals:
+I frequently serve as a referee for the following physics, photonics and AI venues:
 
 - APS: Physical Review Letters, Physical Review X, Physical Review A, Physical Review B, Physical Review Applied, Physical Review Research
 - Nature Publishing Group: Nature Physics, Nature Communications, Communications Physics
